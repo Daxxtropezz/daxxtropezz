@@ -7,10 +7,8 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz" /> </p>
 
-- 🌱 I’m currently learning **Backend development, Oracle**
-
-- 📫 Email me at **miraflores.john@gmail.com**
-
+- 🌱 I’m currently learning **Backend development, Oracle**<br>
+- 📫 Email me at **miraflores.john@gmail.com**<br>
 - 📄 Know about my experiences [daxxtropezz.github.io](daxxtropezz.github.io)
 
 <br>
