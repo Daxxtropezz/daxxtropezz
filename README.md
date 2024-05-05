@@ -3,8 +3,10 @@
 <details>
   <summary>:zap: Github Stats</summary>
     <div align"center" style="margin: 10px">
-<!--       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" /> -->
-      <center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" /></center>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
+    </div>
+    <div align"center" style="margin: 10px">
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
     </div>
 </details>
 <p align="center" style="padding: 30px">
