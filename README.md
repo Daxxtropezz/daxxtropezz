@@ -21,7 +21,11 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz" />
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Wake%20Up%20to%20Reality&style=style=flat&color=0f468a" alt="Star Badge"/>
+</p>
 
 - 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br>
 - 📫 Email me at **miraflores.john@gmail.com**<br>
