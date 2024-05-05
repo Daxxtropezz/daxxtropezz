@@ -13,7 +13,7 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
 
 - 🌱 I’m currently learning **Backend development, Oracle**<br>
 - 📫 Email me at **miraflores.john@gmail.com**<br>
-- 📄 Know about my experiences [daxxtropezz.github.io](daxxtropezz.github.io)
+- 📄 Know about my experiences by visiting [daxxtropezz.github.io](daxxtropezz.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
