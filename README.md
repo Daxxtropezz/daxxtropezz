@@ -1,4 +1,4 @@
-[![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)](https://daxxtropezz.github.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io)
 <h1 align="center">Hallo, I'm Daxxtropezz</h1>
 <p align="center" style="padding: 30px">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
