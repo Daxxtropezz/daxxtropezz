@@ -1,10 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io)
 <h1 align="center">Hallo, I'm Daxxtropezz</h1>
-<p align="center" style="padding: 30px">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" />
-  </a>
-</p>
 <details>
   <summary>:zap: Github Stats</summary>
     <div align"center">
@@ -12,6 +7,11 @@
       <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
     </div>
 </details>
+<p align="center" style="padding: 30px">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" />
+  </a>
+</p>
 
 ### Greetings! You can call me by my full name, John Paul Miraflores. I'm a passionate front-end developer from the Philippines, driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!
 
