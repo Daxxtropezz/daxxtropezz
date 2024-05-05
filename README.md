@@ -1,5 +1,10 @@
 [![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)](https://daxxtropezz.github.io)
 <h1 align="center">Hallo, I'm Daxxtropezz</h1>
+<p align="center" style="padding: 30px">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" />
+  </a>
+</p>
 <h3 align="center">
 Greetings! You can call me by my full name, John Paul Miraflores. I'm a passionate front-end developer from the Philippines, driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
@@ -10,14 +15,6 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
 - 🌱 I’m currently learning **Backend development, Oracle**<br>
 - 📫 Email me at **miraflores.john@gmail.com**<br>
 - 📄 Know about my experiences [daxxtropezz.github.io](daxxtropezz.github.io)
-
-<br>
-
-<p align="center" style="padding: 30px">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" />
-  </a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
