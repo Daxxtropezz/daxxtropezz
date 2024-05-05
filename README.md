@@ -8,6 +8,14 @@
 <h3 align="center">
 Greetings! You can call me by my full name, John Paul Miraflores. I'm a passionate front-end developer from the Philippines, driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!</h3>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+    <div align"center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
+      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
+    </div>
+</details>
+
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz" /> </p>
 
@@ -29,11 +37,3 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/daxxtropezz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daxxtropezz" /></a><a href="https://ko-fi.com/daxxtropezz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="daxxtropezz" /></a></p><br><br>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-    <div align"center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
-      <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
-    </div>
-</details>
