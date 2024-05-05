@@ -6,6 +6,7 @@
     <div align "center" style="margin: 10px">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
     </div>
+    <br>
     <div align "center" style="margin: 10px">
         <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
     </div>
@@ -30,7 +31,9 @@ Let's embark on this journey together, crafting extraordinary digital experience
     <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Wake%20Up%20to%20Reality&style=style=flat&color=0f468a" alt="Star Badge" />
 </p>
 
-- 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br> - 📫 Email me at **miraflores.john@gmail.com**<br> - 📄 Know about my experiences by visiting [daxxtropezz.github.io](daxxtropezz.github.io)
+- 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br>
+- 📫 Email me at **miraflores.john@gmail.com**<br>
+- 📄 Know about my experiences by visiting [daxxtropezz.github.io](daxxtropezz.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
