@@ -35,5 +35,6 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" /></p>
 </div>
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io){:height="400px" width="800px"}
-
+<a href="https://daxxtropezz.github.io">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif" alt="MasterHead" style="height:400px; width:800px;">
+</a>
