@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io)
-<h1 align="center">Hallo, I'm Daxxtropezz</h1>
+<h1 align="center">Hallo, I'm Daxxtropezz!</h1>
 
 <details>
     <summary>:zap: Github Stats</summary>
