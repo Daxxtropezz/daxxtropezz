@@ -7,13 +7,13 @@ Hello! I'm a passionate front-end developer from the Philippines, driven to crea
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" /></a> </p>
-
 - 🌱 I’m currently learning **Backend development, Oracle**
 
 - 📫 Email me at **miraflores.john@gmail.com**
 
 - 📄 Know about my experiences [daxxtropezz.github.io](daxxtropezz.github.io)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
