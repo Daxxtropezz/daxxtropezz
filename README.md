@@ -36,5 +36,5 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
 </div>
 
 <a href="https://daxxtropezz.github.io">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif" alt="MasterHead" style="height:300px;">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif" alt="MasterHead" style="width: 100%; height:300px;">
 </a>
