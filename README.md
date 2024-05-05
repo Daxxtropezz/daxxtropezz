@@ -34,4 +34,4 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" /></p>
   <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" /></p>
 </div>
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io){:height="500px" width="800px"}
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)
