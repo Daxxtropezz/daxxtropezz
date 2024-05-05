@@ -87,5 +87,5 @@
 <h3 align="left">Support me:</h3>
 <p>
     <a href="https://www.buymeacoffee.com/daxxtropezz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="daxxtropezz" /></a>
-    <a href="https://ko-fi.com/daxxtropezz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="daxxtropezz" /></a>
+<!--     <a href="https://ko-fi.com/daxxtropezz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="daxxtropezz" /></a> -->
 </p><br>
