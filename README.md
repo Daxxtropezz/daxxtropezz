@@ -11,8 +11,11 @@ Greetings! You can call me by my full name, John Paul Miraflores. I'm a passiona
 - 📫 Email me at **miraflores.john@gmail.com**<br>
 - 📄 Know about my experiences [daxxtropezz.github.io](daxxtropezz.github.io)
 
-<br>
-<p align="center" style="padding: 30px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" /></a> </p>
+<p align="center" style="padding: 30px">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
