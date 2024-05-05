@@ -12,7 +12,7 @@
       <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
     </div>
 </details>
-###
+
 ### Greetings! You can call me by my full name, John Paul Miraflores. I'm a passionate front-end developer from the Philippines, driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!
 
 
