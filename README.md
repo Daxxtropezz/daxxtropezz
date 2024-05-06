@@ -14,7 +14,7 @@
 
 <p align="center" style="padding: 30px">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz" alt="daxxtropezz" />
+        <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula" alt="daxxtropezz" />
     </a>
 </p>
 
