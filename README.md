@@ -1,5 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io)
-<h1 align="center">Hallo, I'm Daxxtropezz!</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Anurati&weight=500&size=23&pause=1000&color=8B0CF7F6&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
+</h1>
 
 <details>
     <summary>:zap: Github Stats</summary>
