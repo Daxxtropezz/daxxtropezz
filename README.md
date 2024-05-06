@@ -6,14 +6,14 @@
 
 <details>
     <summary>:zap: Github Stats</summary>
-    <div align "center" style="margin: 10px">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
-    </div>
-    <br>
-    <div align "center" style="margin: 10px">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
+    <div align=center>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
+      <br/>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
     </div>
 </details>
+
+<hr/>
 
 <p align="center" style="padding: 30px">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -21,8 +21,11 @@
     </a>
 </p>
 
+<hr/>
+
 ### Greetings! You can call me by my full name, John Paul Miraflores. I'm a passionate front-end developer from the Philippines, driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!
 
+<hr/>
 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
 <p align="left">
