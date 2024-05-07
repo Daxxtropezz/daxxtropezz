@@ -34,7 +34,7 @@
     <tr>
         <td>
             <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,php,python&perline=5" alt="daxxtropezz" />
-            <h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,pug,sass,babel,tailwind&perline=5" alt="daxxtropezz" />
+            <h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,pug,sass,babel,tailwind,materialui,codepen&perline=5" alt="daxxtropezz" />
             <h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,graphql,nginx,nestjs&perline=5" alt="daxxtropezz" />
             <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
             <h4>Databases</h4>
