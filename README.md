@@ -92,9 +92,14 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <!-- COL -->
 
-<!-- Footer -->
-<h3 align="left">Support me:</h3>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<!-- Footer -->  
+<p align="center">
+    <img src="https://github.com/images/modules/search/light.png" alt="daxxtropezz" width="40%" />
+    <br>
+    <h4 align="center">
+        Support me:
+    </h4>
+</p>
 <div align="center">
     <a href="https://ko-fi.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='daxxtropezz' /></a>
     <a href="https://www.buymeacoffee.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-blue.png' border='0' alt='daxxtropezz' /></a> 
