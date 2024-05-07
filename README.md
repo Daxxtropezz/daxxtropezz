@@ -30,9 +30,9 @@
 ## Languages and Tools:
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=darcula&title_color=8f24d6&text_color=0065b3&bg_color=1f1f24&locale=en&layout=compact" alt="daxxtropezz" /> 
-    <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,php,python" alt="daxxtropezz" />
-    <h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,pug,sass,babel,tailwind" alt="daxxtropezz" />
-    <h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,graphql,nginx,nestjs" alt="daxxtropezz" />
+    <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,php,python&perline=5" alt="daxxtropezz" />
+    <h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,pug,sass,babel,tailwind&perline=5" alt="daxxtropezz" />
+    <h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,graphql,nginx,nestjs&perline=5" alt="daxxtropezz" />
     <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
     <h4>Databases</h4>
         <div>
