@@ -28,36 +28,39 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## Languages and Tools:
-<table width="100%" align="center">
-<tr>
-    <td>
-        <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,php,python&perline=5" alt="daxxtropezz" />
-        <h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,pug,sass,babel,tailwind&perline=5" alt="daxxtropezz" />
-        <h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,graphql,nginx,nestjs&perline=5" alt="daxxtropezz" />
-        <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
-        <h4>Databases</h4>
-        <div>
-            <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="daxxtropezz" />
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-            <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-        </div>
-        <h4>DevOps</h4><img src="https://skillicons.dev/icons?i=aws,docker,gcp" alt="daxxtropezz" />        
-    </td>
-    <td>
-        <h4>Backend as a Service (BaaS)</h4><img src="https://skillicons.dev/icons?i=firebase" alt="daxxtropezz" />
-        <h4>Data Visualization</h4>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=darcula&title_color=8f24d6&text_color=0065b3&bg_color=1f1f24&locale=en&layout=compact" alt="daxxtropezz" /> 
+    <table width="100%" align="center">
+    <tr>
+        <td>
+            <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,php,python&perline=5" alt="daxxtropezz" />
+            <h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,angular,bootstrap,css,html,pug,sass,babel,tailwind&perline=5" alt="daxxtropezz" />
+            <h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,graphql,nginx,nestjs&perline=5" alt="daxxtropezz" />
+            <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
+            <h4>Databases</h4>
             <div>
-                <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
-                <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />    
+                <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="daxxtropezz" />
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+                <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
             </div>
-        <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=laravel,dotnet" alt="daxxtropezz" />
-        <h4>Softwares</h4><img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,postman" alt="daxxtropezz" />
-        <h4>Static Site Generators</h4><img src="https://skillicons.dev/icons?i=nextjs" alt="daxxtropezz" />
-        <h4>Game Engines</h4><img src="https://skillicons.dev/icons?i=unity" alt="daxxtropezz" />
-        <h4>Others</h4><img src="https://skillicons.dev/icons?i=linux,git,anaconda,bitbucket,eclipse,sublime,vscode,visualstudio,ubuntu,wordpress,notion&perline=5" alt="daxxtropezz" />
-    </td>
-</tr>
-</table>
+            <h4>DevOps</h4><img src="https://skillicons.dev/icons?i=aws,docker,gcp" alt="daxxtropezz" />        
+        </td>
+        <td>
+            <h4>Backend as a Service (BaaS)</h4><img src="https://skillicons.dev/icons?i=firebase" alt="daxxtropezz" />
+            <h4>Data Visualization</h4>
+                <div>
+                    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
+                    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />    
+                </div>
+            <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=laravel,dotnet" alt="daxxtropezz" />
+            <h4>Softwares</h4><img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,postman" alt="daxxtropezz" />
+            <h4>Static Site Generators</h4><img src="https://skillicons.dev/icons?i=nextjs" alt="daxxtropezz" />
+            <h4>Game Engines</h4><img src="https://skillicons.dev/icons?i=unity" alt="daxxtropezz" />
+            <h4>Others</h4><img src="https://skillicons.dev/icons?i=linux,git,anaconda,bitbucket,eclipse,sublime,vscode,visualstudio,ubuntu,wordpress,notion&perline=5" alt="daxxtropezz" />
+        </td>
+    </tr>
+    </table>
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## Activity On GitHub
