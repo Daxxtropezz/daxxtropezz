@@ -1,20 +1,22 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io)
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">
-    <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Anurati&weight=500&size=23&pause=1000&color=8B0CF7F6&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
 </h1>
 
+[![Daxxtropezz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula)]
+
 <div align=center>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=darcula&title_color=8f24d6&text_color=0065b3&bg_color=1f1f24&locale=en&layout=compact" alt="daxxtropezz" />
-    <br/><hr/>
+    <br/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=darcula" alt="daxxtropezz" />
 </div>
 
 <hr/>
 
 <div align="center" style="padding: 30px">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <a href="https://daxxtropezz.github.io" align="center">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />
     </a>
 </div>
@@ -39,15 +41,16 @@
     </p>
             
 - 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br>
-- 📫 Email me at **miraflores.john@gmail.com**<br>
+- 📫 Email me now <a href="mailto:miraflores.john@gmail.com">Daxxtropezz</a>
 - 📄 Know about my experiences by visiting [daxxtropezz.github.io](https://daxxtropezz.github.io)
 </div>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daxxtropezz" height="30" width="40" /></a>
-    <a href="https://twitter.com/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daxxtropezz" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daxxtropezz" height="30" width="40" /></a>
+<!--     <a href="https://codepen.io/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="daxxtropezz" height="30" width="40" /></a> -->
+<!--     <a href="https://twitter.com/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daxxtropezz" height="30" width="40" /></a> -->
     <a href="https://stackoverflow.com/users/21004406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21004406" height="30" width="40" /></a>
     <a href="https://fb.com/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daxxtropezz" height="30" width="40" /></a>
     <a href="https://instagram.com/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daxxtropezz" height="30" width="40" /></a>
