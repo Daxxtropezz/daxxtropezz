@@ -29,7 +29,7 @@
 
 ## Languages and Tools:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=darcula&title_color=8f24d6&text_color=0065b3&bg_color=1f1f24&locale=en&layout=compact" alt="daxxtropezz" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daxxtropezz" /> 
     <table width="100%" align="center">
     <tr>
         <td>
@@ -65,7 +65,7 @@
 
 ## Activity On GitHub
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=darcula" alt="daxxtropezz" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dracula" alt="daxxtropezz" />
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
@@ -94,6 +94,6 @@
 <h3 align="left">Support me:</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <div align="center">
-    <a href="https://ko-fi.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='daxxtropezz' /></a>
-    <a href="https://www.buymeacoffee.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='daxxtropezz' /></a> 
+    <a href="https://ko-fi.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='daxxtropezz' /></a>
+    <a href="https://www.buymeacoffee.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-blue.png' border='0' alt='daxxtropezz' /></a> 
 </div>
