@@ -27,7 +27,7 @@
 <!-- <img align="right" alt="random quote" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"> -->
 <div align="center">
 <div align="right">
-    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&border=true&quote=Everyone%20in%20this%20country%20should%20learn%20how%20to%20program%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs">
+    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Everyone%20in%20this%20country%20should%20learn%20how%20to%20program%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs">
 </div>
     
 <div align="left">
