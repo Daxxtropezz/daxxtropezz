@@ -4,21 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Anurati&weight=500&size=23&pause=1000&color=8B0CF7F6&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
 </h1>
 
-
 <div align=center>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=darcula&title_color=8f24d6&text_color=0065b3&bg_color=1f1f24&locale=en&layout=compact" alt="daxxtropezz" />
     <br/>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=darcula" alt="daxxtropezz" />
 </div>
 
-
 <hr/>
 
-<p align="center" style="padding: 30px">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula" alt="daxxtropezz" />
+<div align="center" style="padding: 30px">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+        <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />
     </a>
-</p>
+</div>
 
 <hr/>
 
