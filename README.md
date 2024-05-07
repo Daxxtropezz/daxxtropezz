@@ -73,6 +73,7 @@
 <div align="center">
 <div align="right">
     <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Everyone%20in%20this%20country%20should%20learn%20how%20to%20program%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs">
+    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
 </div>
     
 <div align="left">
@@ -84,7 +85,8 @@
     </p>
             
 - 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br> 
-- 📄 Know about my experiences by visiting <a href="https://daxxtropezz.github.io"> <img src="https://img.shields.io/badge/My%20Portfolio-3a3a47?style=for-the-badge" /> </a>
+- 📄 Know about my experiences by visiting <a href="https://daxxtropezz.github.io"> <img src="https://img.shields.io/badge/My%20Portfolio-3a3a47?style=for-the-badge" /> </a><br>
+- ⚡ Fun fact: I think I'm funny 🤪<br> 
 </div>
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
