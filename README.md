@@ -4,14 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Anurati&weight=500&size=23&pause=1000&color=8B0CF7F6&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
 </h1>
 
-<details>
-    <summary>:zap: Github Stats</summary>
-    <div align=center>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dark&title_color=2480d6&text_color=0065b3&bg_color=0f0f10&locale=en&layout=compact" alt="daxxtropezz" />
-      <br/>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dark" alt="daxxtropezz" />
-    </div>
-</details>
+
+<div align=center>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=darcula&title_color=8f24d6&text_color=0065b3&bg_color=1f1f24&locale=en&layout=compact" alt="daxxtropezz" />
+    <br/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=darcula" alt="daxxtropezz" />
+</div>
+
 
 <hr/>
 
@@ -27,16 +26,24 @@
 
 <hr/>
 
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif">
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz" />
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" />
-    <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Wake%20Up%20to%20Reality&style=style=flat&color=0f468a" alt="Star Badge" />
-</p>
-
+<!-- <img align="right" alt="random quote" width="400" src="https://i.redd.it/bpxxqqvps4h91.gif"> -->
+<div align="center">
+<div align="right">
+    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula&border=true&quote=Everyone%20in%20this%20country%20should%20learn%20how%20to%20program%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs">
+</div>
+    
+<div align="left">
+    <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz">
+        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
+        <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Wake%20Up%20to%20Reality&style=style=flat&color=0f468a" alt="Star Badge">
+    </p>
+            
 - 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br>
 - 📫 Email me at **miraflores.john@gmail.com**<br>
-- 📄 Know about my experiences by visiting [daxxtropezz.github.io](daxxtropezz.github.io)
+- 📄 Know about my experiences by visiting [daxxtropezz.github.io](https://daxxtropezz.github.io)
+</div>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
