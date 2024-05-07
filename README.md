@@ -7,8 +7,6 @@
 
 <h3 align="center">Greetings! I'm a passionate front-end developer from the Philippines 🇵🇭</h3>
 <p align="center">You can call me by my full name, John Paul Miraflores. I'm driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites and mobile applications. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daxxtropezz" height="30" width="40" /></a>
@@ -16,6 +14,8 @@
     <a href="https://fb.com/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daxxtropezz" height="30" width="40" /></a>
     <a href="https://instagram.com/daxxtropezz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daxxtropezz" height="30" width="40" /></a>
 </p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## My Trophies 🏆:
