@@ -66,6 +66,7 @@
 ## Activity On GitHub
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dracula" alt="daxxtropezz" />
+  <img align="center" src="https://github-contributor-stats.vercel.app/api?username=daxxtropezz&limit=5&theme=dracula&combine_all_yearly_contributions=truedracula" alt="daxxtropezz" />
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
