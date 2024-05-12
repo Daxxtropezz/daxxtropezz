@@ -20,6 +20,7 @@
     <a href="https://stackoverflow.com/users/21004406" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="daxxtropezz" /></a>
     <a href="https://instagram.com/daxxtropezz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="daxxtropezz" /></a>
     <a href="mailto:miraflores.john@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="daxxtropezz" /></a>
+    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" />
