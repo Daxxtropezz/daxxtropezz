@@ -15,12 +15,12 @@
 <p align="center">You can call me by my full name, John Paul Miraflores. I'm driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites and mobile applications. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.behance.net/daxxtropezz" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="daxxtropezz" height="50" width="50" /></a>
-    <a href="https://fb.com/daxxtropezz" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daxxtropezz" height="50" width="50" /></a>
-    <a href="https://linkedin.com/in/daxxtropezz" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="daxxtropezz" /></a>
-    <a href="https://stackoverflow.com/users/21004406" target="_blank"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="daxxtropezz" /></a>
-    <a href="https://instagram.com/daxxtropezz" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="daxxtropezz" /></a>
-    <a href="mailto:miraflores.john@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="daxxtropezz" /></a>
+    <a href="https://www.behance.net/daxxtropezz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="daxxtropezz" height="50" width="50" /></a>
+    <a href="https://fb.com/daxxtropezz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="daxxtropezz" height="50" width="50" /></a>
+    <a href="https://linkedin.com/in/daxxtropezz"><img src="https://skillicons.dev/icons?i=linkedin" alt="daxxtropezz" /></a>
+    <a href="https://stackoverflow.com/users/21004406"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="daxxtropezz" /></a>
+    <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="daxxtropezz" /></a>
+    <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="daxxtropezz" /></a>
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
@@ -110,6 +110,6 @@
     </h4>
 </p>
 <div align="center">
-    <a href="https://ko-fi.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='daxxtropezz' /></a>
-    <a href="https://www.buymeacoffee.com/daxxtropezz" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-blue.png' border='0' alt='daxxtropezz' /></a> 
+    <a href="https://ko-fi.com/daxxtropezz"><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='daxxtropezz' /></a>
+    <a href="https://www.buymeacoffee.com/daxxtropezz"><img height='64' style='border:0px;height:64px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-blue.png' border='0' alt='daxxtropezz' /></a> 
 </div>
