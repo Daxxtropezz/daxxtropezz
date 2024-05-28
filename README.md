@@ -26,11 +26,13 @@
     <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" />
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## My Trophies 🏆:
 <div align="center">
+    <!-- Trophy -->
     <a href="https://daxxtropezz.github.io">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />
     </a>
@@ -39,6 +41,7 @@
 
 ## Languages and Tools:
 <p align="center">
+    <!-- Most Languages Used -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daxxtropezz" /> 
     <table width="100%" align="center">
     <tr>
@@ -75,6 +78,7 @@
 
 ## Activity On GitHub
 <p align="center">
+    <!-- Activities -->
 <!--   <img align="center" src="https://github-contributor-stats.vercel.app/api?username=daxxtropezz&limit=5&theme=dracula&combine_all_yearly_contributions=truedracula" alt="daxxtropezz" /> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=dracula" alt="daxxtropezz" />
 </p>
