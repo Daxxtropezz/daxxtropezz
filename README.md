@@ -93,7 +93,7 @@
     
 <div align="left">
     <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square" alt="daxxtropezz">
+        <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square&base=23000&abbreviated=true" alt="daxxtropezz">
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
         <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Wake%20Up%20to%20Reality&style=style=flat&color=0f468a" alt="Star Badge"> 
         <a href="mailto:miraflores.john@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Reach%20Out-3a3a47?logo=gmail&logoColor=blue" /> </a>
