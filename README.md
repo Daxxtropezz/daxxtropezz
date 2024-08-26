@@ -27,7 +27,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" /> 26-08-24-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## My Trophies 🏆:
@@ -88,7 +88,7 @@
 <div align="center">
 <div align="right">
     <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Everyone%20in%20this%20country%20should%20learn%20how%20to%20program%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs">
-    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
+<!--     <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger"> 26-08-24-->
 </div>
     
 <div align="left">
