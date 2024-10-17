@@ -27,7 +27,7 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <!-- Contribution Graph -->
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" /> 26-08-24-->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" /> <!-- 26-08-24-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## My Trophies 🏆:
