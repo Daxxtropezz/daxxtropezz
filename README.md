@@ -9,11 +9,17 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=r4fxmiqztrsfk4nguvlzjxr57&count=4" />
 </p>
 -->
+<!-- ![120322](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d) -->
 
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io)
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<!-- [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io) -->
+[![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io)
+  <img align="left" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%">
+<img align="right" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%" >  
+<!-- CHERRY BLOSSOMS -->
+<!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
 
-<h3 align="center">Greetings! I'm a passionate front-end developer from the Philippines 🇵🇭</h3>
+<h3 align="center">Greetings! I'm a passionate fullstack developer from the Philippines 🇵🇭</h3>
 <p align="center">You can call me by my full name, John Paul Miraflores. I'm driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites and mobile applications. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
