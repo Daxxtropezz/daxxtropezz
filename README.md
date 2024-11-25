@@ -53,7 +53,7 @@
     <tr>
         <td>
             <!-- cs, ts --><h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=java,js,php,cpp,python&perline=5" alt="daxxtropezz" />
-            <!-- angular, pug, babel --><h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,sass,tailwind,materialui&perline=5" alt="daxxtropezz" />
+            <!-- angular, pug, babel --><h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=bootstrap,css,html,sass,tailwind,materialui&perline=5" alt="daxxtropezz" />
             <!-- graphql --><h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,nginx,nestjs&perline=5" alt="daxxtropezz" />
             <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
             <h4>Databases</h4>
@@ -71,7 +71,7 @@
                     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
                     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />    
                 </div>
-            <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=laravel,dotnet" alt="daxxtropezz" />
+            <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=react,laravel,dotnet" alt="daxxtropezz" />
             <h4>Softwares</h4><img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,postman" alt="daxxtropezz" />
             <h4>Static Site Generators</h4><img src="https://skillicons.dev/icons?i=nextjs" alt="daxxtropezz" />
             <h4>Game Engines</h4><img src="https://skillicons.dev/icons?i=unity" alt="daxxtropezz" />
