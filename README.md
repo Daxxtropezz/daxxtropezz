@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://daxxtropezz.github.io">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Anurati&weight=500&size=23&pause=1000&color=8B0CF7F6&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Anurati&weight=500&size=23&pause=1000&color=8B0CF7F6&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" /><img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
     </a>
 </h1>
 
@@ -29,7 +29,6 @@
     <a href="https://stackoverflow.com/users/21004406"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="daxxtropezz" /></a>
     <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="daxxtropezz" /></a>
     <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="daxxtropezz" /></a>
-    <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <!-- Contribution Graph -->
@@ -93,20 +92,19 @@
 <!-- COL -->
 <div align="center">
 <div align="right">
-    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Everyone%20in%20this%20country%20should%20learn%20how%20to%20program%20because%20it%20teaches%20you%20how%20to%20think&author=Steve%20Jobs">
+    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
 <!--     <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger"> 26-08-24-->
 </div>
     
 <div align="left">
     <p align="left">
         <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square&base=23000&abbreviated=true" alt="daxxtropezz">
-        <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge">
-        <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Wake%20Up%20to%20Reality&style=style=flat&color=0f468a" alt="Star Badge"> 
+        <!--<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"> -->
         <a href="mailto:miraflores.john@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Reach%20Out-3a3a47?logo=gmail&logoColor=blue" /> </a>
     </p>
             
-- 🌱 I’m currently learning **Backend development, Oracle, Everything 😁**<br> 
-- 📄 Know about my experiences by visiting <a href="https://daxxtropezz.github.io"> <img src="https://img.shields.io/badge/My%20Portfolio-3a3a47?style=for-the-badge" /> </a><br>
+- 🌱 I’m currently learning **Backend development & Oracle 😁**<br> 
+- 📄 Know about my experiences by visiting <a href="https://daxxtropezz.github.io"> <img src="https://img.shields.io/static/v1?label=%F0%9F%AB%90&message=My%20Portfolio&style=style=flat&color=0f468a" alt="Star Badge">  </a>
 - ⚡ Fun fact: I think I'm funny 🤪<br> 
 </div>
 </div>
@@ -115,7 +113,7 @@
 
 <!-- Footer -->  
 <p align="center">
-    <img src="https://github.com/images/modules/search/light.png" alt="daxxtropezz" width="40%" />
+    <a href="https://daxxtropezz.github.io" target="_blank"><img src="https://github.com/images/modules/search/light.png" alt="daxxtropezz" width="40%" /></a>
     <br>
     <h4 align="center">
         Support me:
