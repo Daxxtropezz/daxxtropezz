@@ -37,13 +37,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 <!-- ## My Trophies 🏆: -->
-<!-- <div align="center"> -->
-    <!-- Trophy -->
-<!--     <a href="https://daxxtropezz.github.io">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />
-    </a> -->
-<!-- </div> -->
-<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator --> -->
+<!--        <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />  -->
 
 ## Languages and Tools:
 <p align="center">
