@@ -36,14 +36,14 @@
  <a href="https://daxxtropezz.github.io" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Daxxtropezz&theme=dracula" /></a> <!-- 26-08-24-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
-## My Trophies 🏆:
-<div align="center">
+<!-- ## My Trophies 🏆: -->
+<!-- <div align="center"> -->
     <!-- Trophy -->
-    <a href="https://daxxtropezz.github.io">
+<!--     <a href="https://daxxtropezz.github.io">
         <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />
-    </a>
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+    </a> -->
+<!-- </div> -->
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator --> -->
 
 ## Languages and Tools:
 <p align="center">
