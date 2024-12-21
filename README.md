@@ -37,7 +37,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## My Trophies 🏆:
+<p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />
+</p>
 
 ## Languages and Tools:
 <p align="center">
