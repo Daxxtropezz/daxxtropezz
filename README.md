@@ -12,10 +12,12 @@
 <!--    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r4fxmiqztrsfk4nguvlzjxr57&count=4" />-->
 <!--</p>-->
 
+[![MyCover](https://github.com/user-attachments/assets/d667201b-36d0-4ba0-81db-c6895526fa42)](https://daxxtropezz.github.io)
+
  <!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io) -->
-[![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io)
-  <img align="left" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%">
-<img align="right" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%" >  
+<!--[![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io)-->
+<!--  <img align="left" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%">-->
+<!--<img align="right" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%" >  -->
 <!-- CHERRY BLOSSOMS -->
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
