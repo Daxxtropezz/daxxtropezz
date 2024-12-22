@@ -34,10 +34,11 @@
     <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="daxxtropezz" /></a>
     <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="daxxtropezz" /></a>
 <details align="center">
-<summary>My Forever Followers</summary>
+<summary>My Forever Follower</summary>
 <p>  
-    
-![Jealous-People](https://github.com/user-attachments/assets/7b8c3837-7cce-4ed7-b4d8-ad57506b9c86)    
+
+<a href="https://www.facebook.com/rayhernandez17"><img src="https://github.com/user-attachments/assets/273c94bf-afc5-4716-8bc1-3b384915f7cc" alt="Jealous-Person" /></a>
+<!-- ![Jealous-People](https://github.com/user-attachments/assets/7b8c3837-7cce-4ed7-b4d8-ad57506b9c86) -->   
 </p>
 </details>
 </p>
