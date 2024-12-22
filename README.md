@@ -3,21 +3,22 @@
     <a href="https://daxxtropezz.github.io">
         <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
     </a>
-    <!-- Shiro no Kitsune -->
-    <!--<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />-->
 </h1>
 
+<!-- Shiro no Kitsune -->
+<!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 <!-- Spotify -->
-<!--<p align="center">-->
-<!--    <img src="https://spotify-recently-played-readme.vercel.app/api?user=r4fxmiqztrsfk4nguvlzjxr57&count=4" />-->
-<!--</p>-->
+<!-- <p align="center"> -->
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=r4fxmiqztrsfk4nguvlzjxr57&count=4" /> -->
+<!-- </p> -->
 
+<!-- Profile Cover -->
 [![MyCover](https://github.com/user-attachments/assets/d667201b-36d0-4ba0-81db-c6895526fa42)](https://daxxtropezz.github.io)
 
- <!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io) -->
-<!--[![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io)-->
-<!--  <img align="left" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%">-->
-<!--<img align="right" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%" >  -->
+<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io) -->
+<!-- [![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io) -->
+<!--  <img align="left" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%"> -->
+<!--<img align="right" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%" > -->
 <!-- CHERRY BLOSSOMS -->
 <!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
@@ -32,30 +33,31 @@
     <a href="https://stackoverflow.com/users/21004406"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="daxxtropezz" /></a>
     <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="daxxtropezz" /></a>
     <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="daxxtropezz" /></a>
-    <details>
+<details align="center">
 <summary>My Forever Followers</summary>
-    <p>
+<p>  
     
 ![Jealous-People](https://github.com/user-attachments/assets/7b8c3837-7cce-4ed7-b4d8-ad57506b9c86)    
-    </p>
-    </details>
+</p>
+</details>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<!-- Contribution Graph -->
+<p align="center">
+    <a href="https://daxxtropezz.github.io" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula"/></a>
+    <!-- 26-08-24-->
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
-<!-- Contribution Graph -->
-<p align="center"> <a href="https://daxxtropezz.github.io" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula" width="1000"/></a> <!-- 26-08-24--></p>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
-
- ## My Trophies 🏆: 
- <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=dracula&row=2&column=3&no-frame=true" alt="daxxtropezz" />  
+## My Trophies 🏆: 
+<p align="center">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=algolia&row=2&column=3&no-frame=true" alt="daxxtropezz" />  
 </p>
 
 ## Languages and Tools:
 <p align="center">
     <!-- Most Languages Used -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="daxxtropezz" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="daxxtropezz" /> 
     <table width="100%" align="center">
     <tr>
         <td>
@@ -100,7 +102,7 @@
 <!-- COL -->
 <div align="center">
 <div align="right">
-    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
+    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
      <!--<img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger"> 26-08-24-->
 </div>
     
