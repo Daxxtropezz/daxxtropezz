@@ -4,12 +4,12 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
     </a>
 </h1>
-<details align="center">
+<!-- <details align="center">
     <summary>My Forever Follower</summary>
     <p>  
         <a href="https://www.facebook.com/rayhernandez17"><img src="https://github.com/user-attachments/assets/273c94bf-afc5-4716-8bc1-3b384915f7cc" alt="Jealous-Person" /></a>
     </p>
-</details>
+</details> -->
 <!-- Shiro no Kitsune -->
 <!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
 <!-- Spotify -->
