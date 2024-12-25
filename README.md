@@ -46,7 +46,14 @@
     <!-- 26-08-24-->
 </p>
 
+## Activity On GitHub
+<p align="center">
+    <!-- Activities -->
+   <!--<img align="center" src="https://github-contributor-stats.vercel.app/api?username=daxxtropezz&limit=5&theme=dracula&combine_all_yearly_contributions=truedracula" alt="daxxtropezz" /> -->
+  <img id="streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph" />
+</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+
 ## My Trophies 🏆: 
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=algolia&row=2&column=3&no-frame=true" alt="Trophy Graph" />  
@@ -89,20 +96,12 @@
 </p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
-## Activity On GitHub
-<p align="center">
-    <!-- Activities -->
-   <!--<img align="center" src="https://github-contributor-stats.vercel.app/api?username=daxxtropezz&limit=5&theme=dracula&combine_all_yearly_contributions=truedracula" alt="daxxtropezz" /> -->
-  <img id="streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph" />
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
-
 <!-- COL -->
 <div align="center">
-<div align="right">
-    <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
-     <!--<img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger"> 26-08-24-->
-</div>
+    <div align="right">
+        <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
+         <!--<img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger"> 26-08-24-->
+    </div>
     
 <div align="left">
     <p align="left">
