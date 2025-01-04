@@ -89,7 +89,7 @@
             <h4>Softwares</h4><img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,postman,sketchup,notion&perline=5" alt="daxxtropezz" />
             <h4>Static Site Generators</h4><img src="https://skillicons.dev/icons?i=nextjs" alt="daxxtropezz" />
             <h4>Game Engines</h4><img src="https://skillicons.dev/icons?i=unity" alt="daxxtropezz" />
-            <h4>Others</h4><img src="https://skillicons.dev/icons?i=linux,git,anaconda,bitbucket,eclipse,sublime,vscode,visualstudio,ubuntu,wordpress,codepen,md&perline=5" alt="daxxtropezz" />
+            <h4>Others</h4><img src="https://skillicons.dev/icons?i=linux,git,anaconda,bitbucket,eclipse,sublime,vscode,visualstudio,ubuntu,kali,redhat,wordpress,codepen,md&perline=5" alt="daxxtropezz" />
         </td>
     </tr>
     </table>
