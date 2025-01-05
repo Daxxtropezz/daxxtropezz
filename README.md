@@ -66,7 +66,7 @@
     <table width="100%" align="center">
     <tr>
         <td>
-            <!-- cs, ts --><h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=java,js,php,cpp,python&perline=5" alt="daxxtropezz" />
+            <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=java,js,php,cpp,python,ts,cs&perline=5" alt="daxxtropezz" />
             <!-- angular, pug, babel --><h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=bootstrap,css,html,sass,tailwind,materialui&perline=5" alt="daxxtropezz" />
             <!-- graphql --><h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,nginx,nestjs&perline=5" alt="daxxtropezz" />
             <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
