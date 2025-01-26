@@ -85,7 +85,7 @@
                     <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
                     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />    
                 </div>
-            <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=react,laravel,dotnet,angular" alt="daxxtropezz" />
+            <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=react,laravel,dotnet,angular,vue" alt="daxxtropezz" />
             <h4>Softwares</h4><img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,postman,sketchup,notion&perline=5" alt="daxxtropezz" />
             <h4>Static Site Generators</h4><img src="https://skillicons.dev/icons?i=nextjs" alt="daxxtropezz" />
             <h4>Game Engines</h4><img src="https://skillicons.dev/icons?i=unity" alt="daxxtropezz" />
