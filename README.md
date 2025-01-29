@@ -110,7 +110,7 @@
         <a href="mailto:miraflores.john@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Reach%20Out-3a3a47?logo=gmail&logoColor=blue" /> </a>
     </p>
             
-- 🌱 I’m currently learning **Backend development & Oracle 😁**<br> 
+- 🌱 I’m enjoying working on **Backend development & Oracle 😁**<br> 
 - 📄 Know about my experiences by visiting <a href="https://daxxtropezz.github.io"> <img src="https://img.shields.io/static/v1?label=%F0%9F%AB%90&message=My%20Portfolio&style=style=flat&color=0f468a" alt="Star Badge">  </a>
 - ⚡ Fun fact: I think I'm funny 🤪<br> 
 </div>
