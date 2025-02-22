@@ -4,6 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
     </a>
 </h1>
+
 <!-- <details align="center">
     <summary>My Forever Follower</summary>
     <p>  
@@ -18,7 +19,8 @@
 <!-- </p> -->
 
 <!-- Profile Cover -->
-[![MyCover](https://github.com/user-attachments/assets/d667201b-36d0-4ba0-81db-c6895526fa42)](https://daxxtropezz.github.io)
+<!-- [![MyCover](https://github.com/user-attachments/assets/d667201b-36d0-4ba0-81db-c6895526fa42)](https://daxxtropezz.github.io) -->
+<img src="https://github.com/user-attachments/assets/dda47962-c9e6-42e5-a567-4c623124622d" width="100%">
 
 <!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io) -->
 <!-- [![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io) -->
@@ -39,7 +41,7 @@
     <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Link" /></a>
     <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email Navigation" /></a>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator --> 
 <!-- Contribution Graph -->
 <p align="center">
     <a href="https://daxxtropezz.github.io"><img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula"/></a>
@@ -60,40 +62,90 @@
 </p>
 
 ## Languages and Tools:
+
+<!-- Most Languages Used -->
 <p align="center">
-    <!-- Most Languages Used -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="Programming Languages Graph" /> 
-    <table width="100%" align="center">
-    <tr>
-        <td>
-            <h4>Programming Languages</h4><img src="https://skillicons.dev/icons?i=java,js,php,cpp,python,ts,cs&perline=5" alt="daxxtropezz" />
-            <!-- pug, babel --><h4>Frontend Development</h4><img src="https://skillicons.dev/icons?i=bootstrap,css,html,sass,tailwind,materialui&perline=5" alt="daxxtropezz" />
-            <!-- graphql --><h4>Backend Development</h4><img src="https://skillicons.dev/icons?i=nodejs,spring,express,nginx,nestjs&perline=5" alt="daxxtropezz" />
-            <h4>Mobile Application Development</h4><img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart" alt="daxxtropezz" />
-            <h4>Databases</h4>
-            <div>
-                <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="daxxtropezz" />
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-                <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40" />
-            </div>
-            <h4>DevOps</h4><img src="https://skillicons.dev/icons?i=aws,docker,gcp" alt="daxxtropezz" />        
-        </td>
-        <td>
-            <h4>Backend as a Service (BaaS)</h4><img src="https://skillicons.dev/icons?i=firebase" alt="daxxtropezz" />
-            <h4>Data Visualization</h4>
-                <div>
-                    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
-                    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />    
-                </div>
-            <h4>Frameworks</h4><img src="https://skillicons.dev/icons?i=react,laravel,dotnet,angular,vue" alt="daxxtropezz" />
-            <h4>Softwares</h4><img src="https://skillicons.dev/icons?i=ai,ps,figma,blender,postman,sketchup,notion&perline=5" alt="daxxtropezz" />
-            <h4>Static Site Generators</h4><img src="https://skillicons.dev/icons?i=nextjs" alt="daxxtropezz" />
-            <h4>Game Engines</h4><img src="https://skillicons.dev/icons?i=unity" alt="daxxtropezz" />
-            <h4>Others</h4><img src="https://skillicons.dev/icons?i=linux,git,anaconda,bitbucket,eclipse,sublime,vscode,visualstudio,ubuntu,kali,redhat,wordpress,codepen,md&perline=5" alt="daxxtropezz" />
-        </td>
+
+<table width="100%" align="center">
+    <tr width="100%" align="center">
+        <th>Languages</th>
+        <th>Frameworks</th>
+        <th>Frontend</th>
+        <th>Backend</th>
+        <th>Databases</th>
+        <th>DevOps</th>
     </tr>
-    </table>
+    <tr width="100%" align="center"> <!-- Line 1 -->
+        <td><img src="https://skillicons.dev/icons?i=java" alt="java-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=html" alt="html-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=spring" alt="spring-icon" /></td>
+        <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb-icon" width="40" height="40" /></td>
+        <td><img src="https://skillicons.dev/icons?i=aws" alt="aws-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 2 -->
+        <td><img src="https://skillicons.dev/icons?i=js" alt="js-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=react" alt="react-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=css" alt="css-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs-icon" /></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-icon" width="40" height="40" /></td>
+        <td><img src="https://skillicons.dev/icons?i=docker" alt="docker-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 3 -->
+        <td><img src="https://skillicons.dev/icons?i=php" alt="php-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=laravel" alt="laravel-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=express" alt="express-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=supabase" alt="supabase-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=gcp" alt="gcp-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 4 -->
+        <td><img src="https://skillicons.dev/icons?i=cpp" alt="cpp-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=vue" alt="vue-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=git" alt="git-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 5 -->
+        <td><img src="https://skillicons.dev/icons?i=python" alt="python-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=angular" alt="angular-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=materialui" alt="materialui-icon" /></td>
+        <td></td>
+        <td><img src="https://skillicons.dev/icons?i=mysql" alt="mysql-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 6 -->
+        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=ts" alt="ts-icon" /></td>
+        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=next" alt="next-icon" /></td>
+        <!-- Frontend --> <td><img src="https://skillicons.dev/icons?i=vite" alt="vite-icon" /></td>
+        <!-- Backend --> <td></td>
+        <!-- Database --> <td><img src="https://skillicons.dev/icons?i=graphql" alt="graphql-icon" /></td>
+        <!-- DevOps --> <td><img src="https://skillicons.dev/icons?i=nginx" alt="nginx-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 7 -->
+        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=cs" alt="cs-icon" /></td>
+        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=flutter" alt="flutter-icon" /></td>
+        <!-- Frontend --> <td><img src="https://skillicons.dev/icons?i=sass" alt="sass-icon" /></td>
+        <!-- Backend --> <td colspan="2"><strong>Backend as a Service (BaaS)</strong></td>
+        <!-- Database --> <td></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 8 -->
+        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=dart" alt="dart-icon" /></td>
+        <!-- Framework --> <td></td>
+        <!-- Frontend --> <td></td>
+        <!-- Backend --> <td colspan="2"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase-icon" /></td>
+        <!-- Database --> <td></td> 
+    </tr>
+</table> 
+
 </p>
+     
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+
+![rotd-duel](https://github.com/user-attachments/assets/bc62dfaa-7c60-49dd-ac81-f561d235e2b2)
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 <!-- COL -->
