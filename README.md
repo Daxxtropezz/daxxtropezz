@@ -1,9 +1,18 @@
 <!-- MAIN SECTION -->
-<h1 align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+<!-- Contribution Graph -->
+<p align="center">
+    <a href="https://daxxtropezz.github.io"><img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula"/></a>
+    <!-- 26-08-24-->
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+
+<p align="center">
     <a href="https://daxxtropezz.github.io">
         <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
     </a>
-</h1>
+</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
 
 <!-- <details align="center">
     <summary>My Forever Follower</summary>
@@ -32,6 +41,7 @@
 
 <h3 align="center">Greetings! I'm a passionate fullstack developer from the Philippines 🇵🇭</h3>
 <p align="center">You can call me by my full name, John Paul Miraflores. I'm driven to create captivating digital experiences. With expertise in HTML, CSS, JavaScript, and frameworks like React and Angular, I excel at turning concepts into pixel-perfect websites and mobile applications. My focus on design aesthetics and user experience ensures each project is visually appealing and highly functional across all platforms. I thrive in collaborative environments, where I contribute actively to problem-solving. Outside work, I'm committed to nurturing the tech community through mentoring and involvement in local events. With a relentless pursuit of excellence, I'm excited to continue pushing the boundaries of front-end development. Let's embark on this journey together, crafting extraordinary digital experiences!</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.behance.net/daxxtropezz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Link" height="50" width="50" /></a>
@@ -40,13 +50,7 @@
     <a href="https://stackoverflow.com/users/21004406"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow Link" /></a>
     <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Link" /></a>
     <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email Navigation" /></a>
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator --> 
-<!-- Contribution Graph -->
-<p align="center">
-    <a href="https://daxxtropezz.github.io"><img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula"/></a>
-    <!-- 26-08-24-->
-</p>
+</p> 
 
 ## Activity On GitHub
 <p align="center">
@@ -54,7 +58,6 @@
    <!--<img align="center" src="https://github-contributor-stats.vercel.app/api?username=daxxtropezz&limit=5&theme=dracula&combine_all_yearly_contributions=truedracula" alt="daxxtropezz" /> -->
   <img id="streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph" />
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 
 ## My Trophies 🏆: 
 <p align="center">
@@ -75,6 +78,10 @@
         <th>Backend</th>
         <th>Databases</th>
         <th>DevOps</th>
+        <th>IDE</th>
+        <th>DiskOS</th>
+        <th>Editor</th>
+        <th colspan="2">Others</th>
     </tr>
     <tr width="100%" align="center"> <!-- Line 1 -->
         <td><img src="https://skillicons.dev/icons?i=java" alt="java-icon" /></td>
@@ -83,6 +90,11 @@
         <td><img src="https://skillicons.dev/icons?i=spring" alt="spring-icon" /></td>
         <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb-icon" width="40" height="40" /></td>
         <td><img src="https://skillicons.dev/icons?i=aws" alt="aws-icon" /></td>
+        <!-- IDE --> <td><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda-icon" /></td>
+        <!-- DiskOS --> <td><img src="https://skillicons.dev/icons?i=linux" alt="linux-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=unity" alt="unity-icon" /></td>
+        <!-- Editor --> <td><img src="https://skillicons.dev/icons?i=vscode" alt="vscode-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=codepen" alt="codepen-icon" /></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 2 -->
         <td><img src="https://skillicons.dev/icons?i=js" alt="js-icon" /></td>
@@ -91,6 +103,11 @@
         <td><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs-icon" /></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-icon" width="40" height="40" /></td>
         <td><img src="https://skillicons.dev/icons?i=docker" alt="docker-icon" /></td>
+        <!-- IDE --> <td><img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse-icon" /></td>
+        <!-- DiskOS --> <td><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu-icon" /></td>
+        <!-- Editor --> <td><img src="https://skillicons.dev/icons?i=sublime" alt="sublime-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=notion" alt="notion-icon" /></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 3 -->
         <td><img src="https://skillicons.dev/icons?i=php" alt="php-icon" /></td>
@@ -99,6 +116,11 @@
         <td><img src="https://skillicons.dev/icons?i=express" alt="express-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=supabase" alt="supabase-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=gcp" alt="gcp-icon" /></td>
+        <!-- IDE --> <td><img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio-icon" /></td>
+        <!-- DiskOS --> <td><img src="https://skillicons.dev/icons?i=kali" alt="kali-icon" /></td>
+        <!-- Editor --> <td><img src="https://skillicons.dev/icons?i=md" alt="md-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=postman" alt="postman-icon" /></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 4 -->
         <td><img src="https://skillicons.dev/icons?i=cpp" alt="cpp-icon" /></td>
@@ -107,6 +129,11 @@
         <td><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=git" alt="git-icon" /></td>
+        <!-- IDE --> <td></td>
+        <!-- DiskOS --> <td><img src="https://skillicons.dev/icons?i=redhat" alt="redhat-icon" /></td>
+        <!-- Editor --> <td></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=figma" alt="figma-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=blender" alt="blender-icon" /></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 5 -->
         <td><img src="https://skillicons.dev/icons?i=python" alt="python-icon" /></td>
@@ -115,44 +142,74 @@
         <td></td>
         <td><img src="https://skillicons.dev/icons?i=mysql" alt="mysql-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket-icon" /></td>
+        <!-- IDE --> <td></td>
+        <!-- DiskOS --> <td></td>
+        <!-- Editor --> <td></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=robloxstudio" alt="robloxstudio-icon" /></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 6 -->
-        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=ts" alt="ts-icon" /></td>
-        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=next" alt="next-icon" /></td>
+        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=dart" alt="dart-icon" /></td>
+        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=flutter" alt="next-icon" /></td>
         <!-- Frontend --> <td><img src="https://skillicons.dev/icons?i=vite" alt="vite-icon" /></td>
         <!-- Backend --> <td></td>
         <!-- Database --> <td><img src="https://skillicons.dev/icons?i=graphql" alt="graphql-icon" /></td>
         <!-- DevOps --> <td><img src="https://skillicons.dev/icons?i=nginx" alt="nginx-icon" /></td>
+        <!-- IDE --> <td></td>
+        <!-- DiskOS --> <td></td>
+        <!-- Editor --> <td></td>
+        <!-- Others --> <td colspan="2"><strong>Data Visualizations</strong></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 7 -->
         <!-- Language --> <td><img src="https://skillicons.dev/icons?i=cs" alt="cs-icon" /></td>
-        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=flutter" alt="flutter-icon" /></td>
+        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=next" alt="flutter-icon" /></td>
         <!-- Frontend --> <td><img src="https://skillicons.dev/icons?i=sass" alt="sass-icon" /></td>
         <!-- Backend --> <td colspan="2"><strong>Backend as a Service (BaaS)</strong></td>
         <!-- Database --> <td></td>
+        <!-- IDE --> <td></td>
+        <!-- DiskOS --> <td></td>
+        <!-- Editor --> <td></td>
+        <!-- Others --> <td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></td>
+        <!-- Others --> <td><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" /></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 8 -->
-        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=dart" alt="dart-icon" /></td>
-        <!-- Framework --> <td></td>
+        <!-- Language --> <td><img src="https://skillicons.dev/icons?i=ts" alt="ts-icon" /></td>
+        <!-- Framework --> <td><img src="https://skillicons.dev/icons?i=django" alt="django-icon" /></td>
         <!-- Frontend --> <td></td>
         <!-- Backend --> <td colspan="2"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase-icon" /></td>
         <!-- Database --> <td></td> 
+        <!-- IDE --> <td></td>
+        <!-- DiskOS --> <td></td>
+        <!-- Editor --> <td></td>
+        <!-- Others --> <td colspan="2"><strong>Adobe</strong></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 9 -->
+        <!-- Language --> <td></td>
+        <!-- Framework --> <td></td>
+        <!-- Frontend --> <td></td>
+        <!-- Backend --> <td colspan="2"></td>
+        <!-- Database --> <td></td> 
+        <!-- IDE --> <td></td>
+        <!-- DiskOS --> <td></td>
+        <!-- Editor --> <td></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=ai" alt="ai-icon" /></td>
+        <!-- Others --> <td><img src="https://skillicons.dev/icons?i=ps" alt="ps-icon" /></td>
     </tr>
 </table> 
 
 </p>
      
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
 
 ![rotd-duel](https://github.com/user-attachments/assets/bc62dfaa-7c60-49dd-ac81-f561d235e2b2)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
 
 <!-- COL -->
 <div align="center">
     <div align="right">
         <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
-         <!--<img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger"> 26-08-24-->
+        <img align="right" alt="random quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
     </div>
     
 <div align="left">
