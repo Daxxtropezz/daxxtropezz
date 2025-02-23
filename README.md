@@ -81,7 +81,7 @@
         <td><img src="https://skillicons.dev/icons?i=dart" alt="dart-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=cs" alt="cs-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=ts" alt="ts-icon" /></td>
-        <td></td>
+        <td colspan="2"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 2 | Frameworks --> 
         <th>Frameworks</th>
@@ -92,7 +92,7 @@
         <td><img src="https://skillicons.dev/icons?i=flutter" alt="next-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=next" alt="flutter-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=django" alt="django-icon" /></td>
-        <td colspan="2"></td>
+        <td colspan="3"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 3 | Frontend --> 
         <th>Frontend</th>
@@ -104,7 +104,7 @@
         <td><img src="https://skillicons.dev/icons?i=materialui" alt="materialui-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=vite" alt="vite-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=sass" alt="sass-icon" /></td>
-        <td></td>
+        <td colspan="2"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 4 | Backend --> 
         <th>Backend</th>
@@ -113,8 +113,9 @@
         <td><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=express" alt="express-icon" /></td>
         <td colspan="2"></td>
-        <td rowspan="2"><strong>Backend as a Service (BaaS)</strong></td>
+        <td rowspan="2"><strong>BaaS</strong></td>
         <td rowspan="2"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase-icon" /></td>
+        <td rowspan="2"></td>
         <td rowspan="2"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 5 | Databases --> 
@@ -124,7 +125,7 @@
         <td><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb-icon" /></td>
         <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-icon" width="40" height="40" /></td>
         <td><img src="https://skillicons.dev/icons?i=graphql" alt="graphql-icon" /></td>
-        <td><img src="https://skillicons.dev/icons?i=mysql" alt="mysql-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=mysql" alt="mysql-icon" /></td> 
     </tr>
     <tr width="100%" align="center"> <!-- Line 6 | DevOps --> 
         <th>DevOps</th>
@@ -134,14 +135,14 @@
         <td><img src="https://skillicons.dev/icons?i=git" alt="git-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=nginx" alt="nginx-icon" /></td>
-        <td colspan="3"></td>
+        <td colspan="4"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 7 | IDE --> 
         <th>IDE</th>
         <td><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio-icon" /></td>
-        <td colspan="6"></td>
+        <td colspan="7"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 8 | DiskOS --> 
         <th>DiskOS</th>
@@ -149,28 +150,29 @@
         <td><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=redhat" alt="redhat-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=kali" alt="kali-icon" /></td>
-        <td colspan="5"></td>
+        <td colspan="6"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 9 | Editor --> 
         <th>Editor</th>
         <td><img src="https://skillicons.dev/icons?i=vscode" alt="vscode-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=sublime" alt="sublime-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=md" alt="md-icon" /></td>
-        <td colspan="6"></td>
+        <td colspan="7"></td>
     </tr>
-    <tr width="100%" align="center"> <!-- Line 10 | Others --> 
-        <th rowspan="2">Others</th>
+    <tr width="100%" align="center"> <!-- Line 10 | Extras --> 
+        <th rowspan="2">Extras</th>
         <td><img src="https://skillicons.dev/icons?i=unity" alt="unity-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=codepen" alt="codepen-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=notion" alt="notion-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio-icon" /></td>
-        <td rowspan="2"><strong>Data Visualizations</strong></td>
+        <td rowspan="2"><strong>Viz</strong></td>
+        <td rowspan="2"><img src="https://skillicons.dev/icons?i=d3" alt="d3-icon" /></td>
         <td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></td>
         <td rowspan="2"><strong>Adobe</strong></td>
         <td><img src="https://skillicons.dev/icons?i=ai" alt="ai-icon" /></td>
     </tr> 
-    <tr width="100%" align="center"> <!-- Line 11 | Others -->  
+    <tr width="100%" align="center"> <!-- Line 11 | Extras -->  
         <td><img src="https://skillicons.dev/icons?i=postman" alt="postman-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=figma" alt="figma-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=blender" alt="blender-icon" /></td>
