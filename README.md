@@ -121,7 +121,8 @@
         <td><img src="https://skillicons.dev/icons?i=git" alt="git-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket-icon" /></td>
         <td><img src="https://skillicons.dev/icons?i=nginx" alt="nginx-icon" /></td>
-        <td colspan="4"></td>
+        <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes-icon" /></td>
+        <td colspan="3"></td>
     </tr>
     <tr width="100%" align="center"> <!-- Line 7 | IDE --> 
         <th>IDE</th>
