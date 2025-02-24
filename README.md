@@ -187,7 +187,6 @@
 <div align="left">
     <p align="left">
         <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square&base=23000&abbreviated=true" alt="Visitor Graph">
-        <!--<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"> -->
         <a href="mailto:miraflores.john@gmail.com"> <img src="https://img.shields.io/badge/Let's%20Reach%20Out-3a3a47?logo=gmail&logoColor=blue" /> </a>
     </p>
             
