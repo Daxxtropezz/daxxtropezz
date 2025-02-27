@@ -58,7 +58,17 @@
 
 <table width="100%" align="center"> <!-- 10x10 -->
     <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
-        <td colspan="11">⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
+        <td>Adobe</td>
     </tr> 
     <tr width="100%" align="center"> <!-- Line 1 | Languages -->
         <th>Languages</th>
