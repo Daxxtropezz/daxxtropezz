@@ -57,6 +57,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="Programming Languages Graph" /> 
 
 <table width="100%" align="center"> <!-- 10x10 -->
+    <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
+        <td colspan="11">⠀⠀⠀⠀⠀⠀⠀</td>
+    </tr> 
     <tr width="100%" align="center"> <!-- Line 1 | Languages -->
         <th>Languages</th>
         <td><img src="https://skillicons.dev/icons?i=java" alt="java-icon" /></td>
@@ -167,6 +170,9 @@
         <td><img src="https://skillicons.dev/icons?i=robloxstudio" alt="robloxstudio-icon" /></td>
         <td><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" /></td>
         <td><img src="https://skillicons.dev/icons?i=ps" alt="ps-icon" /></td>
+    </tr> 
+    <tr width="100%" align="center"> <!-- Line 12 | Spacing -->  
+        <td colspan="11">⠀⠀⠀⠀⠀⠀⠀</td>
     </tr> 
 </table> 
 
