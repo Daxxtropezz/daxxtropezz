@@ -58,17 +58,17 @@
 
 <table width="100%" align="center"> <!-- 10x10 -->
     <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
-        <td>Adobe</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
     </tr> 
     <tr width="100%" align="center"> <!-- Line 1 | Languages -->
         <th>Languages</th>
