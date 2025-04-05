@@ -33,17 +33,23 @@
 </p> 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
-<!-- Contribution Graph -->
-<p align="center">
-    <a href="https://daxxtropezz.github.io"><img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula"/></a>
-    <!-- 26-08-24-->
-</p> 
 
 ## Activity On GitHub
-<p align="center">
-    <!-- Activities -->
-  <img id="streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=a8cbff&text_color=FFFFFF" alt="Cyber Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula" alt="Cyber Activity"/>
+    </td>
+  </tr>
+</table>
 
 ## My Trophies 🏆: 
 <p align="center">
