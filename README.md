@@ -38,22 +38,22 @@
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=a8cbff&text_color=FFFFFF" alt="Cyber Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github_dark&bg_color=0d1117&title_color=a8cbff&icon_color=a8cbff&text_color=FFFFFF" alt="Cyber Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github_dark&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula" alt="Cyber Activity"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=github_dark" alt="Cyber Activity"/>
     </td>
   </tr>
 </table>
 
 ## My Trophies 🏆: 
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=algolia&row=2&column=3&no-frame=true" alt="Trophy Graph" />  
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=github_dark&row=2&column=3&no-frame=true" alt="Trophy Graph" />  
 </p>
 
 ## Languages and Tools:
