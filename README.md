@@ -60,7 +60,7 @@
 
 <!-- Most Languages Used -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=algolia&locale=en&layout=compact" alt="Programming Languages Graph" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Programming Languages Graph" /> 
 
 <table width="100%" align="center"> <!-- 10x10 -->
     <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
