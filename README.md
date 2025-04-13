@@ -4,7 +4,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=FFFFFF00&center=true&random=true&width=500&height=70&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
     </a>
 </p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 <!-- Profile Cover -->
 <img src="https://github.com/user-attachments/assets/dda47962-c9e6-42e5-a567-4c623124622d" width="100%">
@@ -34,13 +34,20 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg" alt="Snake animation" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
+</picture>
+
 ## Activity On GitHub
+
 <table align="center" width="100%">
   <tr>
     <td align="center">
@@ -57,7 +64,8 @@
   </tr>
 </table>
 
-## My Trophies 🏆: 
+## My Trophies 🏆:
+
 <p align="center">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=algolia&row=2&column=3&no-frame=true" alt="Trophy Graph" />  
 </p>
@@ -66,7 +74,7 @@
 
 <!-- Most Languages Used -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Programming Languages Graph" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Programming Languages Graph" />
 
 <table width="100%" align="center"> <!-- 10x10 -->
     <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
@@ -195,15 +203,15 @@
     <tr width="100%" align="center"> <!-- Line 12 | Spacing -->  
         <td colspan="11">⠀⠀⠀⠀⠀⠀⠀</td>
     </tr> 
-</table> 
+</table>
 
 </p>
      
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 ![rotd-duel](https://github.com/user-attachments/assets/bc62dfaa-7c60-49dd-ac81-f561d235e2b2)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 <!-- COL -->
 <div align="center">
@@ -226,7 +234,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> <!-- separator -->
 <!-- COL -->
 
-<!-- Footer -->  
+<!-- Footer -->
 <p align="center">
     <a href="https://daxxtropezz.github.io">
 <!--         <img src="https://github.com/images/modules/search/light.png" alt="daxxtropezz" width="40%" /> -->
