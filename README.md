@@ -202,7 +202,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
 
-<img src="https://github.com/Daxxtropezz/daxxtropezz/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg" alt="Snake animation" />
 
 <!-- COL -->
 <div align="center">
