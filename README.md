@@ -36,6 +36,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
+<!--
 <picture align="center">
   <img alt="Snake animation"  src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg" />
 </picture>
@@ -44,6 +45,12 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
+</picture> -->
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg">
+  <img alt="GitHub Contributions Animation" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg">
 </picture>
 
 ## Activity On GitHub
