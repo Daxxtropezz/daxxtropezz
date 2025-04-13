@@ -228,7 +228,10 @@
 
 <!-- Footer -->  
 <p align="center">
-    <a href="https://daxxtropezz.github.io"><img src="https://github.com/images/modules/search/light.png" alt="daxxtropezz" width="40%" /></a>
+    <a href="https://daxxtropezz.github.io">
+<!--         <img src="https://github.com/images/modules/search/light.png" alt="daxxtropezz" width="40%" /> -->
+        <img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="daxxtropezz" width="40%" />
+    </a>
     <br>
     <h4 align="center">
         Support me:
