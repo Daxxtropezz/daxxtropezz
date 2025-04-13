@@ -19,27 +19,32 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Run Pacman at 12 AM (00:00) UTC (AM)
+      # Create the dist directory (fixes "Build dir does not exist")
+      - name: Set up output directory
+        run: mkdir -p dist
+
+      # Run Pacman (AM)
       - name: Generate Pacman (AM)
         if: github.event.schedule == '0 */12 * * *' && contains(github.run_id, '1')
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          output_file: dist/pacman-contribution-graph.svg  # Explicit output path
 
-      # Run Snake at 12 PM (12:00) UTC (PM)
+      # Run Snake (PM)
       - name: Generate Snake (PM)
         if: github.event.schedule == '0 */12 * * *' && contains(github.run_id, '0')
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg?palette=github-dark&snake=#ADD8E6&background=#000080
+          outputs: dist/snake.svg?palette=github-dark&snake=#ADD8E6&background=#000080
 
-      # Deploy to output branch (works for both)
-      - name: Deploy to GitHub Pages
+      # Deploy to GitHub Pages
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
