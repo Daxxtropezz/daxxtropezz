@@ -34,8 +34,11 @@
   </a>
 </p>
 
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg" alt="Snake animation" />
+</p>
 
 ## Activity On GitHub
 <table align="center" width="100%">
@@ -201,8 +204,6 @@
 ![rotd-duel](https://github.com/user-attachments/assets/bc62dfaa-7c60-49dd-ac81-f561d235e2b2)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
-
-<img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg" alt="Snake animation" />
 
 <!-- COL -->
 <div align="center">
