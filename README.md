@@ -46,9 +46,11 @@
     media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
   >
-  <img 
-    alt="GitHub Contributions Animation" 
+  <img
     src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
+  >
+  <img
+    src="https://raw.githubusercontent.com/daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
   >
 </picture>
 </p>
