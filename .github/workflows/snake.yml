@@ -12,29 +12,34 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Checkout repository
+      - name: Checkout output branch
         uses: actions/checkout@v3
         with:
-          ref: output  # Checkout the output branch directly
+          ref: output
+          path: output  # Checkout to output/ subdirectory
 
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: latest-contribution.svg?palette=github-dark&snake=#ADD8E6&background=#000080
+          outputs: output/latest-contribution.svg?palette=github-dark&snake=#ADD8E6&background=#000080
 
-      - name: Verify changes
-        id: verify
+      - name: Verify SVG was generated
         run: |
-          cd output
-          git diff --quiet || echo "changes=true" >> $GITHUB_OUTPUT
+          if [ ! -f "output/latest-contribution.svg" ]; then
+            echo "Error: SVG file was not generated!"
+            exit 1
+          fi
+          if ! grep -q '<svg' output/latest-contribution.svg; then
+            echo "Error: Invalid SVG content!"
+            exit 1
+          fi
 
-      - name: Commit and push
-        if: steps.verify.outputs.changes == 'true'
+      - name: Commit and push changes
         run: |
           cd output
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add latest-contribution.svg
-          git commit -m "Update Snake animation [skip ci]"
+          git diff --cached --quiet || git commit -m "Update Snake animation [skip ci]"
           git push
