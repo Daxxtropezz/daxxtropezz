@@ -2,20 +2,20 @@ name: Animated Contributions Scheduler
 
 on:
   schedule:
-    - cron: "0 0,12 * * *"  # Runs at 12 AM and 12 PM UTC
+    - cron: "0 0,12 * * *"  # Still runs at 12 AM and 12 PM UTC
   workflow_dispatch:
 
 jobs:
   trigger-pacman:
-    if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
+    if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'  # Changed to 12 PM (noon)
     uses: ./.github/workflows/pacman.yml
     permissions:
-      contents: write  # Explicitly grant write permissions
+      contents: write
     secrets: inherit
 
   trigger-snake:
-    if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
+    if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'  # Changed to 12 AM (midnight)
     uses: ./.github/workflows/snake.yml
     permissions:
-      contents: write  # Explicitly grant write permissions
+      contents: write
     secrets: inherit
