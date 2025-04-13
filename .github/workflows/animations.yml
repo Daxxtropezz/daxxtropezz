@@ -21,14 +21,14 @@ jobs:
 
       # Run Pacman at 12 AM (00:00) UTC (AM)
       - name: Generate Pacman (AM)
-        if: github.event.schedule == '0 */12 * * *' && (github.run_attempt == 1 && github.run_number % 2 == 1)
+        if: github.event.schedule == '0 */12 * * *' && contains(github.run_id, '1')
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
       # Run Snake at 12 PM (12:00) UTC (PM)
       - name: Generate Snake (PM)
-        if: github.event.schedule == '0 */12 * * *' && (github.run_attempt == 1 && github.run_number % 2 == 0)
+        if: github.event.schedule == '0 */12 * * *' && contains(github.run_id, '0')
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
