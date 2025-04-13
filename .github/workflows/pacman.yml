@@ -24,22 +24,18 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           output_file: output/latest-contribution.svg
 
-      - name: Validate SVG
+      - name: Verify changes
+        id: verify
         run: |
-          if [ ! -s "output/latest-contribution.svg" ]; then
-            echo "Error: SVG file is empty!"
-            exit 1
-          fi
-          if ! grep -q '<svg' output/latest-contribution.svg; then
-            echo "Error: Invalid SVG content!"
-            exit 1
-          fi
+          cd output
+          git diff --quiet || echo "changes=true" >> $GITHUB_OUTPUT
 
       - name: Commit and push
+        if: steps.verify.outputs.changes == 'true'
         run: |
           cd output
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add latest-contribution.svg
-          git commit -m "Update Pacman animation"
+          git commit -m "Update Pacman animation [skip ci]"
           git push
