@@ -37,11 +37,9 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/latest-contribution.svg" 
-    alt="GitHub contribution graph" 
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/latest-contribution.svg" 
+       alt="GitHub Contribution Graph" 
+       width="100%">
 </p>
 
 ## Activity On GitHub
