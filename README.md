@@ -81,7 +81,7 @@
 
 <!-- Most Languages Used -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&locale=en&hide_title=false&layout=pie&card_width=300&langs_count=16&theme=github_dark&hide_border=true&order=2" height="600" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&locale=en&hide_title=true&layout=pie&card_width=300&langs_count=16&theme=github_dark&hide_border=true&order=2" height="600" alt="languages graph"/>
 </p>
      
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
