@@ -9,9 +9,13 @@ jobs:
   trigger-pacman:
     if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
     uses: ./.github/workflows/pacman.yml
+    permissions:
+      contents: write  # Explicitly grant write permissions
     secrets: inherit
 
   trigger-snake:
     if: github.event.schedule == '0 12 * * *' || github.event_name == 'workflow_dispatch'
     uses: ./.github/workflows/snake.yml
+    permissions:
+      contents: write  # Explicitly grant write permissions
     secrets: inherit
