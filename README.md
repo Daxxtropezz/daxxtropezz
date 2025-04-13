@@ -48,15 +48,15 @@
 </picture> -->
 
 <picture align="center">
-  <source 
+  <source align="center"
     media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
   >
-  <source 
+  <source align="center"
     media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
   >
-  <img 
+  <img align="center"
     alt="GitHub Contributions Animation" 
     src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
   >
