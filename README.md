@@ -66,16 +66,16 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=a8cbff&text_color=FFFFFF" alt="Cyber Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="Activity Graph"/>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area=true&hide_border=true&theme=dracula" alt="Cyber Activity"/>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=a8cbff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&order=1" alt="stats graph"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat" alt="streak graph"/>
     </td>
   </tr>
 </table>
@@ -83,14 +83,14 @@
 ## My Trophies 🏆:
 
 <p align="center">
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=daxxtropezz&theme=algolia&row=2&column=3&no-frame=true" alt="Trophy Graph" />  
+<img src="https://github-profile-trophy.vercel.app?username=daxxtropezz&theme=algolia&column=5&row=5&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="250" alt="trophy graph"  /> 
 </p>
 
 ## Languages and Tools:
 
 <!-- Most Languages Used -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="Programming Languages Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"/>
 
 <table width="100%" align="center"> <!-- 10x10 -->
     <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
