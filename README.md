@@ -10,15 +10,30 @@
 <img src="https://github.com/user-attachments/assets/dda47962-c9e6-42e5-a567-4c623124622d" width="100%">
 
 <h2 align="center" style="color:#00FFAA; font-family:monospace;">🌐 DAXXTROPEZZ: A FULLSTACK DEVELOPER 🌐</h2> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> In the ever-expanding digital world, a developer from the 🇵🇭 Philippines codes his way through challenges and possibilities. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Known online as <strong>John Paul Miraflores</strong>, he explores web and mobile development with a toolkit that includes HTML, CSS, JS, React, Angular, and more. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Driven by design principles, clean code, and performance — he builds apps that are fast, responsive, and user-friendly. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Whether collaborating on projects or solving complex tech puzzles, he pushes for innovation and continuous learning. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Off the code battlefield, he mentors others and shares knowledge to keep the dev force alive. 💻 </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Always exploring the frontiers of fullstack development, always evolving. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> 💾 Join the mission. Let’s shape the digital future — together. 🧠🚀 </p>
-<h3 align="left">Connect with me:</h3>
+
+### 🤝 Connect With Me
+
 <p align="left">
-    <a href="https://www.behance.net/daxxtropezz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Link" height="50" width="50" /></a>
-    <a href="https://fb.com/daxxtropezz"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Link" height="50" width="50" /></a>
-    <a href="https://linkedin.com/in/daxxtropezz"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Link" /></a>
-    <a href="https://stackoverflow.com/users/21004406"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stackoverflow Link" /></a>
-    <a href="https://instagram.com/daxxtropezz"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Link" /></a>
-    <a href="mailto:miraflores.john@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email Navigation" /></a>
-</p> 
+  <a href="https://www.behance.net/daxxtropezz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance Link" height="50" width="50" />
+  </a>
+  <a href="https://fb.com/daxxtropezz" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Link" height="50" width="50" />
+  </a>
+  <a href="https://linkedin.com/in/daxxtropezz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/21004406" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" alt="Stack Overflow" height="40" />
+  </a>
+  <a href="https://instagram.com/daxxtropezz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" />
+  </a>
+  <a href="mailto:miraflores.john@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" />
+  </a>
+</p>
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator --> 
 
