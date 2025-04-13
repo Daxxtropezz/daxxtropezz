@@ -20,10 +20,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation
+      - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Daxxtropezz
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?palette=github-dark&snake=#ADD8E6&background=#000080
 
