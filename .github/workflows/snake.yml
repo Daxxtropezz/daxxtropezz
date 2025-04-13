@@ -1,26 +1,21 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    - cron: "0 */8 * * *"  
+  workflow_call:
   workflow_dispatch:
-  push:
-    branches:
-      - main 
-
-permissions:
-  contents: write
 
 jobs:
   generate:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: generate snake.svg
+      - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -32,5 +27,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          keep_history: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
