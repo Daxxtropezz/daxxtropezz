@@ -1,32 +1,28 @@
 name: Generate Snake Animation
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 */8 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate snake animation
+      - uses: actions/checkout@v3
+        
+      - name: Generate Snake
         uses: Platane/snk@v2
         with:
           github_user_name: Daxxtropezz
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            snake.svg
+            snake-dark.svg
 
-      - name: Deploy to output branch
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-          force_orphan: true
+          name: snake-animation
+          path: |
+            snake.svg
+            snake-dark.svg
