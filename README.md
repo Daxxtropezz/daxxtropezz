@@ -50,7 +50,7 @@
     src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
   >
   <img
-    src="https://raw.githubusercontent.com/daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/daxxtropezz/daxxtropezz/output/pacman-contribution-graph-dark.svg"
   >
 </picture>
 </p>
