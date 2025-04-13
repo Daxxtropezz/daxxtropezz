@@ -48,9 +48,18 @@
 </picture> -->
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg">
-  <img alt="GitHub Contributions Animation" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
+  >
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
+  >
+  <img 
+    alt="GitHub Contributions Animation" 
+    src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
+  >
 </picture>
 
 ## Activity On GitHub
