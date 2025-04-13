@@ -37,20 +37,11 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 <p align="center">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
-    >
-    <source 
-      media="(prefers-color-scheme: light)" 
-      srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
-    >
-    <img 
-      alt="GitHub Contributions Graph" 
-      src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
-    >
-  </picture>
+  <img 
+    src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/latest-contribution.svg" 
+    alt="GitHub contribution graph" 
+    width="100%"
+  />
 </p>
 
 ## Activity On GitHub
