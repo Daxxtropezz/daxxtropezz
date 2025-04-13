@@ -23,8 +23,9 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Daxxtropezz 
-          outputs: dist/snake.svg?palette=github-dark
+          github_user_name: Daxxtropezz
+          outputs: |
+            dist/snake.svg?palette=github-dark&snake=#ADD8E6&background=#000080
 
       - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
