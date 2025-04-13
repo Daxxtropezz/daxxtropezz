@@ -47,20 +47,22 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
 </picture> -->
 
-<picture align="center">
-  <source align="center"
+<p align="center">
+<picture >
+  <source 
     media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
   >
-  <source align="center"
+  <source 
     media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/pacman-contribution-graph.svg"
   >
-  <img align="center"
+  <img 
     alt="GitHub Contributions Animation" 
     src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg"
   >
 </picture>
+</p>
 
 ## Activity On GitHub
 
