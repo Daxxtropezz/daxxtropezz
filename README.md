@@ -81,9 +81,10 @@
 
 <!-- Most Languages Used -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&locale=en&hide_title=false&layout=pie&card_width=320&langs_count=16&card_width=320&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&locale=en&hide_title=false&layout=pie&card_width=300&langs_count=16&theme=github_dark&hide_border=true&order=2" height="600" alt="languages graph"/>
 
-<table width="100%" align="center"> <!-- 10x10 -->
+
+<!-- <table width="100%" align="center"> <!-- 10x10 -->
     <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
         <td>⠀⠀⠀⠀⠀⠀⠀</td>
         <td>⠀⠀⠀⠀⠀⠀⠀</td>
@@ -209,8 +210,7 @@
     </tr> 
     <tr width="100%" align="center"> <!-- Line 12 | Spacing -->  
         <td colspan="11">⠀⠀⠀⠀⠀⠀⠀</td>
-    </tr> 
-</table>
+    </tr> </table> -->
 
 </p>
      
