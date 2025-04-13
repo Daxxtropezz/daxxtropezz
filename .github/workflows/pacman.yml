@@ -19,7 +19,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          output_file: dist/pacman-contribution-graph.svg
+          output_file: dist/latest-contribution.svg
           light: true
           dark: true
 
