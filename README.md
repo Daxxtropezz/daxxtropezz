@@ -63,7 +63,7 @@
 ## My Trophies 🏆:
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" height="250" alt="trophy graph"  /> 
+<img src="https://github-profile-trophy.vercel.app?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  /> 
 </p>
 
 ## Languages and Tools:
