@@ -8,7 +8,7 @@
 
 <!-- Profile Cover -->
 <!-- <img src="https://github.com/user-attachments/assets/dda47962-c9e6-42e5-a567-4c623124622d" width="100%"> -->
-<a href="https://daxxtropezz.github.io">
+<a href="https://daxxtropezz.vercel.app">
         <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" />
     </a>
 
