@@ -7,7 +7,10 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
 <!-- Profile Cover -->
-<img src="https://github.com/user-attachments/assets/dda47962-c9e6-42e5-a567-4c623124622d" width="100%">
+<!-- <img src="https://github.com/user-attachments/assets/dda47962-c9e6-42e5-a567-4c623124622d" width="100%"> -->
+<a href="https://daxxtropezz.github.io">
+        <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" />
+    </a>
 
 <h2 align="center" style="color:#00FFAA; font-family:monospace;">🌐 DAXXTROPEZZ: A FULLSTACK DEVELOPER 🌐</h2> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> In the ever-expanding digital world, a developer from the 🇵🇭 Philippines codes his way through challenges and possibilities. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Known online as <strong>John Paul Miraflores</strong>, he explores web and mobile development with a toolkit that includes HTML, CSS, JS, React, Angular, and more. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Driven by design principles, clean code, and performance — he builds apps that are fast, responsive, and user-friendly. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Whether collaborating on projects or solving complex tech puzzles, he pushes for innovation and continuous learning. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Off the code battlefield, he mentors others and shares knowledge to keep the dev force alive. 💻 </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Always exploring the frontiers of fullstack development, always evolving. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> 💾 Join the mission. Let’s shape the digital future — together. 🧠🚀 </p>
 
@@ -75,7 +78,7 @@
      
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
-![rotd-duel](https://github.com/user-attachments/assets/bc62dfaa-7c60-49dd-ac81-f561d235e2b2)
+<!-- ![rotd-duel](https://github.com/user-attachments/assets/bc62dfaa-7c60-49dd-ac81-f561d235e2b2) -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%"> <!-- separator -->
 
