@@ -18,11 +18,10 @@
 
 - 🧠 Fullstack Developer — Vue.js, Laravel, TailwindCSS, and Inertia.js  
 - 🔐 Red Teamer — Focused on exploiting networks & web apps  
-- 🛡️ Threat Hunter — Using tools like Wazuh, Suricata, and ELK  
-- ⚙️ Automation — Skilled in Python, Bash, and Ansible scripting  
-- 🌐 Network & Security Admin — 4+ years managing firewalls, switches, XDR, EDR, IPS, and WAF  
-- 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes, Ansible  
-- ☁️ Cloud & Virtualization — Experienced with AWS, Proxmox, Linode, HCI, and native hypervisors  
+- 🛡️ Threat Hunter
+- ⚙️ Automation — Skilled in Python, and Bash 
+- 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes  
+- ☁️ Cloud & Virtualization — Experienced with AWS, Linode, and HCI  
  </p>
 
 ### 🤝 Connect With Me
