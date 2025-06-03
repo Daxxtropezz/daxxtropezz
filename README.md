@@ -12,7 +12,18 @@
         <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" />
     </a>
 
-<h2 align="center" style="color:#00FFAA; font-family:monospace;">🌐 DAXXTROPEZZ: A FULLSTACK DEVELOPER 🌐</h2> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> In the ever-expanding digital world, a developer from the 🇵🇭 Philippines codes his way through challenges and possibilities. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Known online as <strong>John Paul Miraflores</strong>, he explores web and mobile development with a toolkit that includes HTML, CSS, JS, React, Angular, and more. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Driven by design principles, clean code, and performance — he builds apps that are fast, responsive, and user-friendly. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Whether collaborating on projects or solving complex tech puzzles, he pushes for innovation and continuous learning. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Off the code battlefield, he mentors others and shares knowledge to keep the dev force alive. 💻 </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> Always exploring the frontiers of fullstack development, always evolving. </p> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> 💾 Join the mission. Let’s shape the digital future — together. 🧠🚀 </p>
+<h2 align="center" style="color:#00FFAA; font-family:monospace;">🌐 DAXXTROPEZZ: A FULLSTACK DEVELOPER 🌐</h2> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> 
+
+# 🧑🏻‍💻 Who Am I?
+
+- 🧠 Fullstack Developer — Vue.js, Laravel, TailwindCSS, and Inertia.js  
+- 🔐 Red Teamer — Focused on exploiting networks & web apps  
+- 🛡️ Threat Hunter — Using tools like Wazuh, Suricata, and ELK  
+- ⚙️ Automation — Skilled in Python, Bash, and Ansible scripting  
+- 🌐 Network & Security Admin — 4+ years managing firewalls, switches, XDR, EDR, IPS, and WAF  
+- 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes, Ansible  
+- ☁️ Cloud & Virtualization — Experienced with AWS, Proxmox, Linode, HCI, and native hypervisors  
+ </p>
 
 ### 🤝 Connect With Me
 
