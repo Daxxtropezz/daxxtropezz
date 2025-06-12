@@ -17,7 +17,7 @@
 # 🧑🏻‍💻 Who Am I?
 
 - 🧠 Fullstack Developer — Vue.js, Typescript, React, Laravel, shadcn, TailwindCSS, and Inertia.js
-- 🟣 Purple Teamer — Bridging offensive (Google dorking, honeypot evasion) and defensive tactics
+- 🟣 Purple Teamer — Bridging offensive (Google dorking, Shodan, honeypot evasion) and defensive tactics
 - 🛡️ Threat Hunter
 - ⚙️ Automation — Skilled in Python and Bash
 - 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes
