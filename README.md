@@ -16,12 +16,12 @@
 
 # 🧑🏻‍💻 Who Am I?
 
-- 🧠 Fullstack Developer — Vue.js, Laravel, TailwindCSS, and Inertia.js  
-- 🔐 Red Teamer — Focused on exploiting networks & web apps  
+- 🧠 Fullstack Developer — Vue.js, Typescript, React, Laravel, shadcn, TailwindCSS, and Inertia.js
+- 🟣 Purple Teamer — Bridging offensive (Google dorking, honeypot evasion) and defensive tactics
 - 🛡️ Threat Hunter
-- ⚙️ Automation — Skilled in Python, and Bash 
-- 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes  
-- ☁️ Cloud & Virtualization — Experienced with AWS, Linode, and HCI  
+- ⚙️ Automation — Skilled in Python and Bash
+- 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes
+- ☁️ Cloud & Virtualization — Experienced with AWS, Linode, and HCI
  </p>
 
 ### 🤝 Connect With Me
