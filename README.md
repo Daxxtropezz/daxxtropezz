@@ -16,12 +16,12 @@
 
 # 🧑🏻‍💻 Who Am I? <a href="https://www.credly.com/users/daxxtropezz" target="_blank"><img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/></a>
 
-- 🧠 Fullstack Developer — Vue.js, Typescript, React, Laravel, shadcn, TailwindCSS, and Inertia.js
-- 🟣 Purple Teamer — Bridging offensive (Google dorking, Shodan, honeypot evasion) and defensive tactics
-- 🛡️ Threat Hunter
-- ⚙️ Automation — Skilled in Python and Bash
-- 📦 DevSecOps & System Admin — Building CI/CD workflows with Docker, Nginx, Kubernetes
-- ☁️ Cloud & Virtualization — Experienced with AWS, Linode, and HCI
+- 🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL
+- 🟣 Purple Teamer — Bridging offensive (ethical hacking, dorking, Shodan, honeypot evasion) and defensive tactics (threat management, secure coding, incident response)
+- 🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization
+- ⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation
+- 📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage
+- 🔐 Cybersecurity — Penetration Testing, Vulnerability Management, Risk Assessment, Social Engineering, InfoSec Analysis
  </p>
 
 ### 🤝 Connect With Me
