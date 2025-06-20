@@ -14,7 +14,7 @@
 
 <h2 align="center" style="color:#00FFAA; font-family:monospace;">🌐 DAXXTROPEZZ: A FULLSTACK DEVELOPER 🌐</h2> <p align="center" style="color:#00ffcc; font-family:Courier New, monospace;"> 
 
-# 🧑🏻‍💻 Who Am I?
+# 🧑🏻‍💻 Who Am I? <a href="https://www.credly.com/users/daxxtropezz" target="_blank"><img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/></a>
 
 - 🧠 Fullstack Developer — Vue.js, Typescript, React, Laravel, shadcn, TailwindCSS, and Inertia.js
 - 🟣 Purple Teamer — Bridging offensive (Google dorking, Shodan, honeypot evasion) and defensive tactics
