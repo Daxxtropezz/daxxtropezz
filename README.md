@@ -37,6 +37,10 @@
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=12" alt="Top Languages"/>
+</p>
+
 | Programming Languages  | Frontend  | Backend | Databases | DevOps & Cloud | Cybersecurity | Machine Learning |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) | ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) |
@@ -50,7 +54,8 @@
 <!--        BADGE SHOWCASE         -->
 <!-- ============================== -->
 
-# 🏅 Badge Showcase (Click to View)
+# 🏅 Badge Showcase
+> Click to view
 
 <table>
     <tr>
@@ -143,10 +148,6 @@
 </table>
 
 <!-- ============================== -->
-<!--         CONNECT SECTION       -->
-<!-- ============================== -->
-
-<!-- ============================== -->
 <!--       PROFESSIONAL NETWORK    -->
 <!-- ============================== -->
 
@@ -215,16 +216,6 @@
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  />
-</p>
-
-<!-- ============================== -->
-<!--     LANGUAGES & TOOLS GRAPH   -->
-<!-- ============================== -->
-
-## Languages and Tools:
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=12" alt="Top Languages"/>
 </p>
 
 <!-- ============================== -->
