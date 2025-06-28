@@ -41,15 +41,15 @@
 <table align="center" width="100%">
   <tr>
     <td align="center" width="96">
-      <a href="https://linkedin.com/in/daxxtropezz" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn Profile" />
-        <br>LinkedIn
-      </a>
-    </td>
-    <td align="center" width="96">
       <a href="https://stackoverflow.com/users/21004406" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="48" height="48" alt="Stack Overflow Profile" />
         <br>Stack Overflow
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.behance.net/daxxtropezz" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="48" height="48" alt="Behance Portfolio" />
+        <br>Behance
       </a>
     </td>
     <td align="center" width="96">
@@ -59,9 +59,9 @@
       </a>
     </td>
     <td align="center" width="96">
-      <a href="https://www.behance.net/daxxtropezz" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="48" height="48" alt="Behance Portfolio" />
-        <br>Behance
+      <a href="https://linkedin.com/in/daxxtropezz" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn Profile" />
+        <br>LinkedIn
       </a>
     </td>
   </tr>
