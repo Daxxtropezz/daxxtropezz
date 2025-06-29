@@ -91,19 +91,19 @@
     </tr>
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/18786d96-f15d-42a8-adbb-2dbcd0c417e6" target="_blank">
+      <a href="https://www.credly.com/badges/18786d96-f15d-42a8-adbb-2dbcd0c417e6" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation with Python" width="80"/><br/>
         <sub>Google IT Automation with Python</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/371fcf0d-e1da-40c7-b585-70abf07e1771" target="_blank">
+      <a href="https://www.credly.com/badges/371fcf0d-e1da-40c7-b585-70abf07e1771" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" width="80"/><br/>
         <sub>Cyber Threat Management</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/88b30c05-4fce-4490-8bed-e5e129c402b3" target="_blank">
+      <a href="https://www.credly.com/badges/88b30c05-4fce-4490-8bed-e5e129c402b3" target="_blank">
         <img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="80"/><br/>
         <sub>Ethical Hacker</sub>
       </a>
@@ -117,25 +117,25 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/4b674fec-36a9-4fca-a448-6c8da710beca" target="_blank">
+      <a href="https://www.credly.com/badges/4b674fec-36a9-4fca-a448-6c8da710beca" target="_blank">
         <img src="https://images.credly.com/size/80x80/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" alt="AWS File Storage" width="80"/><br/>
         <sub>AWS Knowledge: File Storage</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/9eb5ca39-e640-498c-b47e-d65a7df057a8" target="_blank">
+      <a href="https://www.credly.com/badges/9eb5ca39-e640-498c-b47e-d65a7df057a8" target="_blank">
         <img src="https://images.credly.com/size/80x80/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Serverless" width="80"/><br/>
         <sub>AWS Knowledge: Serverless</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/f16e093b-f86d-4dd5-8dbd-7f1909025bc4" target="_blank">
+      <a href="https://www.credly.com/badges/f16e093b-f86d-4dd5-8dbd-7f1909025bc4" target="_blank">
         <img src="https://images.credly.com/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials" width="80"/><br/>
         <sub>Google AI Essentials V1</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/7ae51259-5300-4f74-b89d-c1cb018a6cc0" target="_blank">
+      <a href="https://www.credly.com/badges/7ae51259-5300-4f74-b89d-c1cb018a6cc0" target="_blank">
         <img src="https://images.credly.com/size/80x80/images/ed0b623e-8152-4a9b-8d09-0cc8a7ad72ad/image.png" alt="AI in the Cloud" width="80"/><br/>
         <sub>AI in the Cloud</sub>
       </a>
@@ -143,7 +143,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/26d5e8e7-a5ba-4e8c-ab22-443110d9880b" target="_blank">
+      <a href="https://www.credly.com/badges/26d5e8e7-a5ba-4e8c-ab22-443110d9880b" target="_blank">
         <img src="https://images.credly.com/images/82b908e1-fdcd-4785-9d32-97f11ccbcf08/image.png" alt="AI Fundamentals" width="80"/><br/>
         <sub>Artificial Intelligence Fundamentals</sub>
       </a>
@@ -155,7 +155,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.credly.com/earner/earned/badge/e8ea1e5e-5f8e-429c-a401-d783a222eea2" target="_blank">
+      <a href="https://www.credly.com/badges/e8ea1e5e-5f8e-429c-a401-d783a222eea2" target="_blank">
         <img src="https://images.credly.com/size/80x80/images/ee986187-6637-45e9-8184-8382dc117432/blob" alt="LFD121: Developing Secure Software" width="80"/><br/>
         <sub>LFD121: Developing Secure Software</sub>
       </a>
