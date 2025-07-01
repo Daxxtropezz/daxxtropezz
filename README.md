@@ -53,15 +53,15 @@
       </a>
     </td>
     <td align="center" width="96">
-      <a href="mailto:miraflores.john@gmail.com" target="_blank" rel="noopener noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Professional Email" />
-        <br>Email
-      </a>
-    </td>
-    <td align="center" width="96">
       <a href="https://linkedin.com/in/daxxtropezz" target="_blank" rel="noopener noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn Profile" />
         <br>LinkedIn
+      </a>
+    </td>
+     <td align="center" width="96">
+      <a href="mailto:miraflores.john@gmail.com" target="_blank" rel="noopener noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" alt="Professional Email" />
+        <br>Email
       </a>
     </td>
   </tr>
@@ -77,7 +77,7 @@
 <!-- ============================== -->
 
 # 🏅 Badge Showcase
-> Click to view
+> Click the icon badges to view more information about the badge
 
 <table>
     <tr>
