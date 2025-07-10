@@ -225,7 +225,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a>
-  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/latest-contribution.svg">
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/latest-contribution.svg">
   <table align="center" height="100%"> 
     <tr>
       <td align="center">
