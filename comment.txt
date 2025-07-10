@@ -1,0 +1,177 @@
+<!-- April 13 2025 -->
+<!--
+<picture align="center">
+  <img alt="Snake animation"  src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/output/snake.svg" />
+</picture>
+
+<!-- April 13 2025 | 21:32 -->
+<table width="100%" align="center"> <!-- 10x10 -->
+    <tr width="100%" align="center"> <!-- Line 0 | Spacing -->  
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td colspan="2">⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+        <td>⠀⠀⠀⠀⠀⠀⠀</td>
+    </tr> 
+    <tr width="100%" align="center"> <!-- Line 1 | Languages -->
+        <th>Languages</th>
+        <td><img src="https://skillicons.dev/icons?i=java" alt="java-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=js" alt="js-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=php" alt="php-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=dart" alt="dart-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=cpp" alt="cpp-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=cs" alt="cs-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=python" alt="python-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=ts" alt="ts-icon" /></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 2 | Frameworks --> 
+        <th>Frameworks</th>
+        <td><img src="https://skillicons.dev/icons?i=laravel" alt="laravel-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=react" alt="react-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=next" alt="flutter-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=angular" alt="angular-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=flutter" alt="next-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=django" alt="django-icon" /></td>
+        <td colspan="3"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 3 | Frontend --> 
+        <th>Frontend</th>
+        <td><img src="https://skillicons.dev/icons?i=html" alt="html-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=css" alt="css-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=vue" alt="vue-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=vite" alt="vite-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=materialui" alt="materialui-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=sass" alt="sass-icon" /></td>
+        <td colspan="2"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 4 | Backend --> 
+        <th>Backend</th>
+        <td><img src="https://skillicons.dev/icons?i=spring" alt="spring-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=express" alt="express-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs-icon" /></td>
+        <td colspan="2"></td>
+        <td rowspan="2"><strong>BaaS</strong></td>
+        <td rowspan="2"><img src="https://skillicons.dev/icons?i=firebase" alt="firebase-icon" /></td>
+        <td rowspan="2"></td>
+        <td rowspan="2"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 5 | Databases --> 
+        <th>Databases</th>
+        <td><img src="https://skillicons.dev/icons?i=mysql" alt="mysql-icon" /></td> 
+        <td><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb-icon" width="40" height="40" /></td>
+        <td><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb-icon" /></td>
+        <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle-icon" width="40" height="40" /></td>
+        <td><img src="https://skillicons.dev/icons?i=supabase" alt="supabase-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=graphql" alt="graphql-icon" /></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 6 | DevOps --> 
+        <th>DevOps</th>
+        <td><img src="https://skillicons.dev/icons?i=aws" alt="aws-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=docker" alt="docker-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=gcp" alt="gcp-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=git" alt="git-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=nginx" alt="nginx-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes-icon" /></td>
+        <td colspan="3"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 7 | IDE --> 
+        <th>IDE</th>
+        <td><img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio-icon" /></td>
+        <td colspan="7"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 8 | DiskOS --> 
+        <th>DiskOS</th>
+        <td><img src="https://skillicons.dev/icons?i=linux" alt="linux-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=redhat" alt="redhat-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=kali" alt="kali-icon" /></td>
+        <td colspan="6"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 9 | Editor --> 
+        <th>Editor</th>
+        <td><img src="https://skillicons.dev/icons?i=vscode" alt="vscode-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=sublime" alt="sublime-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=md" alt="md-icon" /></td>
+        <td colspan="7"></td>
+    </tr>
+    <tr width="100%" align="center"> <!-- Line 10 | Extras --> 
+        <th rowspan="2">Extras</th>
+        <td><img src="https://skillicons.dev/icons?i=unity" alt="unity-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=codepen" alt="codepen-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=notion" alt="notion-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=androidstudio" alt="androidstudio-icon" /></td>
+        <td rowspan="2"><strong>Viz</strong></td>
+        <td rowspan="2"><img src="https://skillicons.dev/icons?i=d3" alt="d3-icon" /></td>
+        <td><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /></td>
+        <td rowspan="2"><strong>Adobe</strong></td>
+        <td><img src="https://skillicons.dev/icons?i=ai" alt="ai-icon" /></td>
+    </tr> 
+    <tr width="100%" align="center"> <!-- Line 11 | Extras -->  
+        <td><img src="https://skillicons.dev/icons?i=postman" alt="postman-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=figma" alt="figma-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=blender" alt="blender-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=sketchup" alt="sketchup-icon" /></td>
+        <td><img src="https://skillicons.dev/icons?i=robloxstudio" alt="robloxstudio-icon" /></td>
+        <td><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" /></td>
+        <td><img src="https://skillicons.dev/icons?i=ps" alt="ps-icon" /></td>
+    </tr> 
+    <tr width="100%" align="center"> <!-- Line 12 | Spacing -->  
+        <td colspan="11">⠀⠀⠀⠀⠀⠀⠀</td>
+    </tr>
+</table>
+
+---
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Daxxtropezz/Daxxtropezz/output/pacman-contribution-graph.svg">
+</picture> -->
+
+
+<!--<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"> -->
+<!-- <details align="center">
+    <summary>My Forever Follower</summary>
+    <p>  
+        <a href="https://www.facebook.com/rayhernandez17"><img src="https://github.com/user-attachments/assets/273c94bf-afc5-4716-8bc1-3b384915f7cc" alt="Jealous-Person" /></a>
+    </p>
+</details> -->
+<!-- Shiro no Kitsune -->
+<!-- <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> -->
+<!-- Spotify -->
+<!-- <p align="center"> -->
+<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=r4fxmiqztrsfk4nguvlzjxr57&count=4" /> -->
+<!-- </p> -->
+<!-- [![MyCover](https://github.com/user-attachments/assets/d667201b-36d0-4ba0-81db-c6895526fa42)](https://daxxtropezz.github.io) -->
+
+
+<!--[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/bbefa799786133.5efa9bf3d1b49.gif)](https://daxxtropezz.github.io) -->
+<!-- [![MasterHead](https://github.com/user-attachments/assets/7e1d9a74-2178-4472-bc51-1732f6a42d4d)](https://daxxtropezz.github.io) -->
+<!--  <img align="left" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%"> -->
+<!--<img align="right" src="https://github.com/user-attachments/assets/7c8c6918-5cdc-4eaf-b3c7-f3b535d65be2" width="21%" > -->
+<!-- CHERRY BLOSSOMS -->
+<!-- <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"> -->
+
+
+ <!--<img align="center" src="https://github-contributor-stats.vercel.app/api?username=daxxtropezz&limit=5&theme=dracula&combine_all_yearly_contributions=truedracula" alt="daxxtropezz" /> -->
+
+
+<!--[![Python](https://img.shields.io/badge/Python-14181c?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org)-->
+<!--<p align="left"> <a href="https://developer.android.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io"  rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://cordova.apache.org/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/"  rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/"  rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.chartjs.org"  rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/"  rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/"  rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.erlang.org/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://expressjs.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/"  rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nim-lang.org/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org"  rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/"  rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scully.io/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://www.sqlite.org/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/"  rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>-->
+
+<!--[![My Badge](https://img.shields.io/badge/Status-Active-brightgreen)](https://example.com)-->
