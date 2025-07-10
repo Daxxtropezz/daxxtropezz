@@ -72,6 +72,7 @@
         <td align="center" colspan="4">
           <a href="https://www.credly.com/users/daxxtropezz" target="_blank">
               <img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/>
+              <img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/>
               <br/>
               <sub>Certified | Ethical Hacker</sub>
           </a>
