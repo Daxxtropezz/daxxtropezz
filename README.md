@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/header.svg" alt="Header" />
-  <h2 align="center">🌐 DAXXTROPEZZ: A SOFTWARE ENGINEER 🌐</h2> 
+  <h2 align="center"><img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/comb.svg" alt="comb" width="100%" /> DAXXTROPEZZ: A SOFTWARE ENGINEER <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/comb.svg" alt="comb" width="100%" /></h2> 
 </p>
  
 <!-- ============================== -->
@@ -259,10 +259,6 @@
 - 🌱 I'm currently working on **Backend development & Oracle 😁**<br>
 - 📄 Know about my experiences by visiting <a href="https://daxxtropezz.vercel.app"> <img src="https://img.shields.io/static/v1?label=%F0%9F%AB%90&message=My%20Portfolio&style=style=flat&color=0f468a" alt="Star Badge"> </a>
 - ⚡ Fun fact: I think I'm funny 🤪<br>
-
-<!-- ============================== -->
-<!--              FOOTER           -->
-<!-- ============================== -->
 
 <div align="center">
   <a href="https://daxxtropezz.vercel.app">
