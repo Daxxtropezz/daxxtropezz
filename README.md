@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/header.svg" alt="Header" />
-  <h2 align="center"><img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/comb.svg" alt="comb" width="100%" /> DAXXTROPEZZ: A SOFTWARE ENGINEER <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/comb.svg" alt="comb" width="100%" /></h2> 
+  <h2 align="center">🌐 DAXXTROPEZZ: A SOFTWARE ENGINEER 🌐</h2> 
 </p>
  
 <!-- ============================== -->
