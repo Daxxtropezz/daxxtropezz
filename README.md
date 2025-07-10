@@ -224,7 +224,8 @@
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA2M2cxNm40cjVxOG10djV3ZDNlMDdxOXZ6NHBtcTZ5OXplNzJyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35"> Extras
 
 <div align="center">
-  <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a>
+  <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a><br/>
+  <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph">
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/latest-contribution.svg">
   <table align="center" height="100%"> 
     <tr>
@@ -242,29 +243,13 @@
 </div>
 
 <!-- ============================== -->
-<!--         VISITOR + STATUS      -->
-<!-- ============================== -->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Visitors&color=7a0eb4&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph">
-  <a href="mailto:miraflores.john@gmail.com">
-    <img src="https://img.shields.io/badge/Let's%20Reach%20Out-3a3a47?logo=gmail&logoColor=blue" />
-  </a>
-</p>
-
-<!-- ============================== -->
 <!--         FUN FACTS & FOOTER    -->
 <!-- ============================== -->
 
-- 🌱 I'm currently working on **Backend development & Oracle 😁**<br>
-- 📄 Know about my experiences by visiting <a href="https://daxxtropezz.vercel.app"> <img src="https://img.shields.io/static/v1?label=%F0%9F%AB%90&message=My%20Portfolio&style=style=flat&color=0f468a" alt="Star Badge"> </a>
-- ⚡ Fun fact: I think I'm funny 🤪<br>
+- 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, & Ethical Hacking 🧑🏻‍💻**<br>
+- ☑️ Fun fact: I think I'm funny 🐦‍⬛<br>
 
 <div align="center">
-  <a href="https://daxxtropezz.vercel.app">
-    <img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="daxxtropezz" width="300" />
-  </a>
-  
   <h3 align="center">Support My Work</h3>
   
   <div>
@@ -276,6 +261,10 @@
       <img height='50' src='https://cdn.buymeacoffee.com/buttons/v2/default-blue.png' alt='Buy Me A Coffee' />
     </a>
   </div>
+  
+  <a href="https://daxxtropezz.vercel.app">
+    <img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="daxxtropezz" width="300" />
+  </a>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
