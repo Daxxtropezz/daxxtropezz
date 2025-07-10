@@ -106,12 +106,12 @@ jobs:
     needs: analyze
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           ref: main
           path: .
       - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: latest-contribution.svg?palette=github-dark&snake=#ADD8E6&background=#000080
