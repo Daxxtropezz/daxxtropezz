@@ -1,0 +1,67 @@
+<svg width="100%" height="100%" id="svg" viewBox="0 0 1440 390" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><style>
+          .path-0{
+            animation:pathAnim-0 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-0{
+            0%{
+              d: path("M 0,400 L 0,75 C 292,75 584,75 824,75 C 1064,75 1252,75 1440,75 L 1440,400 L 0,400 Z");
+            }
+            25%{
+              d: path("M 0,400 L 0,75 C 275,59.5 550,44 790,44 C 1030,44 1235,59.5 1440,75 L 1440,400 L 0,400 Z");
+            }
+            50%{
+              d: path("M 0,400 L 0,75 C 277.5,67.5 555,60 795,60 C 1035,60 1237.5,67.5 1440,75 L 1440,400 L 0,400 Z");
+            }
+            75%{
+              d: path("M 0,400 L 0,75 C 183,81 366,87 606,87 C 846,87 1143,81 1440,75 L 1440,400 L 0,400 Z");
+            }
+            100%{
+              d: path("M 0,400 L 0,75 C 292,75 584,75 824,75 C 1064,75 1252,75 1440,75 L 1440,400 L 0,400 Z");
+            }
+          }</style><path d="M 0,400 L 0,75 C 292,75 584,75 824,75 C 1064,75 1252,75 1440,75 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="#ff0000" fill-opacity="0.4" class="transition-all duration-300 ease-in-out delay-150 path-0"></path><style>
+          .path-1{
+            animation:pathAnim-1 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-1{
+            0%{
+              d: path("M 0,400 L 0,175 C 299,162.5 598,150 838,150 C 1078,150 1259,162.5 1440,175 L 1440,400 L 0,400 Z");
+            }
+            25%{
+              d: path("M 0,400 L 0,175 C 288.5,174.5 577,174 817,174 C 1057,174 1248.5,174.5 1440,175 L 1440,400 L 0,400 Z");
+            }
+            50%{
+              d: path("M 0,400 L 0,175 C 297.5,156.5 595,138 835,138 C 1075,138 1257.5,156.5 1440,175 L 1440,400 L 0,400 Z");
+            }
+            75%{
+              d: path("M 0,400 L 0,175 C 238.5,168.5 477,162 717,162 C 957,162 1198.5,168.5 1440,175 L 1440,400 L 0,400 Z");
+            }
+            100%{
+              d: path("M 0,400 L 0,175 C 299,162.5 598,150 838,150 C 1078,150 1259,162.5 1440,175 L 1440,400 L 0,400 Z");
+            }
+          }</style><path d="M 0,400 L 0,175 C 299,162.5 598,150 838,150 C 1078,150 1259,162.5 1440,175 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="#ff0000" fill-opacity="0.53" class="transition-all duration-300 ease-in-out delay-150 path-1"></path><style>
+          .path-2{
+            animation:pathAnim-2 4s;
+            animation-timing-function: linear;
+            animation-iteration-count: infinite;
+          }
+          @keyframes pathAnim-2{
+            0%{
+              d: path("M 0,400 L 0,275 C 254,272 508,269 748,269 C 988,269 1214,272 1440,275 L 1440,400 L 0,400 Z");
+            }
+            25%{
+              d: path("M 0,400 L 0,275 C 240.5,261 481,247 721,247 C 961,247 1200.5,261 1440,275 L 1440,400 L 0,400 Z");
+            }
+            50%{
+              d: path("M 0,400 L 0,275 C 253,269.5 506,264 746,264 C 986,264 1213,269.5 1440,275 L 1440,400 L 0,400 Z");
+            }
+            75%{
+              d: path("M 0,400 L 0,275 C 189.5,278 379,281 619,281 C 859,281 1149.5,278 1440,275 L 1440,400 L 0,400 Z");
+            }
+            100%{
+              d: path("M 0,400 L 0,275 C 254,272 508,269 748,269 C 988,269 1214,272 1440,275 L 1440,400 L 0,400 Z");
+            }
+          }</style><path d="M 0,400 L 0,275 C 254,272 508,269 748,269 C 988,269 1214,272 1440,275 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="#ff0000" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-2"></path></svg>

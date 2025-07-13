@@ -17,7 +17,8 @@
 
 <p align="center">
   <a href="https://daxxtropezz.vercel.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=FFFFFF00&center=true&random=true&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
+    <!-- 2067EDFF -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=FF0000&background=FFFFFF00&center=true&random=true&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
   </a>
 </p>
 
@@ -50,12 +51,12 @@
   
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> whoami
 
-⦿ &#8287; 🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br>
 ⦿ &#8287; 🔴 Red Teamer — Offensive security specialist (CRTA, CEH) with expertise in ethical hacking, adversary emulation, OWASP Top 10 exploitation, and evasion techniques<br>
-⦿ &#8287; 🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization<br>
-⦿ &#8287; ⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation<br>
-⦿ &#8287; 📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage<br>
 ⦿ &#8287; 🔐 Cybersecurity — Penetration Testing, Vulnerability Management, Risk Assessment, Social Engineering, InfoSec Analysis
+⦿ &#8287; 🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization<br>
+⦿ &#8287; 📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage<br>
+⦿ &#8287; ⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation<br>
+⦿ &#8287; 🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br>
 
 <!-- ⦿ &#8287; 🟣 Purple Teamer — Bridging offensive (ethical hacking, dorking, Shodan, honeypot evasion) and defensive tactics (threat management, secure coding, incident response)<br> -->
 </p>
