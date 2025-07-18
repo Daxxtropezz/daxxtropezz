@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/header.svg" alt="Header" />
 <!--   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/e6c8b922647258c262bf8e87a414d404bbc31008/assets/images/rta-up.svg" alt="Header" /> -->
-  <h2 align="center">🔴 DAXXTROPEZZ: AN EXPLOIT DEVELOPER 🔴</h2> 
+  <h2 align="center">🔴 DAXXTROPEZZ: OFFSEC OFFICER 🔴</h2> 
 </p>
  
 <!-- ============================== -->
@@ -52,12 +52,12 @@
   
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> whoami
 
-⦿ &#8287; 🔴 Red Teamer — Offensive security specialist (CRTA, CEH) with expertise in ethical hacking, adversary emulation, OWASP Top 10 exploitation, and evasion techniques<br>
-⦿ &#8287; 🔐 Cybersecurity — Penetration Testing, Vulnerability Management, Risk Assessment, Social Engineering, InfoSec Analysis
-⦿ &#8287; 🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization<br>
-⦿ &#8287; 📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage<br>
-⦿ &#8287; ⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation<br>
-⦿ &#8287; 🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br>
+🔴 Red Teamer — Offensive security specialist (CRTA, CEH) with expertise in ethical hacking, adversary emulation, OWASP Top 10 exploitation, and evasion techniques<br>
+🔐 Cybersecurity — Penetration Testing, Vulnerability Management, Risk Assessment, Social Engineering, InfoSec Analysis
+🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization<br>
+📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage<br>
+⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation<br>
+🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br>
 
 <!-- ⦿ &#8287; 🟣 Purple Teamer — Bridging offensive (ethical hacking, dorking, Shodan, honeypot evasion) and defensive tactics (threat management, secure coding, incident response)<br> -->
 </p>
