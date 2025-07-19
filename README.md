@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://daxxtropezz.vercel.app">
-    <!-- 2067EDFF -->
+    <!-- 2067EDFF, FF0000 -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=FF0000&background=FFFFFF00&center=true&random=true&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
   </a>
 </p>
@@ -170,7 +170,8 @@
 <table align="center" width="100%">
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
+      <!-- 2650C0, FF0000 -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=FF0000&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
     </td>
   </tr>
   <tr>
@@ -180,10 +181,12 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
+      <!-- 2650C0, FF0000 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=FF0000&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat&hide_border=true&stroke=2650C0" alt="streak graph"/>
+      <!-- 2650C0, FF0000 -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat&hide_border=true&stroke=FF0000" alt="streak graph"/>
     </td>
   </tr>
 </table>
@@ -234,13 +237,14 @@
   <table align="center" height="100%"> 
     <tr>
       <td align="center">
+        <!-- algolia -->
         <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quoteColor=FF0000&border=true&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache">
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quoteColor=FF0000&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
       </td>
     </tr>
   </table>  
