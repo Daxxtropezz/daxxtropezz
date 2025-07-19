@@ -238,13 +238,13 @@
     <tr>
       <td align="center">
         <!-- algolia -->
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia&border=true&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=FFFFFF00&theme=algolia&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quoteColor=FF0000&border=true&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=FF0000&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache">
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quoteColor=FF0000&border=true&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
+        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=FF0000&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
       </td>
     </tr>
   </table>  
