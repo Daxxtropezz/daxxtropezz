@@ -73,12 +73,16 @@
 <table>
     <tr>
         <td align="center" colspan="4">
-          <a href="https://www.credly.com/users/daxxtropezz" target="_blank">
-              <img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/>
-              <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/refs/heads/main/assets/images/17043567286076012013649409456004.png" alt="C|EH Badge" width="50"/>
-              <br/>
-              <sub>Certified | Ethical Hacker</sub>
-          </a>
+         <p>
+              <a href="https://www.credly.com/users/daxxtropezz" target="_blank">
+                <img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/>
+              </a>
+              <a href="https://www.credential.net/group/245161" target="_blank">
+                  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/refs/heads/main/assets/images/17043567286076012013649409456004.png" alt="C|EH Badge" width="50"/>
+                  <br/>
+                  <sub>Certified | Ethical Hacker</sub>
+              </a>
+         </p>
         </td>
     </tr>
   <tr>
