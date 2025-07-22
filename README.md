@@ -258,7 +258,7 @@
 <!--         FUN FACTS & FOOTER    -->
 <!-- ============================== -->
 
-- 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, & Ethical Hacking 🧑🏻‍💻**<br>
+- 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, Red Teaming, & Ethical Hacking 🧑🏻‍💻**<br>
 - ☑️ Fun fact: I think I'm funny 🐦‍⬛<br>
 
 <div align="center">
