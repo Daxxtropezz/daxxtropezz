@@ -62,6 +62,9 @@ jobs:
           cmd_options: "-a"
           allow_issue_writing: false
 
+      - name: List generated reports
+        run: ls -lah
+        
       - name: Upload ZAP Reports
         if: always()
         uses: actions/upload-artifact@v4
