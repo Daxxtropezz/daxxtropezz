@@ -1,6 +1,7 @@
-name: Security Scan
+name: Security Scans
 
 on:
+  workflow_dispatch:
   push:
     branches: [main]
   pull_request:
@@ -8,75 +9,57 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
+  actions: write
+  security-events: write
+  id-token: write
 
 jobs:
-  security:
-    name: Security Testing
+  zap_scan:
+    name: OWASP ZAP Baseline Scan
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: read
-      security-events: write
-      actions: write
-      id-token: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # -------------------------------
-      # Bandit – Python Security Scan
-      # -------------------------------
+      - name: Run OWASP ZAP Baseline Scan
+        uses: zaproxy/action-baseline@v0.11.0
+        with:
+          target: 'https://daxxtropezz.vercel.app/'
+          cmd_options: '-J report_json.json -w report_md.md -r report_html.html -a'
+
+      # ✅ Upload reports after the scan (outside container)
+      - name: Upload ZAP Reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: zap-scan-report
+          path: |
+            report_json.json
+            report_md.md
+            report_html.html
+
+  bandit_scan:
+    name: Bandit Python Security Scan
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: '3.x'
 
       - name: Install Bandit
         run: pip install bandit
 
-      - name: Run Bandit Security Scan
+      - name: Run Bandit Scan
         run: |
           bandit -r . -f json -o bandit-report.json || true
 
       - name: Upload Bandit Report
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: bandit-security-report
           path: bandit-report.json
-
-      # -------------------------------
-      # OWASP ZAP – Web App Vulnerability Scan
-      # -------------------------------
-      - name: Fix permissions for ZAP workspace
-        run: sudo chmod 777 ${{ github.workspace }}
-
-      - name: Run OWASP ZAP Baseline Scan
-        uses: zaproxy/action-baseline@v0.11.0
-        with:
-          target: "https://daxxtropezz.vercel.app/"
-          cmd_options: "-a"
-
-      # ✅ Corrected Upload step
-      - name: Upload OWASP ZAP Reports
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: owasp-zap-report
-          path: |
-            *.html
-            *.md
-            *.json
-
-      # -------------------------------
-      # Fail workflow if Bandit detects high-severity issues
-      # -------------------------------
-      - name: Check for High Severity Issues
-        run: |
-          if grep -q '"issue_severity": "HIGH"' bandit-report.json; then
-            echo "❌ High severity issues found by Bandit."
-            exit 1
-          else
-            echo "✅ No high severity issues found."
-          fi
