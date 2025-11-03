@@ -166,6 +166,25 @@
 </table>
 
 <!-- ============================== -->
+<!--   SECURITY TESTING & CI/CD    -->
+<!-- ============================== -->
+
+## 🧠 Automated Security Testing & CI/CD
+
+To maintain high security standards across development, Daxxtropezz integrates **automated vulnerability testing** within its CI/CD pipeline.
+
+### ⚙️ Implementation Highlights
+- **Security Testing Frameworks:** OWASP ZAP, Bandit (Python), and npm audit for dependency checks  
+- **Continuous Integration:** GitHub Actions run automated scans on each push or pull request  
+- **Coverage:** SQL Injection, XSS, CSRF, insecure authentication, and dependency vulnerabilities  
+- **Reports:** Detailed vulnerability reports are generated to guide secure code fixes  
+
+### 💡 Benefits
+- Detects and prevents common web application vulnerabilities early  
+- Promotes secure development practices across all repositories  
+- Builds trust by ensuring continuous security validation  
+
+<!-- ============================== -->
 <!--     GITHUB ACTIVITY STATS     -->
 <!-- ============================== -->
 
