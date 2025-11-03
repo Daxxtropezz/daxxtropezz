@@ -63,13 +63,14 @@ jobs:
           allow_issue_writing: false
 
       - name: Upload ZAP Reports
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: owasp-zap-report
           path: |
-            report_json.json
-            report_md.md
-            report_html.html
+            *.html
+            *.md
+            *.json
 
       # -------------------------------
       # Fail workflow if Bandit detects high-severity issues
