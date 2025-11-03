@@ -1,0 +1,66 @@
+name: Security Scan
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+jobs:
+  security:
+    name: Security Testing
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      security-events: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # -------------------------------
+      # Bandit – Python Security Scan
+      # -------------------------------
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Bandit
+        run: pip install bandit
+
+      - name: Run Bandit Security Scan
+        run: |
+          bandit -r . -f json -o bandit-report.json || true
+
+      - name: Upload Bandit Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: bandit-security-report
+          path: bandit-report.json
+
+      # -------------------------------
+      # OWASP ZAP – Web App Vulnerability Scan
+      # -------------------------------
+      - name: Run OWASP ZAP Baseline Scan
+        uses: zaproxy/action-baseline@v0.11.0
+        with:
+          target: "http://localhost:8000" # Replace with your web app URL
+          cmd_options: "-a"
+
+      - name: Upload ZAP Report
+        uses: actions/upload-artifact@v4
+        with:
+          name: owasp-zap-report
+          path: zap_scan
+
+      # Optional: Fail the workflow if Bandit finds high-severity issues
+      - name: Check for High Severity Issues
+        run: |
+          if grep -q '"issue_severity": "HIGH"' bandit-report.json; then
+            echo "❌ High severity issues found by Bandit."
+            exit 1
+          else
+            echo "✅ No high severity issues found."
+          fi
