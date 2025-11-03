@@ -8,22 +8,14 @@ on:
     branches: [main]
 
 permissions:
-  contents: write
-  actions: write
-  security-events: write
-  id-token: write
-  checks: write
+  contents: read
 
 jobs:
   zap_scan:
     name: OWASP ZAP Baseline Scan
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      actions: write
-      security-events: write
-      id-token: write
-      checks: write
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -38,25 +30,21 @@ jobs:
       - name: Fix file permissions (prevent artifact upload errors)
         run: chmod 755 report_json.json report_md.md report_html.html || true
 
-      # - name: Upload ZAP Reports
-      #   if: always()
-      #   uses: actions/upload-artifact@v4
-      #   with:
-      #     name: owasp-zap-report
-      #     path: |
-      #       report_json.json
-      #       report_md.md
-      #       report_html.html
+      - name: Upload ZAP Reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: owasp-zap-report
+          path: |
+            report_json.json
+            report_md.md
+            report_html.html
 
   bandit_scan:
     name: Bandit Python Security Scan
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-      actions: write
-      security-events: write
-      id-token: write
-      checks: write
+    env:
+      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
