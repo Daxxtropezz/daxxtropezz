@@ -12,27 +12,37 @@ permissions:
   actions: write
   security-events: write
   id-token: write
+  checks: write
 
 jobs:
   zap_scan:
     name: OWASP ZAP Baseline Scan
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+      security-events: write
+      id-token: write
+      checks: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Run OWASP ZAP Baseline Scan
+        id: zap
         uses: zaproxy/action-baseline@v0.11.0
         with:
           target: 'https://daxxtropezz.vercel.app/'
           cmd_options: '-J report_json.json -w report_md.md -r report_html.html -a'
 
-      # ✅ Upload reports after the scan (outside container)
+      - name: Fix file permissions (prevent artifact upload errors)
+        run: chmod 755 report_json.json report_md.md report_html.html || true
+
       - name: Upload ZAP Reports
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: zap-scan-report
+          name: owasp-zap-report
           path: |
             report_json.json
             report_md.md
@@ -41,6 +51,12 @@ jobs:
   bandit_scan:
     name: Bandit Python Security Scan
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+      security-events: write
+      id-token: write
+      checks: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
