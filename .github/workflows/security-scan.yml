@@ -14,6 +14,7 @@ jobs:
     permissions:
       contents: read
       security-events: write
+      actions: write  # ✅ allows artifact uploads and integrations
 
     steps:
       - name: Checkout repository
@@ -43,6 +44,9 @@ jobs:
       # -------------------------------
       # OWASP ZAP – Web App Vulnerability Scan
       # -------------------------------
+      - name: Fix permissions for ZAP workspace
+        run: sudo chmod 777 ${{ github.workspace }}
+
       - name: Run OWASP ZAP Baseline Scan
         uses: zaproxy/action-baseline@v0.11.0
         with:
@@ -55,7 +59,9 @@ jobs:
           name: owasp-zap-report
           path: zap_scan
 
-      # Optional: Fail the workflow if Bandit finds high-severity issues
+      # -------------------------------
+      # Fail workflow if Bandit detects high-severity issues
+      # -------------------------------
       - name: Check for High Severity Issues
         run: |
           if grep -q '"issue_severity": "HIGH"' bandit-report.json; then
