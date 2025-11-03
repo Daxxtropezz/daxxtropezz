@@ -62,11 +62,14 @@ jobs:
           cmd_options: "-a"
           allow_issue_writing: false
 
-      - name: Upload ZAP Report
+      - name: Upload ZAP Reports
         uses: actions/upload-artifact@v4
         with:
           name: owasp-zap-report
-          path: zap_scan
+          path: |
+            report_json.json
+            report_md.md
+            report_html.html
 
       # -------------------------------
       # Fail workflow if Bandit detects high-severity issues
