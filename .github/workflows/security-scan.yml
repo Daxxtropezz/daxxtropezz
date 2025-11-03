@@ -38,15 +38,15 @@ jobs:
       - name: Fix file permissions (prevent artifact upload errors)
         run: chmod 755 report_json.json report_md.md report_html.html || true
 
-      - name: Upload ZAP Reports
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: owasp-zap-report
-          path: |
-            report_json.json
-            report_md.md
-            report_html.html
+      # - name: Upload ZAP Reports
+      #   if: always()
+      #   uses: actions/upload-artifact@v4
+      #   with:
+      #     name: owasp-zap-report
+      #     path: |
+      #       report_json.json
+      #       report_md.md
+      #       report_html.html
 
   bandit_scan:
     name: Bandit Python Security Scan
