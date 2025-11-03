@@ -1,9 +1,12 @@
 name: Security Scan
 
-# ✅ Global permissions
+# 🔐 Global write permissions for this workflow
 permissions:
   contents: write
   pull-requests: write
+  security-events: write
+  actions: write
+  id-token: write
 
 on:
   push:
@@ -15,13 +18,6 @@ jobs:
   security:
     name: Security Testing
     runs-on: ubuntu-latest
-
-    # ✅ Job-specific permissions
-    permissions:
-      contents: read
-      security-events: write
-      actions: write
-      id-token: write
 
     steps:
       - name: Checkout repository
