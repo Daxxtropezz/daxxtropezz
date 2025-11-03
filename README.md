@@ -171,7 +171,7 @@
 
 ## 🧠 Automated Security Testing & CI/CD
 
-To maintain high security standards across development, Daxxtropezz integrates **automated vulnerability testing** within its CI/CD pipeline.
+To maintain high security standards across development, and integrates **automated vulnerability testing** within its CI/CD pipeline.
 
 ### ⚙️ Implementation Highlights
 - **Security Testing Frameworks:** OWASP ZAP, Bandit (Python), and npm audit for dependency checks  
