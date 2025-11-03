@@ -1,18 +1,14 @@
 name: Security Scan
 
-# 🔐 Global write permissions for this workflow
-permissions:
-  contents: write
-  pull-requests: write
-  security-events: write
-  actions: write
-  id-token: write
-
 on:
   push:
     branches: [main]
   pull_request:
     branches: [main]
+
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   security:
@@ -20,9 +16,10 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write
-      pull-requests: write
+      contents: read
       security-events: write
+      actions: write
+      id-token: write
 
     steps:
       - name: Checkout repository
@@ -60,12 +57,9 @@ jobs:
         with:
           target: "https://daxxtropezz.vercel.app/"
           cmd_options: "-a"
-          allow_issue_writing: false
 
-      - name: List generated reports
-        run: ls -lah
-        
-      - name: Upload ZAP Reports
+      # ✅ Corrected Upload step
+      - name: Upload OWASP ZAP Reports
         if: always()
         uses: actions/upload-artifact@v4
         with:
