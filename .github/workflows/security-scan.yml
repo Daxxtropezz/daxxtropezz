@@ -1,20 +1,27 @@
 name: Security Scan
 
+# ✅ Global permissions
+permissions:
+  contents: write
+  pull-requests: write
+
 on:
   push:
-    branches: [main, master]
+    branches: [main]
   pull_request:
-    branches: [main, master]
+    branches: [main]
 
 jobs:
   security:
     name: Security Testing
     runs-on: ubuntu-latest
 
+    # ✅ Job-specific permissions
     permissions:
       contents: read
       security-events: write
-      actions: write  # ✅ allows artifact uploads and integrations
+      actions: write
+      id-token: write
 
     steps:
       - name: Checkout repository
