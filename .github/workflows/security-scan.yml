@@ -10,14 +10,13 @@ on:
 permissions:
   contents: write
   actions: write
+  packages: write
   id-token: write
 
 jobs:
   zap_scan:
     name: OWASP ZAP Baseline Scan
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,7 +35,7 @@ jobs:
         run: chmod 644 report_json.json report_md.md report_html.html || true
 
       - name: Upload ZAP Reports
-        if: always()
+        if: always() && (github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository)
         uses: actions/upload-artifact@v4
         with:
           name: owasp-zap-report
@@ -48,8 +47,6 @@ jobs:
   bandit_scan:
     name: Bandit Python Security Scan
     runs-on: ubuntu-latest
-    env:
-      GITHUB_TOKEN: ${{ secrets.GH_PAT }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -67,7 +64,7 @@ jobs:
           bandit -r . -f json -o bandit-report.json || true
 
       - name: Upload Bandit Report
-        if: always()
+        if: always() && (github.event_name != 'pull_request' || github.event.pull_request.head.repo.full_name == github.repository)
         uses: actions/upload-artifact@v4
         with:
           name: bandit-security-report
