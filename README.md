@@ -256,7 +256,8 @@ To maintain high security standards across development, and integrates **automat
 
 <div align="center">
   <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a><br/>
-  <img src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph">
+  <img align="center" src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph">
+  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daxxtropezz" />
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/latest-contribution.svg">
   <table align="center" height="100%"> 
     <tr>
