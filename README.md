@@ -114,13 +114,13 @@
   <tr>
     <td align="center">
       <a href="https://www.credly.com/badges/4b674fec-36a9-4fca-a448-6c8da710beca" target="_blank">
-        <img src="https://images.credly.com/size/80x80/images/a894153e-1762-4870-83b9-150ff294d7fb/image.png" alt="AWS File Storage" width="80"/><br/>
+        <img src="https://images.credly.com/images/635449f2-3a53-40b3-bf08-5af4fb95df61/blob" alt="AWS File Storage" width="80"/><br/>
         <sub>AWS Knowledge: File Storage</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/9eb5ca39-e640-498c-b47e-d65a7df057a8" target="_blank">
-        <img src="https://images.credly.com/size/80x80/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Serverless" width="80"/><br/>
+        <img src="https://images.credly.com/images/0c20a5b7-b4e9-4c2f-8b68-342e00a85e05/blob" alt="AWS Serverless" width="80"/><br/>
         <sub>AWS Knowledge: Serverless</sub>
       </a>
     </td>
@@ -205,7 +205,8 @@ To maintain high security standards across development, and integrates **automat
   <tr>
     <td align="center">
       <!-- 2650C0, FF0000 -->
-      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/> -->
+      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
     </td>
     <td align="center">
       <!-- 2650C0, FF0000 -->
