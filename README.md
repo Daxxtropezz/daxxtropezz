@@ -231,7 +231,7 @@ To maintain high security standards across development, and integrates **automat
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=10" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=6" alt="Top Languages"/>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=10&exclude_repo=NyansLostInSpace,enrollment-system,online_shopping_system,daxxtropezz,skill-icons,FourcadeGames,daxxtropezz.vercel.app,employee-system" alt="Top Languages"/> -->
 </p>
 
