@@ -3,7 +3,7 @@
 <!-- ============================== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/header.svg" alt="Header" />
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/header.svg" alt="Header" />
 <!--   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/e6c8b922647258c262bf8e87a414d404bbc31008/assets/images/rta-up.svg" alt="Header" /> -->
   <h2 align="center">🌐 DAXXTROPEZZ: OFFSEC OFFICER 🌐</h2> 
 </p>
@@ -192,9 +192,13 @@ To maintain high security standards across development, and integrates **automat
 
 <table align="center" width="100%">
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="1" align="center">
       <!-- 2650C0, FF0000 -->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
+    </td>
+    <td colspan="1" align="center">
+      <!-- 2650C0, FF0000 -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daxxtropezz&theme=github_dark" height="300" alt="activity-graph graph"/>
     </td>
   </tr>
   <tr>
@@ -303,6 +307,6 @@ To maintain high security standards across development, and integrates **automat
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
-    <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg" alt="Footer" width="100%" />
+    <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/footer.svg" alt="Footer" width="100%" />
   </picture>
 </div>
