@@ -29,36 +29,36 @@
 
 ```mermaid
 mindmap
-  root((Daxxtropezz))
-      root(("Frontend"))
+  root{{Daxxtropezz}} 
+      FE)Frontend(
         React
         Typescript
         Javascript
         Flutter
         FlutterFlow
         Figma
-      root(("Backend"))
+      BE))Backend((
         Java
         Python
         C++
         C#
         Dart
-      root(("Databases"))
+      DB)Databases(
         MySQL
         Supabase
         Firebase
         Redis
-      root(("Tools and DevOps"))
+      TO)Tools and DevOps(
         JIRA
         Git and GitHub
         Docker
         Linux
         VS Code
-        Burp Suite
         Wireshark
         Nmap
         Bloodhound
-      root(("Offensive Security"))
+        Burp Suite
+      OFF))Offensive Security((
         Red Team Operations
           Adversary Emulation
           Engagement Planning
@@ -140,7 +140,21 @@ mindmap
             SQLMap
             Nikto
             wfuzz
-      root(("Specialized Skills"))
+      CL)Cloud Skills(
+        AWS
+        Azure
+        GCP
+        Kubernetes
+        Docker
+        Terraform
+        CI CD
+        Serverless
+        VPC and Networking
+        IAM and Secrets
+        S3 and Cloud Storage
+        RDS and Cloud Databases
+        Observability and Logging
+      SP)Specialized Skills(
         Secure Coding Awareness
         API Security Testing
         Authentication and 2FA Testing
