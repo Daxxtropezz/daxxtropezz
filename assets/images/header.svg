@@ -64,4 +64,7 @@
             100%{
               d: path("M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z");
             }
-          }</style><defs><linearGradient id="gradient" x1="27%" y1="6%" x2="73%" y2="94%"><stop offset="5%" stop-color="#8ed1fc"></stop><stop offset="95%" stop-color="#002ba1"></stop></linearGradient></defs><path d="M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-2" transform="rotate(-180 720 200)"></path></svg>
+
+          }</style><defs><linearGradient id="gradient" x1="27%" y1="6%" x2="73%" y2="94%"><stop offset="5%" stop-color="#8ed1fc"></stop><stop offset="95%" stop-color="#002ba1"></stop></linearGradient></defs><path d="M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-2" transform="rotate(-180 720 200)"></path>
+          <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10">Welcome to Daxxy's Profile!</text>
+</svg>
