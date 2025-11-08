@@ -58,31 +58,93 @@ mindmap
         Wireshark
         Nmap
         Bloodhound
-      root(("🧩 Cybersecurity"))
-        Offensive Security
-          Penetration Testing
-          Vulnerability Assessment
-          Exploitation Frameworks
-        Defensive Security
-          Threat Detection
-          Incident Response
-          Log Analysis
-        Network Security
-          Reconnaissance
-          Packet Sniffing
-          Port Scanning
-        Ethical Hacking
+      root(("🔴 Offensive Security (Red Team)"))
+        Red Team Operations
+          Adversary Emulation
+          Engagement Planning
+          Rules of Engagement
+        Reconnaissance
           OSINT
+          Footprinting
+          Social Engineering
+        Vulnerability Discovery
+          Web Application Testing (OWASP)
+          Network Scanning & Enumeration
+          Service/Version Discovery
+        Exploitation
+          Manual Exploitation Techniques
+          Exploit Development (theory)
           Privilege Escalation
-          Post-Exploitation
+          Exploitation Frameworks
+            Metasploit
+            Cobalt Strike
+        Post-Exploitation
+          Lateral Movement
+          Persistence
+          Credential Harvesting
+          Bloodhound Usage
+        Offensive Tooling & Techniques
+          Nmap Scripts
+          Burp Extensions
+          Custom Recon Scripts
+          Payloads & Stagers (conceptual)
+        Reporting & Remediation Guidance
+          Evidence Collection
+          Actionable Remediation
+        Active Directory Pentesting (AD)
+          AD Reconnaissance
+            LDAP Enumeration
+            Domain Enumeration
+            Kerberoasting
+            AS-REP Roasting
+            DNS & SRV Records
+          AD Attack Techniques
+            Pass-the-Hash
+            Pass-the-Ticket
+            Overpass-the-Hash
+            Golden Ticket (conceptual)
+            Lateral Movement via AD
+          AD Tooling
+            Bloodhound
+            Mimikatz
+            CrackMapExec
+            Impacket
+            Responder
+          AD Post-Exploitation
+            Domain Persistence
+            Abusing GPOs & Scheduled Tasks
+            ACL & Privilege Misconfiguration Abuse
+        Web Pentesting
+          Recon & Mapping
+            Subdomain Discovery
+            Virtual Host Discovery
+            Content Discovery
+          Common Vulnerabilities
+            SQL Injection (SQLi)
+            Cross-Site Scripting (XSS)
+            Cross-Site Request Forgery (CSRF)
+            Server-Side Request Forgery (SSRF)
+            Local/Remote File Inclusion (LFI/RFI)
+            Insecure Direct Object References (IDOR)
+            Authentication/Authorization Bypass
+            Parameter Tampering
+          Testing Techniques
+            Manual Burp Testing
+            Automated Scanners (asst.)
+            Fuzzing & Input Manipulation
+            Source Review (SAST) & Dynamic Analysis (DAST)
+          Web Tooling
+            Burp Suite
+            OWASP ZAP
+            SQLMap
+            Nikto
+            wfuzz
       root(("🧬 Specialized Skills"))
-        Secure Coding
-        API Security
-        Authentication & 2FA
-        RSA Encryption
-        Cyber Threat Intelligence
-        Social Engineering Awareness
-        Security Automation
+        Secure Coding Awareness
+        API Security Testing
+        Authentication & 2FA Testing
+        Threat Modeling (attacker POV)
+        Security Automation (offensive tooling)
 ```
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Connectivity Channels
