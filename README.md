@@ -7,7 +7,7 @@
 <!--   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/e6c8b922647258c262bf8e87a414d404bbc31008/assets/images/rta-up.svg" alt="Header" /> -->
   <h2 align="center">🌐 DAXXTROPEZZ: OFFSEC OFFICER 🌐</h2> 
 </p>
- 
+
 <!-- ============================== -->
 <!--         PROFILE COVER         -->
 <!-- ============================== -->
@@ -26,6 +26,64 @@
 <!-- ============================== -->
 <!--       PROFESSIONAL NETWORK    -->
 <!-- ============================== -->
+
+```mermaid
+mindmap
+  root((🧠 Daxxtropezz))
+      root(("💻 Frontend"))
+        React
+        Typescript
+        Javascript
+        Flutter
+        FlutterFlow
+        Figma
+      root(("⚙️ Backend"))
+        Java
+        Python
+        C++
+        C#
+        Dart
+      root(("🗄️ Databases"))
+        MySQL
+        Supabase
+        Firebase
+        Redis
+      root(("🧰 Tools & DevOps"))
+        JIRA
+        Git & GitHub
+        Docker
+        Linux
+        VS Code
+        Burp Suite
+        Wireshark
+        Nmap
+        Bloodhound
+      root(("🧩 Cybersecurity"))
+        Offensive Security
+          Penetration Testing
+          Vulnerability Assessment
+          Exploitation Frameworks
+        Defensive Security
+          Threat Detection
+          Incident Response
+          Log Analysis
+        Network Security
+          Reconnaissance
+          Packet Sniffing
+          Port Scanning
+        Ethical Hacking
+          OSINT
+          Privilege Escalation
+          Post-Exploitation
+      root(("🧬 Specialized Skills"))
+        Secure Coding
+        API Security
+        Authentication & 2FA
+        RSA Encryption
+        Cyber Threat Intelligence
+        Social Engineering Awareness
+        Security Automation
+```
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Connectivity Channels
 
