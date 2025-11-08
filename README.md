@@ -29,28 +29,28 @@
 
 ```mermaid
 mindmap
-  root((🧠 Daxxtropezz))
-      root(("💻 Frontend"))
+  root((Daxxtropezz))
+      root(("Frontend"))
         React
         Typescript
         Javascript
         Flutter
         FlutterFlow
         Figma
-      root(("⚙️ Backend"))
+      root(("Backend"))
         Java
         Python
         C++
         C#
         Dart
-      root(("🗄️ Databases"))
+      root(("Databases"))
         MySQL
         Supabase
         Firebase
         Redis
-      root(("🧰 Tools & DevOps"))
+      root(("Tools and DevOps"))
         JIRA
-        Git & GitHub
+        Git and GitHub
         Docker
         Linux
         VS Code
@@ -58,7 +58,7 @@ mindmap
         Wireshark
         Nmap
         Bloodhound
-      root(("🔴 Offensive Security (Red Team)"))
+      root(("Offensive Security"))
         Red Team Operations
           Adversary Emulation
           Engagement Planning
@@ -68,12 +68,12 @@ mindmap
           Footprinting
           Social Engineering
         Vulnerability Discovery
-          Web Application Testing (OWASP)
-          Network Scanning & Enumeration
-          Service/Version Discovery
+          Web Application Testing
+          Network Scanning and Enumeration
+          Service Version Discovery
         Exploitation
           Manual Exploitation Techniques
-          Exploit Development (theory)
+          Exploit Development
           Privilege Escalation
           Exploitation Frameworks
             Metasploit
@@ -83,26 +83,26 @@ mindmap
           Persistence
           Credential Harvesting
           Bloodhound Usage
-        Offensive Tooling & Techniques
+        Offensive Tooling and Techniques
           Nmap Scripts
           Burp Extensions
           Custom Recon Scripts
-          Payloads & Stagers (conceptual)
-        Reporting & Remediation Guidance
+          Payloads and Stagers
+        Reporting and Remediation Guidance
           Evidence Collection
           Actionable Remediation
-        Active Directory Pentesting (AD)
+        Active Directory Pentesting
           AD Reconnaissance
             LDAP Enumeration
             Domain Enumeration
             Kerberoasting
             AS-REP Roasting
-            DNS & SRV Records
+            DNS and SRV Records
           AD Attack Techniques
             Pass-the-Hash
             Pass-the-Ticket
             Overpass-the-Hash
-            Golden Ticket (conceptual)
+            Golden Ticket
             Lateral Movement via AD
           AD Tooling
             Bloodhound
@@ -112,39 +112,40 @@ mindmap
             Responder
           AD Post-Exploitation
             Domain Persistence
-            Abusing GPOs & Scheduled Tasks
-            ACL & Privilege Misconfiguration Abuse
+            Abusing GPOs and Scheduled Tasks
+            ACL and Privilege Misconfiguration Abuse
         Web Pentesting
-          Recon & Mapping
+          Recon and Mapping
             Subdomain Discovery
             Virtual Host Discovery
             Content Discovery
           Common Vulnerabilities
-            SQL Injection (SQLi)
-            Cross-Site Scripting (XSS)
-            Cross-Site Request Forgery (CSRF)
-            Server-Side Request Forgery (SSRF)
-            Local/Remote File Inclusion (LFI/RFI)
-            Insecure Direct Object References (IDOR)
-            Authentication/Authorization Bypass
+            SQL Injection
+            Cross Site Scripting
+            Cross Site Request Forgery
+            Server Side Request Forgery
+            Local File Inclusion
+            Remote File Inclusion
+            Insecure Direct Object References
+            Authentication and Authorization Bypass
             Parameter Tampering
           Testing Techniques
             Manual Burp Testing
-            Automated Scanners (asst.)
-            Fuzzing & Input Manipulation
-            Source Review (SAST) & Dynamic Analysis (DAST)
+            Automated Scanners
+            Fuzzing and Input Manipulation
+            Source Review and Dynamic Analysis
           Web Tooling
             Burp Suite
             OWASP ZAP
             SQLMap
             Nikto
             wfuzz
-      root(("🧬 Specialized Skills"))
+      root(("Specialized Skills"))
         Secure Coding Awareness
         API Security Testing
-        Authentication & 2FA Testing
-        Threat Modeling (attacker POV)
-        Security Automation (offensive tooling)
+        Authentication and 2FA Testing
+        Threat Modeling attacker POV
+        Security Automation offensive tooling
 ```
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Connectivity Channels
