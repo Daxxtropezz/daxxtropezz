@@ -1,70 +1,95 @@
-<svg width="100%" height="100%" id="svg" viewBox="0 0 1440 390" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150"><style>
-          .path-0{
-            animation:pathAnim-0 4s;
-            animation-timing-function: linear;
-            animation-iteration-count: infinite;
-          }
-          @keyframes pathAnim-0{
-            0%{
-              d: path("M 0,400 L 0,75 C 181.5,63.75 363,52.5 603,65 C 843,77.5 1141.5,113.75 1440,150 L 1440,400 L 0,400 Z");
-            }
-            25%{
-              d: path("M 0,400 L 0,75 C 288,60.25 576,45.5 816,58 C 1056,70.5 1248,110.25 1440,150 L 1440,400 L 0,400 Z");
-            }
-            50%{
-              d: path("M 0,400 L 0,75 C 257,62.25 514,49.5 754,62 C 994,74.5 1217,112.25 1440,150 L 1440,400 L 0,400 Z");
-            }
-            75%{
-              d: path("M 0,400 L 0,75 C 306.5,83.75 613,92.5 853,105 C 1093,117.5 1266.5,133.75 1440,150 L 1440,400 L 0,400 Z");
-            }
-            100%{
-              d: path("M 0,400 L 0,75 C 181.5,63.75 363,52.5 603,65 C 843,77.5 1141.5,113.75 1440,150 L 1440,400 L 0,400 Z");
-            }
-          }</style><defs><linearGradient id="gradient" x1="27%" y1="6%" x2="73%" y2="94%"><stop offset="5%" stop-color="#8ed1fc"></stop><stop offset="95%" stop-color="#002ba1"></stop></linearGradient></defs><path d="M 0,400 L 0,75 C 181.5,63.75 363,52.5 603,65 C 843,77.5 1141.5,113.75 1440,150 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="0.4" class="transition-all duration-300 ease-in-out delay-150 path-0" transform="rotate(-180 720 200)"></path><style>
-          .path-1{
-            animation:pathAnim-1 4s;
-            animation-timing-function: linear;
-            animation-iteration-count: infinite;
-          }
-          @keyframes pathAnim-1{
-            0%{
-              d: path("M 0,400 L 0,175 C 211,178.25 422,181.5 662,194 C 902,206.5 1171,228.25 1440,250 L 1440,400 L 0,400 Z");
-            }
-            25%{
-              d: path("M 0,400 L 0,175 C 302,167.75 604,160.5 844,173 C 1084,185.5 1262,217.75 1440,250 L 1440,400 L 0,400 Z");
-            }
-            50%{
-              d: path("M 0,400 L 0,175 C 207,165.75 414,156.5 654,169 C 894,181.5 1167,215.75 1440,250 L 1440,400 L 0,400 Z");
-            }
-            75%{
-              d: path("M 0,400 L 0,175 C 201,184.25 402,193.5 642,206 C 882,218.5 1161,234.25 1440,250 L 1440,400 L 0,400 Z");
-            }
-            100%{
-              d: path("M 0,400 L 0,175 C 211,178.25 422,181.5 662,194 C 902,206.5 1171,228.25 1440,250 L 1440,400 L 0,400 Z");
-            }
-          }</style><defs><linearGradient id="gradient" x1="27%" y1="6%" x2="73%" y2="94%"><stop offset="5%" stop-color="#8ed1fc"></stop><stop offset="95%" stop-color="#002ba1"></stop></linearGradient></defs><path d="M 0,400 L 0,175 C 211,178.25 422,181.5 662,194 C 902,206.5 1171,228.25 1440,250 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="0.53" class="transition-all duration-300 ease-in-out delay-150 path-1" transform="rotate(-180 720 200)"></path><style>
-          .path-2{
-            animation:pathAnim-2 4s;
-            animation-timing-function: linear;
-            animation-iteration-count: infinite;
-          }
-          @keyframes pathAnim-2{
-            0%{
-              d: path("M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z");
-            }
-            25%{
-              d: path("M 0,400 L 0,275 C 194,255.25 388,235.5 628,248 C 868,260.5 1154,305.25 1440,350 L 1440,400 L 0,400 Z");
-            }
-            50%{
-              d: path("M 0,400 L 0,275 C 297,262.75 594,250.5 834,263 C 1074,275.5 1257,312.75 1440,350 L 1440,400 L 0,400 Z");
-            }
-            75%{
-              d: path("M 0,400 L 0,275 C 261,274.75 522,274.5 762,287 C 1002,299.5 1221,324.75 1440,350 L 1440,400 L 0,400 Z");
-            }
-            100%{
-              d: path("M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z");
-            }
+<svg width="100%" height="100%" id="svg" viewBox="0 0 1440 390" xmlns="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150">
+  <style>
+    .path-0 {
+      animation: pathAnim-0 4s linear infinite;
+    }
+    @keyframes pathAnim-0 {
+      0% {
+        d: path("M 0,400 L 0,75 C 181.5,63.75 363,52.5 603,65 C 843,77.5 1141.5,113.75 1440,150 L 1440,400 L 0,400 Z");
+      }
+      25% {
+        d: path("M 0,400 L 0,75 C 288,60.25 576,45.5 816,58 C 1056,70.5 1248,110.25 1440,150 L 1440,400 L 0,400 Z");
+      }
+      50% {
+        d: path("M 0,400 L 0,75 C 257,62.25 514,49.5 754,62 C 994,74.5 1217,112.25 1440,150 L 1440,400 L 0,400 Z");
+      }
+      75% {
+        d: path("M 0,400 L 0,75 C 306.5,83.75 613,92.5 853,105 C 1093,117.5 1266.5,133.75 1440,150 L 1440,400 L 0,400 Z");
+      }
+      100% {
+        d: path("M 0,400 L 0,75 C 181.5,63.75 363,52.5 603,65 C 843,77.5 1141.5,113.75 1440,150 L 1440,400 L 0,400 Z");
+      }
+    }
 
-          }</style><defs><linearGradient id="gradient" x1="27%" y1="6%" x2="73%" y2="94%"><stop offset="5%" stop-color="#8ed1fc"></stop><stop offset="95%" stop-color="#002ba1"></stop></linearGradient></defs><path d="M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z" stroke="none" stroke-width="0" fill="url(#gradient)" fill-opacity="1" class="transition-all duration-300 ease-in-out delay-150 path-2" transform="rotate(-180 720 200)"></path>
-          <text text-anchor="middle" alignment-baseline="middle" x="50%" y="30%" class="text" style="fill:#f7f5f5;" stroke="#none" stroke-width="10">Welcome to Daxxy's Profile!</text>
+    .path-1 {
+      animation: pathAnim-1 4s linear infinite;
+    }
+    @keyframes pathAnim-1 {
+      0% {
+        d: path("M 0,400 L 0,175 C 211,178.25 422,181.5 662,194 C 902,206.5 1171,228.25 1440,250 L 1440,400 L 0,400 Z");
+      }
+      25% {
+        d: path("M 0,400 L 0,175 C 302,167.75 604,160.5 844,173 C 1084,185.5 1262,217.75 1440,250 L 1440,400 L 0,400 Z");
+      }
+      50% {
+        d: path("M 0,400 L 0,175 C 207,165.75 414,156.5 654,169 C 894,181.5 1167,215.75 1440,250 L 1440,400 L 0,400 Z");
+      }
+      75% {
+        d: path("M 0,400 L 0,175 C 201,184.25 402,193.5 642,206 C 882,218.5 1161,234.25 1440,250 L 1440,400 L 0,400 Z");
+      }
+      100% {
+        d: path("M 0,400 L 0,175 C 211,178.25 422,181.5 662,194 C 902,206.5 1171,228.25 1440,250 L 1440,400 L 0,400 Z");
+      }
+    }
+
+    .path-2 {
+      animation: pathAnim-2 4s linear infinite;
+    }
+    @keyframes pathAnim-2 {
+      0% {
+        d: path("M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z");
+      }
+      25% {
+        d: path("M 0,400 L 0,275 C 194,255.25 388,235.5 628,248 C 868,260.5 1154,305.25 1440,350 L 1440,400 L 0,400 Z");
+      }
+      50% {
+        d: path("M 0,400 L 0,275 C 297,262.75 594,250.5 834,263 C 1074,275.5 1257,312.75 1440,350 L 1440,400 L 0,400 Z");
+      }
+      75% {
+        d: path("M 0,400 L 0,275 C 261,274.75 522,274.5 762,287 C 1002,299.5 1221,324.75 1440,350 L 1440,400 L 0,400 Z");
+      }
+      100% {
+        d: path("M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z");
+      }
+    }
+
+    /* 🔹 TEXT STYLE */
+    .text {
+      fill: #f7f5f5;
+      font-size: 48px; /* Increased text size */
+      font-weight: 700;
+      font-family: "Segoe UI", sans-serif;
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="gradient" x1="27%" y1="6%" x2="73%" y2="94%">
+      <stop offset="5%" stop-color="#8ed1fc"></stop>
+      <stop offset="95%" stop-color="#002ba1"></stop>
+    </linearGradient>
+  </defs>
+
+  <path d="M 0,400 L 0,75 C 181.5,63.75 363,52.5 603,65 C 843,77.5 1141.5,113.75 1440,150 L 1440,400 L 0,400 Z" 
+        fill="url(#gradient)" fill-opacity="0.4" class="path-0" transform="rotate(-180 720 200)"></path>
+
+  <path d="M 0,400 L 0,175 C 211,178.25 422,181.5 662,194 C 902,206.5 1171,228.25 1440,250 L 1440,400 L 0,400 Z" 
+        fill="url(#gradient)" fill-opacity="0.53" class="path-1" transform="rotate(-180 720 200)"></path>
+
+  <path d="M 0,400 L 0,275 C 217.5,252.75 435,230.5 675,243 C 915,255.5 1177.5,302.75 1440,350 L 1440,400 L 0,400 Z" 
+        fill="url(#gradient)" fill-opacity="1" class="path-2" transform="rotate(-180 720 200)"></path>
+
+  <!-- 🟦 Text Moved to Upper Right -->
+  <text x="98%" y="20%" text-anchor="end" class="text">
+    Welcome to Daxxy's Profile!
+  </text>
 </svg>
