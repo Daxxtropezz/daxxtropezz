@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/header.svg" alt="Header" />
 <!--   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/e6c8b922647258c262bf8e87a414d404bbc31008/assets/images/rta-up.svg" alt="Header" /> -->
-  <h2 align="center">🌐 DAXXTROPEZZ: OFFSEC OFFICER 🌐</h2> 
+  <!-- <h2 align="center">🌐 DAXXTROPEZZ: OFFSEC OFFICER 🌐</h2> -->
 </p>
 
 <!-- ============================== -->
