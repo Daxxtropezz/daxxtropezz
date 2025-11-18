@@ -4,17 +4,17 @@
 
 <p align="center">
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/header.svg" alt="Header" />
-<!--   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/e6c8b922647258c262bf8e87a414d404bbc31008/assets/images/rta-up.svg" alt="Header" /> -->
-  <!-- <h2 align="center">🌐 DAXXTROPEZZ: OFFSEC OFFICER 🌐</h2> -->
 </p>
 
 <!-- ============================== -->
 <!--         PROFILE COVER         -->
 <!-- ============================== -->
-
-<a href="https://daxxtropezz.vercel.app">
-  <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" />
-</a>
+<p align="center">
+  <a href="https://daxxtropezz.vercel.app">
+    <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" />
+  </a><br/> 
+  <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
+</p>
 
 <p align="center">
   <a href="https://daxxtropezz.vercel.app">
@@ -397,8 +397,7 @@ To maintain high security standards across development, and integrates **automat
 <div align="center">
   <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a><br/>
   <img align="center" src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph"><br/>
-  <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a><br/>
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daxxtropezz" />
+  <!-- <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daxxtropezz" /> -->
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/latest-contribution.svg">
   <table align="center" height="100%"> 
     <tr>
