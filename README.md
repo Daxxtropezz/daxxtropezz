@@ -13,7 +13,6 @@
   <a href="https://daxxtropezz.vercel.app">
     <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" />
   </a><br/> 
-  <img src="https://count.getloli.com/@Daxxtropezz?name=Daxxtropezz&theme=gelbooru-h&padding=5&offset=100&align=center&scale=1&pixelated=1&darkmode=auto&prefix=69" alt="alt" />
   <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
 </p>
 
