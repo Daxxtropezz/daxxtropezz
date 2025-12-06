@@ -2,6 +2,8 @@
 <!--         MAIN SECTION          -->
 <!-- ============================== -->
 
+<!-- KAPAG INGGIT, PIKIT -->
+
 <p align="center">
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/header.svg" alt="Header" />
 </p>
@@ -10,7 +12,7 @@
 <!--         PROFILE COVER         -->
 <!-- ============================== -->
 <p align="center">
-  <a href="https://daxxtropezz.vercel.app">
+  <a href="https://clever-gang.github.io">
     <img src="https://github.com/user-attachments/assets/0458cc5d-3c6d-471a-91d4-8c44a886cb1e" alt="daxxtropezz" />
     <!-- <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" /> -->
   </a><br/> 
@@ -18,7 +20,7 @@
 </p>
 
 <p align="center">
-  <a href="https://daxxtropezz.vercel.app">
+  <a href="https://clever-gang.github.io">
     <!-- 2067EDFF, FF0000 -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" />
   </a>
@@ -330,11 +332,11 @@ To maintain high security standards across development, and integrates **automat
   <tr>
     <td colspan="1" align="center">
       <!-- 2650C0, FF0000 -->
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
+      <img src="https://github-readme-activity-graph.github.io/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
     </td>
     <td colspan="1" align="center">
       <!-- 2650C0, FF0000 -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daxxtropezz&theme=github_dark" height="300" alt="activity-graph graph"/>
+      <img src="https://github-profile-summary-cards.github.io/api/cards/profile-details?username=daxxtropezz&theme=github_dark" height="300" alt="activity-graph graph"/>
     </td>
   </tr>
   <tr>
@@ -345,8 +347,8 @@ To maintain high security standards across development, and integrates **automat
   <tr>
     <td align="center">
       <!-- 2650C0, FF0000 -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=daxxtropezz&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
+      <!-- <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/> -->
+      <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
     </td>
     <td align="center">
       <!-- 2650C0, FF0000 -->
@@ -362,7 +364,7 @@ To maintain high security standards across development, and integrates **automat
 ## 🏆 My Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  />
+<img src="https://github-profile-trophy.github.io?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  />
 </p>
 
 <!-- ============================== -->
@@ -372,8 +374,8 @@ To maintain high security standards across development, and integrates **automat
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=6" alt="Top Languages"/>
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=10&exclude_repo=NyansLostInSpace,enrollment-system,online_shopping_system,daxxtropezz,skill-icons,FourcadeGames,daxxtropezz.vercel.app,employee-system" alt="Top Languages"/> -->
+    <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=6" alt="Top Languages"/>
+<!--     <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=10&exclude_repo=NyansLostInSpace,enrollment-system,online_shopping_system,daxxtropezz,skill-icons,FourcadeGames,clever-gang.github.io,employee-system" alt="Top Languages"/> -->
 </p>
 
 <div align="center">
@@ -404,13 +406,13 @@ To maintain high security standards across development, and integrates **automat
     <tr>
       <td align="center">
         <!-- algolia -->
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=FFFFFF00&theme=algolia&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
+        <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=algolia&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache">
+        <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache">
       </td>
       <td align="center">
-        <img src="https://quotes-github-readme.vercel.app/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
+        <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
       </td>
     </tr>
   </table>  
@@ -436,7 +438,7 @@ To maintain high security standards across development, and integrates **automat
     </a>
   </div>
   
-  <a href="https://daxxtropezz.vercel.app">
+  <a href="https://clever-gang.github.io">
     <img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="daxxtropezz" width="300" />
   </a>
 
