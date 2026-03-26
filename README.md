@@ -1,7 +1,9 @@
 <!-- ============================== -->
 <!--         MAIN SECTION          -->
 <!-- ============================== -->
-
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
 <!-- KAPAG INGGIT, PIKIT -->
 
 <!-- <p align="center">
@@ -12,7 +14,7 @@
 <!--         PROFILE COVER         -->
 <!-- ============================== -->
 <p align="center">
-  <a href="https://clever-gang.github.io">
+  <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/banner.svg" alt="Banner" />
     <!-- <img src="https://github.com/user-attachments/assets/0458cc5d-3c6d-471a-91d4-8c44a886cb1e" alt="daxxtropezz" /> -->
     <!-- <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" /> -->
@@ -21,11 +23,16 @@
 </p>
 
 <p align="center">
-  <a href="https://clever-gang.github.io">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
+
+<p align="center">
+  <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <!-- 2067EDFF, FF0000 -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶+Stay+in+the+shadows...;▶+Breach+the+system...;▶+Securing+the+pipeline...;▶+Scanning+before+deploy...;▶+Automating+security+checks...;▶+Monitoring+and+responding...;▶+Hardening+the+infrastructure...;▶+Shifting+security+left..." alt="Typing SVG" />
     <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" /> -->
   </a>
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <!-- ============================== -->
@@ -190,6 +197,10 @@ mindmap
 </p>
 
 <p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
+
+<p align="center">
   
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> whoami
 
@@ -310,6 +321,7 @@ mindmap
 <!--   SECURITY TESTING & CI/CD    -->
 <!-- ============================== -->
 
+<!--
 ## 🧠 Automated Security Testing & CI/CD
 
 To maintain high security standards across development, and integrates **automated vulnerability testing** within its CI/CD pipeline.
@@ -324,6 +336,11 @@ To maintain high security standards across development, and integrates **automat
 - Detects and prevents common web application vulnerabilities early  
 - Promotes secure development practices across all repositories  
 - Builds trust by ensuring continuous security validation  
+-->
+
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
 
 <!-- ============================== -->
 <!--     GITHUB ACTIVITY STATS     -->
@@ -331,28 +348,32 @@ To maintain high security standards across development, and integrates **automat
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> GitHub Statistics
 
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
+
 <table align="center" width="100%">
-  <tr>
-    <td colspan="1" align="center">
+  <!-- <tr>
+    <td colspan="1" align="center"> -->
       <!-- 2650C0, FF0000 -->
-      <img src="https://github-readme-activity-graph.github.io/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
+      <!-- <img src="https://github-readme-activity-graph.github.io/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
     </td>
-    <td colspan="1" align="center">
+    <td colspan="1" align="center"> -->
       <!-- 2650C0, FF0000 -->
-      <img src="https://github-profile-summary-cards.github.io/api/cards/profile-details?username=daxxtropezz&theme=github_dark" height="300" alt="activity-graph graph"/>
+      <!-- <img src="https://github-profile-summary-cards.github.io/api/cards/profile-details?username=daxxtropezz&theme=github_dark" height="300" alt="activity-graph graph"/>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://repobeats.axiom.co/api/embed/7318c4aa8418d534269ac626a70f17412b67b3bf.svg" alt="daxxtropezz" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <!-- <td align="center"> -->
       <!-- 2650C0, FF0000 -->
       <!-- <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/> -->
-      <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
-    </td>
+      <!-- <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
+    </td> -->
     <td align="center">
       <!-- 2650C0, FF0000 -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat&hide_border=true&stroke=2650C0" alt="streak graph"/>
@@ -364,10 +385,15 @@ To maintain high security standards across development, and integrates **automat
 <!--            TROPHIES           -->
 <!-- ============================== -->
 
+<!-- 
 ## 🏆 My Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.github.io?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  />
+</p>
+-->
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <!-- ============================== -->
@@ -377,8 +403,11 @@ To maintain high security standards across development, and integrates **automat
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-    <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=6" alt="Top Languages"/>
+    <!-- <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=6" alt="Top Languages"/> -->
 <!--     <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=10&exclude_repo=NyansLostInSpace,enrollment-system,online_shopping_system,daxxtropezz,skill-icons,FourcadeGames,clever-gang.github.io,employee-system" alt="Top Languages"/> -->
+ 
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+ 
 </p>
 
 <div align="center">
@@ -398,36 +427,48 @@ To maintain high security standards across development, and integrates **automat
 <!--             QUOTES            -->
 <!-- ============================== -->
 
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
+
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA2M2cxNm40cjVxOG10djV3ZDNlMDdxOXZ6NHBtcTZ5OXplNzJyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35"> Extras
 
 <div align="center">
   <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a><br/>
-  <img align="center" src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph"><br/>
+  <!-- <img align="center" src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph"><br/> -->
   <!-- <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daxxtropezz" /> -->
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/latest-contribution.svg">
   <table align="center" height="100%"> 
     <tr>
-      <td align="center">
+      <!-- <td align="center"> -->
         <!-- algolia -->
-        <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=algolia&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
-      </td>
+        <!-- <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=algolia&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
+      </td> -->
       <td align="center">
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64e3699cced78d2935368ccb?variant=dark" alt="roadmap.sh"/></a>
         <!-- <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache"> -->
       </td>
-      <td align="center">
+      <!-- <td align="center">
         <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
-      </td>
+      </td> -->
     </tr>
   </table>  
 </div>
+
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
 
 <!-- ============================== -->
 <!--         FUN FACTS & FOOTER    -->
 <!-- ============================== -->
 
 - 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, Red Teaming, & Ethical Hacking 🧑🏻‍💻**<br>
-- ☑️ Fun fact: I think I'm funny 🐦‍⬛<br>
+<!-- - ☑️ Fun fact: I think I'm funny 🐦‍⬛<br> -->
+
+<p align="center">
+  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+</p>
 
 <div align="center">
   <h3 align="center">Support My Work</h3>
@@ -442,7 +483,7 @@ To maintain high security standards across development, and integrates **automat
     </a>
   </div>
   
-  <a href="https://clever-gang.github.io">
+  <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <img src="https://github.githubassets.com/assets/inbox-zero-dark-377cc25a227f.svg" alt="daxxtropezz" width="300" />
   </a>
 
