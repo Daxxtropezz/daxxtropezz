@@ -4,9 +4,9 @@
 
 <!-- KAPAG INGGIT, PIKIT -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/header.svg" alt="Header" />
-</p>
+</p> -->
 
 <!-- ============================== -->
 <!--         PROFILE COVER         -->
