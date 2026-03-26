@@ -1,0 +1,246 @@
+<svg width="1584" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="bugGlow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="bugShield">
+      <stop offset="0%" style="stop-color:#0048ff;stop-opacity:0.3"/>
+      <stop offset="100%" style="stop-color:#000080;stop-opacity:0.1"/>
+    </radialGradient>
+    <radialGradient id="radarGradient">
+      <stop offset="0%" style="stop-color:#0048ff;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#0048ff;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1584" height="300" fill="none"/>
+  
+  <!-- Binary code rain background - Matrix style with overlapping columns -->
+  <g opacity="0.12" font-family="Courier New, monospace" font-size="10" fill="#0048ff">
+    <!-- Column 1 -->
+    <text x="80" y="-300">
+      1<tspan x="80" dy="12">0</tspan><tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">0</tspan>
+      <tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">0</tspan><tspan x="80" dy="12">0</tspan><tspan x="80" dy="12">1</tspan>
+      <tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">0</tspan><tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">0</tspan>
+      <tspan x="80" dy="12">0</tspan><tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">0</tspan>
+      <tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">0</tspan><tspan x="80" dy="12">1</tspan><tspan x="80" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,600" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="95" y="-180" opacity="0.7">
+      0<tspan x="95" dy="12">1</tspan><tspan x="95" dy="12">0</tspan><tspan x="95" dy="12">1</tspan><tspan x="95" dy="12">1</tspan>
+      <tspan x="95" dy="12">0</tspan><tspan x="95" dy="12">1</tspan><tspan x="95" dy="12">0</tspan><tspan x="95" dy="12">0</tspan>
+      <tspan x="95" dy="12">1</tspan><tspan x="95" dy="12">0</tspan><tspan x="95" dy="12">1</tspan><tspan x="95" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,480" dur="4.8s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 2 -->
+    <text x="180" y="-400">
+      0<tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">1</tspan>
+      <tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">0</tspan>
+      <tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">1</tspan>
+      <tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">0</tspan>
+      <tspan x="180" dy="12">1</tspan><tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">0</tspan><tspan x="180" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,700" dur="3.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="195" y="-250" opacity="0.6">
+      1<tspan x="195" dy="12">0</tspan><tspan x="195" dy="12">1</tspan><tspan x="195" dy="12">0</tspan><tspan x="195" dy="12">1</tspan>
+      <tspan x="195" dy="12">1</tspan><tspan x="195" dy="12">0</tspan><tspan x="195" dy="12">1</tspan><tspan x="195" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,550" dur="5.2s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 3 -->
+    <text x="320" y="-200">
+      1<tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">1</tspan>
+      <tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">0</tspan>
+      <tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">1</tspan>
+      <tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">1</tspan>
+      <tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">0</tspan><tspan x="320" dy="12">1</tspan><tspan x="320" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,500" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="335" y="-360" opacity="0.7">
+      0<tspan x="335" dy="12">1</tspan><tspan x="335" dy="12">1</tspan><tspan x="335" dy="12">0</tspan><tspan x="335" dy="12">1</tspan>
+      <tspan x="335" dy="12">0</tspan><tspan x="335" dy="12">1</tspan><tspan x="335" dy="12">0</tspan><tspan x="335" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,660" dur="3.9s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 4 -->
+    <text x="470" y="-350">
+      0<tspan x="470" dy="12">0</tspan><tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">0</tspan>
+      <tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">0</tspan><tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">0</tspan>
+      <tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">0</tspan><tspan x="470" dy="12">0</tspan>
+      <tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">0</tspan><tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">1</tspan>
+      <tspan x="470" dy="12">0</tspan><tspan x="470" dy="12">1</tspan><tspan x="470" dy="12">0</tspan><tspan x="470" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,650" dur="4.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="485" y="-150" opacity="0.6">
+      1<tspan x="485" dy="12">0</tspan><tspan x="485" dy="12">1</tspan><tspan x="485" dy="12">1</tspan><tspan x="485" dy="12">0</tspan>
+      <tspan x="485" dy="12">1</tspan><tspan x="485" dy="12">0</tspan><tspan x="485" dy="12">0</tspan><tspan x="485" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,450" dur="5.6s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 5 -->
+    <text x="620" y="-450">
+      1<tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">1</tspan>
+      <tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">1</tspan>
+      <tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">0</tspan>
+      <tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">1</tspan>
+      <tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">0</tspan><tspan x="620" dy="12">1</tspan><tspan x="620" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,750" dur="3.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="635" y="-280" opacity="0.7">
+      0<tspan x="635" dy="12">1</tspan><tspan x="635" dy="12">0</tspan><tspan x="635" dy="12">1</tspan><tspan x="635" dy="12">1</tspan>
+      <tspan x="635" dy="12">0</tspan><tspan x="635" dy="12">1</tspan><tspan x="635" dy="12">0</tspan><tspan x="635" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,580" dur="4.4s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 6 -->
+    <text x="820" y="-250">
+      0<tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">0</tspan><tspan x="820" dy="12">0</tspan>
+      <tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">0</tspan><tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">1</tspan>
+      <tspan x="820" dy="12">0</tspan><tspan x="820" dy="12">0</tspan><tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">0</tspan>
+      <tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">0</tspan><tspan x="820" dy="12">1</tspan>
+      <tspan x="820" dy="12">0</tspan><tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">1</tspan><tspan x="820" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,550" dur="4.7s" repeatCount="indefinite"/>
+    </text>
+    <text x="835" y="-420" opacity="0.6">
+      1<tspan x="835" dy="12">0</tspan><tspan x="835" dy="12">1</tspan><tspan x="835" dy="12">0</tspan><tspan x="835" dy="12">0</tspan>
+      <tspan x="835" dy="12">1</tspan><tspan x="835" dy="12">1</tspan><tspan x="835" dy="12">0</tspan><tspan x="835" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,720" dur="3.6s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 7 -->
+    <text x="970" y="-380">
+      1<tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">0</tspan><tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">0</tspan>
+      <tspan x="970" dy="12">0</tspan><tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">0</tspan>
+      <tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">0</tspan><tspan x="970" dy="12">0</tspan><tspan x="970" dy="12">1</tspan>
+      <tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">0</tspan><tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">0</tspan>
+      <tspan x="970" dy="12">0</tspan><tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">1</tspan><tspan x="970" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,680" dur="3.3s" repeatCount="indefinite"/>
+    </text>
+    <text x="985" y="-190" opacity="0.7">
+      0<tspan x="985" dy="12">1</tspan><tspan x="985" dy="12">0</tspan><tspan x="985" dy="12">0</tspan><tspan x="985" dy="12">1</tspan>
+      <tspan x="985" dy="12">1</tspan><tspan x="985" dy="12">0</tspan><tspan x="985" dy="12">1</tspan><tspan x="985" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,490" dur="5.3s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 8 -->
+    <text x="1120" y="-150">
+      0<tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">1</tspan><tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">1</tspan>
+      <tspan x="1120" dy="12">1</tspan><tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">1</tspan>
+      <tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">1</tspan><tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">0</tspan>
+      <tspan x="1120" dy="12">1</tspan><tspan x="1120" dy="12">1</tspan><tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">1</tspan>
+      <tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">0</tspan><tspan x="1120" dy="12">1</tspan><tspan x="1120" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,450" dur="5.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1135" y="-330" opacity="0.6">
+      1<tspan x="1135" dy="12">0</tspan><tspan x="1135" dy="12">1</tspan><tspan x="1135" dy="12">1</tspan><tspan x="1135" dy="12">0</tspan>
+      <tspan x="1135" dy="12">0</tspan><tspan x="1135" dy="12">1</tspan><tspan x="1135" dy="12">0</tspan><tspan x="1135" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,630" dur="4.1s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 9 -->
+    <text x="1270" y="-320">
+      1<tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">0</tspan>
+      <tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">1</tspan>
+      <tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">0</tspan>
+      <tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">0</tspan>
+      <tspan x="1270" dy="12">1</tspan><tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">0</tspan><tspan x="1270" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,620" dur="4.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="1285" y="-480" opacity="0.7">
+      0<tspan x="1285" dy="12">1</tspan><tspan x="1285" dy="12">0</tspan><tspan x="1285" dy="12">1</tspan><tspan x="1285" dy="12">1</tspan>
+      <tspan x="1285" dy="12">0</tspan><tspan x="1285" dy="12">1</tspan><tspan x="1285" dy="12">0</tspan><tspan x="1285" dy="12">0</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,780" dur="3.4s" repeatCount="indefinite"/>
+    </text>
+    <!-- Column 10 -->
+    <text x="1420" y="-220">
+      0<tspan x="1420" dy="12">1</tspan><tspan x="1420" dy="12">1</tspan><tspan x="1420" dy="12">0</tspan><tspan x="1420" dy="12">1</tspan>
+      <tspan x="1420" dy="12">0</tspan><tspan x="1420" dy="12">0</tspan><tspan x="1420" dy="12">1</tspan><tspan x="1420" dy="12">1</tspan>
+      <tspan x="1420" dy="12">0</tspan><tspan x="1420" dy="12">1</tspan><tspan x="1420" dy="12">0</tspan><tspan x="1420" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,520" dur="4.9s" repeatCount="indefinite"/>
+    </text>
+    <text x="1435" y="-390" opacity="0.6">
+      1<tspan x="1435" dy="12">0</tspan><tspan x="1435" dy="12">1</tspan><tspan x="1435" dy="12">0</tspan><tspan x="1435" dy="12">0</tspan>
+      <tspan x="1435" dy="12">1</tspan><tspan x="1435" dy="12">1</tspan><tspan x="1435" dy="12">0</tspan><tspan x="1435" dy="12">1</tspan>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,690" dur="3.7s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  
+  <g opacity="0.2">
+    <line x1="0" y1="75" x2="1584" y2="75" stroke="#0048ff" stroke-width="0.5"/>
+    <line x1="0" y1="150" x2="1584" y2="150" stroke="#0048ff" stroke-width="0.5"/>
+    <line x1="0" y1="225" x2="1584" y2="225" stroke="#0048ff" stroke-width="0.5"/>
+  </g>
+  <path d="M0,200 Q396,180 792,200 T1584,200 L1584,300 L0,300 Z" fill="#0048ff" opacity="0.1">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite" values="M0,200 Q396,180 792,200 T1584,200 L1584,300 L0,300 Z;M0,200 Q396,220 792,200 T1584,200 L1584,300 L0,300 Z;M0,200 Q396,180 792,200 T1584,200 L1584,300 L0,300 Z"/>
+  </path>
+  
+  <!-- Scanning Radar Animation (Left side) -->
+  <g transform="translate(200, 150)">
+    <circle cx="0" cy="0" r="50" fill="none" stroke="#0048ff" stroke-width="1" opacity="0.3"/>
+    <circle cx="0" cy="0" r="35" fill="none" stroke="#0048ff" stroke-width="1" opacity="0.3"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#0048ff" stroke-width="1" opacity="0.3"/>
+    <line x1="0" y1="0" x2="0" y2="-50" stroke="#0048ff" stroke-width="2" opacity="0.5">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <path d="M 0,0 L 0,-50 A 50,50 0 0,1 35.35,-35.35 Z" fill="url(#radarGradient)">
+      <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="4s" repeatCount="indefinite"/>
+    </path>
+    <!-- Radar blips -->
+    <circle cx="15" cy="-20" r="2" fill="#0048ff" opacity="0.8">
+      <animate attributeName="opacity" values="0;0.8;0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-25" cy="15" r="2" fill="#0048ff" opacity="0.8">
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- Crosshair/Target Icon (Threat Hunter theme) -->
+  <g transform="translate(150, 150)" filter="url(#glow)">
+    <circle cx="0" cy="0" r="30" fill="none" stroke="#0048ff" stroke-width="2" opacity="0.6">
+      <animate attributeName="r" values="30;32;30" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#0048ff" stroke-width="1.5" opacity="0.5"/>
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#0048ff" stroke-width="1" opacity="0.4"/>
+    <circle cx="0" cy="0" r="3" fill="#0048ff" opacity="0.8">
+      <animate attributeName="opacity" values="0.8;1;0.8" dur="1s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="-35" y1="0" x2="-32" y2="0" stroke="#0048ff" stroke-width="2"/>
+    <line x1="35" y1="0" x2="32" y2="0" stroke="#0048ff" stroke-width="2"/>
+    <line x1="0" y1="-35" x2="0" y2="-32" stroke="#0048ff" stroke-width="2"/>
+    <line x1="0" y1="35" x2="0" y2="32" stroke="#0048ff" stroke-width="2"/>
+    <text x="0" y="50" font-family="Courier New, monospace" font-size="10" fill="#0048ff" text-anchor="middle" opacity="0.7">TARGET</text>
+  </g>
+  
+  <text x="200" y="100" font-family="Courier New, monospace" font-size="60" fill="#0048ff" filter="url(#glow)">[</text>
+  <text x="792" y="100" font-family="Courier New, monospace" font-size="60" font-weight="bold" fill="#0048ff" text-anchor="middle" filter="url(#glow)">DAXXTROPEZZ</text>
+  <text x="1344" y="100" font-family="Courier New, monospace" font-size="60" fill="#0048ff" filter="url(#glow)">]</text>
+  <text x="792" y="150" font-family="Courier New, monospace" font-size="20" fill="#323ccd" text-anchor="middle" opacity="0.9">DevSecOps Engr. | Red Team | Ethical Hacker</text>
+  <text x="792" y="190" font-family="Courier New, monospace" font-size="16" fill="#0048ff" text-anchor="middle" opacity="0.75">root@jpsmiraflores:~$<tspan opacity="0.8">_</tspan>
+    <animate attributeName="opacity" values="0.75;0.75;0.75;0.75" dur="1s" repeatCount="indefinite"/>
+  </text>
+  <text x="792" y="220" font-family="Courier New, monospace" font-size="14" fill="#323ccd" text-anchor="middle" opacity="0.7" font-style="italic">"Breach the System, Stay in the Shadows!"</text>
+  <circle cx="1400" cy="150" r="60" fill="url(#bugShield)" filter="url(#bugGlow)">
+    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <g transform="translate(1370, 120)" filter="url(#bugGlow)">
+    <ellipse cx="30" cy="30" rx="20" ry="28" fill="#0048ff">
+      <animate attributeName="ry" values="28;30;28" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    <circle cx="30" cy="12" r="10" fill="#000080">
+      <animate attributeName="r" values="10;11;10" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <line x1="25" y1="8" x2="20" y2="2" stroke="#0048ff" stroke-width="2"/>
+    <line x1="35" y1="8" x2="40" y2="2" stroke="#0048ff" stroke-width="2"/>
+    <line x1="15" y1="20" x2="5" y2="15" stroke="#0048ff" stroke-width="2"/>
+    <line x1="15" y1="30" x2="5" y2="30" stroke="#0048ff" stroke-width="2"/>
+    <line x1="15" y1="40" x2="5" y2="45" stroke="#0048ff" stroke-width="2"/>
+    <line x1="45" y1="20" x2="55" y2="15" stroke="#0048ff" stroke-width="2"/>
+    <line x1="45" y1="30" x2="55" y2="30" stroke="#0048ff" stroke-width="2"/>
+    <line x1="45" y1="40" x2="55" y2="45" stroke="#0048ff" stroke-width="2"/>
+    <path d="M 20 25 Q 15 30 20 35" fill="none" stroke="#323ccd" stroke-width="1.5" opacity="0.8"/>
+    <path d="M 40 25 Q 45 30 40 35" fill="none" stroke="#323ccd" stroke-width="1.5" opacity="0.8"/>
+  </g>
+</svg>
