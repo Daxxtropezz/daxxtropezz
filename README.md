@@ -196,9 +196,7 @@ mindmap
   <i>For professional inquiries, collaboration opportunities, or technical discussions</i>
 </p>
 
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <p align="center">
   
@@ -209,8 +207,8 @@ mindmap
 🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization<br>
 📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage<br>
 ⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation<br>
-🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br>
-
+<!-- 🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br> -->
+<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 <!-- ⦿ &#8287; 🟣 Purple Teamer — Bridging offensive (ethical hacking, dorking, Shodan, honeypot evasion) and defensive tactics (threat management, secure coding, incident response)<br> -->
 </p>
 
@@ -338,9 +336,7 @@ To maintain high security standards across development, and integrates **automat
 - Builds trust by ensuring continuous security validation  
 -->
 
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <!-- ============================== -->
 <!--     GITHUB ACTIVITY STATS     -->
@@ -348,9 +344,7 @@ To maintain high security standards across development, and integrates **automat
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> GitHub Statistics
 
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <table align="center" width="100%">
   <!-- <tr>
@@ -392,9 +386,7 @@ To maintain high security standards across development, and integrates **automat
 <img src="https://github-profile-trophy.github.io?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  />
 </p>
 -->
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <!-- ============================== -->
 <!--      SKILLS & TECHNOLOGIES    -->
@@ -427,9 +419,7 @@ To maintain high security standards across development, and integrates **automat
 <!--             QUOTES            -->
 <!-- ============================== -->
 
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA2M2cxNm40cjVxOG10djV3ZDNlMDdxOXZ6NHBtcTZ5OXplNzJyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35"> Extras
 
@@ -455,9 +445,7 @@ To maintain high security standards across development, and integrates **automat
   </table>  
 </div>
 
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <!-- ============================== -->
 <!--         FUN FACTS & FOOTER    -->
@@ -466,9 +454,7 @@ To maintain high security standards across development, and integrates **automat
 - 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, Red Teaming, & Ethical Hacking 🧑🏻‍💻**<br>
 <!-- - ☑️ Fun fact: I think I'm funny 🐦‍⬛<br> -->
 
-<p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-</p>
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <div align="center">
   <h3 align="center">Support My Work</h3>
@@ -493,3 +479,5 @@ To maintain high security standards across development, and integrates **automat
     <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/footer.svg" alt="Footer" width="100%" />
   </picture>
 </div>
+
+<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
