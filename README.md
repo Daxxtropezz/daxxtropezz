@@ -4,11 +4,6 @@
 <p align="center">
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 </p>
-<!-- KAPAG INGGIT, PIKIT -->
-
-<!-- <p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/header.svg" alt="Header" />
-</p> -->
 
 <!-- ============================== -->
 <!--         PROFILE COVER         -->
@@ -16,8 +11,6 @@
 <p align="center">
   <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/banner.svg" alt="Banner" />
-    <!-- <img src="https://github.com/user-attachments/assets/0458cc5d-3c6d-471a-91d4-8c44a886cb1e" alt="daxxtropezz" /> -->
-    <!-- <img src="https://github.com/user-attachments/assets/d51b8e4f-f936-45b2-8151-08d748ab4a78" alt="daxxtropezz" /> -->
   </a><br/> 
   <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
 </p>
@@ -29,8 +22,7 @@
 <p align="center">
   <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <!-- 2067EDFF, FF0000 -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶+Stay+in+the+shadows...;▶+Breach+the+system...;▶+Securing+the+pipeline...;▶+Scanning+before+deploy...;▶+Automating+security+checks...;▶+Monitoring+and+responding...;▶+Hardening+the+infrastructure...;▶+Shifting+security+left..." alt="Typing SVG" />
-    <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Old%20English%20Text%20MT&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=Hallo,+I'm+Daxxtropezz+%F0%9F%98%8E;I'm+a+Developer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80+Welcome+to+my+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%9A%80;You+can+call+me+Hale%2FPaul%2FJP+%F0%9F%A4%97" alt="Typing SVG" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶ Building secure cloud infrastructure...;▶ Automating deployments across clouds...;▶ Securing CI/CD pipelines...;▶ Hardening multi-cloud environments...;▶ Monitoring systems and reducing risk...;▶+Monitoring+and+responding...;▶ Shifting security left in DevOps..." alt="Typing SVG" />
   </a>
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 </p>
@@ -202,15 +194,28 @@ mindmap
   
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> whoami
 
-🔴 Red Teamer — Offensive security specialist (CRTA, CEH) with expertise in ethical hacking, adversary emulation, OWASP Top 10 exploitation, and evasion techniques<br>
-🔐 Cybersecurity — Penetration Testing, Vulnerability Management, Risk Assessment, Social Engineering, InfoSec Analysis
-🤖 AI & ML — Python, Deep Learning, NLP, Computer Vision, Generative AI, Data Analysis & Visualization<br>
-📦 DevSecOps & Cloud — CI/CD with Docker, Kubernetes, Nginx, AWS, Linode, Cloud Security & Storage<br>
-⚙️ Automation — Python & Bash scripting, Linux, Debugging, Code Review, Data Validation<br>
-<!-- 🧠 Fullstack Developer — Vue.js, React, TypeScript, JavaScript, Laravel, shadcn, TailwindCSS, Inertia.js, RESTful APIs, SQL/NoSQL<br> -->
+🔐 DevSecOps Engineer — Specializing in secure cloud infrastructure, CI/CD security, and automation across multi-cloud environments<br>
+☁️ Multi-Cloud — AWS, Azure, GCP - Designing secure, scalable infrastructure using Infrastructure as Code and cloud-native services<br>
+🛡️ Cloud Security — IAM, Secrets Management, Network Security, Vulnerability Management, Compliance Hardening<br>
+⚙️ DevSecOps — CI/CD Pipelines, Docker, Kubernetes, Terraform, GitOps, Secure Deployment Automation<br>
+🔍 Security Engineering — Threat Modeling, Security Testing, Incident Response Support, Risk Reduction<br>
+📊 Observability — Logging, Monitoring, Metrics, and Reliability Engineering<br>
+🤖 Automation — Python & Bash scripting for infrastructure, security checks, and deployment workflows<br>
 <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
-<!-- ⦿ &#8287; 🟣 Purple Teamer — Bridging offensive (ethical hacking, dorking, Shodan, honeypot evasion) and defensive tactics (threat management, secure coding, incident response)<br> -->
 </p>
+
+## 🚀 DevSecOps Focus Areas
+
+• Secure CI/CD Pipeline Design  
+• Infrastructure as Code (Terraform)  
+• Multi-Cloud Architecture  
+• Identity and Access Management (IAM)  
+• Container and Kubernetes Security  
+• Cloud Network Hardening  
+• Secrets and Key Management  
+• Vulnerability Detection and Remediation  
+• Monitoring, Logging, and Incident Response  
+• Automation of Security Controls  
 
 <!-- ============================== -->
 <!--        BADGE SHOWCASE         -->
@@ -347,27 +352,12 @@ To maintain high security standards across development, and integrates **automat
 <p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <table align="center" width="100%">
-  <!-- <tr>
-    <td colspan="1" align="center"> -->
-      <!-- 2650C0, FF0000 -->
-      <!-- <img src="https://github-readme-activity-graph.github.io/graph?username=daxxtropezz&radius=8&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=0D1117&color=a8cbff&line=2650C0&point=ffffff&area_color=000" height="300" alt="activity-graph graph"/>
-    </td>
-    <td colspan="1" align="center"> -->
-      <!-- 2650C0, FF0000 -->
-      <!-- <img src="https://github-profile-summary-cards.github.io/api/cards/profile-details?username=daxxtropezz&theme=github_dark" height="300" alt="activity-graph graph"/>
-    </td>
-  </tr> -->
   <tr>
     <td colspan="2" align="center">
       <img src="https://repobeats.axiom.co/api/embed/7318c4aa8418d534269ac626a70f17412b67b3bf.svg" alt="daxxtropezz" />
     </td>
   </tr>
   <tr>
-    <!-- <td align="center"> -->
-      <!-- 2650C0, FF0000 -->
-      <!-- <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&theme=github-dark-blue&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/> -->
-      <!-- <img src="https://github-readme-stats.github.io/api?username=daxxtropezz&bg_color=0d1117&title_color=a8cbff&icon_color=ffffff&text_color=2650C0&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&locale=en&hide_border=true&order=1&hide=issues&rank_icon=github" alt="stats graph"/>
-    </td> -->
     <td align="center">
       <!-- 2650C0, FF0000 -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat&hide_border=true&stroke=2650C0" alt="streak graph"/>
@@ -395,23 +385,18 @@ To maintain high security standards across development, and integrates **automat
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-    <!-- <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=6" alt="Top Languages"/> -->
-<!--     <img src="https://github-readme-stats.github.io/api/top-langs?username=daxxtropezz&hide_title=true&layout=compact&hide_border=true&bg_color=00000000&hide_progress=true&langs_count=10&exclude_repo=NyansLostInSpace,enrollment-system,online_shopping_system,daxxtropezz,skill-icons,FourcadeGames,clever-gang.github.io,employee-system" alt="Top Languages"/> -->
- 
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
- 
 </p>
 
 <div align="center">
 
-|                                                          Backend                                                          |                                                       Databases                                                        |                                                    DevOps & Cloud                                                     |                                                   Cybersecurity                                                   |                                                        Machine Learning                                                         |
-| :-----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
-|      <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/NodeJSIcon.svg" width="48" height="48"/><br/>Node JS       |    <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/MongoDBIcon.svg" width="48" height="48"/><br/>MongoDB     |     <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/DockerIcon.svg" width="48" height="48"/><br/>Docker      | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KaliLinuxIcon.svg" width="48" height="48"/><br/>Kali Linux |   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/TensorFlowIcon.svg" width="48" height="48"/><br/>TensorFlow     |
-|       <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/LaravelIcon.svg" width="48" height="48"/><br/>Laravel        |         <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/MySQLIcon.svg" width="48" height="48"/><br/>MySQL         | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KubernetesIcon.svg" width="48" height="48"/><br/>Kubernetes | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=white) |         ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)         |
-| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/PostgreSQLIcon.svg" width="48" height="48"/><br/>Postgre SQL |     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)      |          ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)          | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-|       ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)        |       <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/RedisIcon.svg" width="48" height="48"/><br/>Redis        |      ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)       | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) |            <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KerasIcon.svg" width="48" height="48"/><br/>Keras            |
-|       <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/SpringbootIcon.svg" width="48" height="48"/><br/>Springboot        |       <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/GraphQLIcon.svg" width="48" height="48"/><br/>Graph QL        |  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)   |  ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)   |          ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)           |
-|                 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)                  |      ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)       | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |        ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)         |            ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)            |
+|                     Cloud Platforms                     |                 DevSecOps & Automation                 |            Containers & Orchestration             |                Security & Compliance                 |              Observability & Reliability              |
+| :-----------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------: |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white) | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/DockerIcon.svg" width="48" height="48"/><br/>Docker | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KaliLinuxIcon.svg" width="48" height="48"/><br/>Kali Linux | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+| ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KubernetesIcon.svg" width="48" height="48"/><br/>Kubernetes | ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) |
+| ![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | ![Container Security](https://img.shields.io/badge/Container_Security-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white) |
+| Multi-Cloud Networking | Python / Bash Automation | Linux Containers | Vulnerability Scanning | Incident Monitoring |
 
 </div>
 
@@ -425,22 +410,12 @@ To maintain high security standards across development, and integrates **automat
 
 <div align="center">
   <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a><br/>
-  <!-- <img align="center" src="https://komarev.com/ghpvc/?username=daxxtropezz&label=Guests&color=150458&style=flat-square&base=23&abbreviated=true" alt="Visitor Graph"><br/> -->
-  <!-- <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=daxxtropezz" /> -->
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/latest-contribution.svg">
   <table align="center" height="100%"> 
     <tr>
-      <!-- <td align="center"> -->
-        <!-- algolia -->
-        <!-- <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=algolia&quote=Programming%20isn't%20about%20what%20you%20know;%20it's%20about%20what%20you%20can%20figure%20out.&author=Chris%20Pine">
-      </td> -->
       <td align="center">
         <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64e3699cced78d2935368ccb?variant=dark" alt="roadmap.sh"/></a>
-        <!-- <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=Why%20did%20the%20developer%20go%20broke?%20Because%20he%20used%20up%20all%20his%20cache"> -->
       </td>
-      <!-- <td align="center">
-        <img src="https://quotes-github-readme.github.io/api?type=vertical&backgroundColor=FFFFFF00&theme=dark&quoteColor=2650C0&quote=It's%20funny%20how%20sometimes%20the%20people%20you'd%20take%20a%20bullet%20for,%20are%20the%20ones%20behind%20the%20trigger">
-      </td> -->
     </tr>
   </table>  
 </div>
@@ -452,7 +427,6 @@ To maintain high security standards across development, and integrates **automat
 <!-- ============================== -->
 
 - 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, Red Teaming, & Ethical Hacking 🧑🏻‍💻**<br>
-<!-- - ☑️ Fun fact: I think I'm funny 🐦‍⬛<br> -->
 
 <p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
