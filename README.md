@@ -22,7 +22,7 @@
 <p align="center">
   <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <!-- 2067EDFF, FF0000 -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶ Building secure cloud infrastructure...;▶ Automating deployments across clouds...;▶ Securing CI/CD pipelines...;▶ Hardening multi-cloud environments...;▶ Monitoring systems and reducing risk...;▶+Monitoring+and+responding...;▶ Shifting security left in DevOps..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶+Building+secure+cloud+infra...;▶+Automating+deployments...;▶+Securing+CI/CD+pipelines...;▶+Hardening+multi-cloud+environments...;▶+Monitoring+and+responding...;▶+Shifting+security+left..." alt="Typing SVG" />
   </a>
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 </p>
