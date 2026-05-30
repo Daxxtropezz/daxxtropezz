@@ -167,7 +167,7 @@ mindmap
         Security Automation offensive tooling
 ``` -->
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="35"> Professional Connectivity Channels
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJkbnM5Zjd2aHo3dXlzNmZzeG92NmI4eGk2dGp6Z3FiNWZtbHdudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TEdRZnV7l3S067fiGR/giphy.gif" width="35"> Professional Connectivity Channels
 
 <p align="center">
   <a href="https://stackoverflow.com/users/21004406" target="_blank" rel="noopener noreferrer">
@@ -192,7 +192,7 @@ mindmap
 
 <p align="center">
   
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> whoami
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MXY4aTVvZ3NrZzNsdmZpcHFycnFldG56ZGMwODQya2o0YndyNnZwMyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/sLoRDJqV5XoOScXOuH/giphy.gif" width="30"> whoami
 
 🔐 DevSecOps Engineer — Specializing in secure cloud infrastructure, CI/CD security, and automation across multi-cloud environments<br>
 ☁️ Multi-Cloud — AWS, Azure, GCP - Designing secure, scalable infrastructure using Infrastructure as Code and cloud-native services<br>
@@ -204,24 +204,11 @@ mindmap
 <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
-## 🚀 DevSecOps Focus Areas
-
-• Secure CI/CD Pipeline Design  
-• Infrastructure as Code (Terraform)  
-• Multi-Cloud Architecture  
-• Identity and Access Management (IAM)  
-• Container and Kubernetes Security  
-• Cloud Network Hardening  
-• Secrets and Key Management  
-• Vulnerability Detection and Remediation  
-• Monitoring, Logging, and Incident Response  
-• Automation of Security Controls  
-
 <!-- ============================== -->
 <!--        BADGE SHOWCASE         -->
 <!-- ============================== -->
 
-# 🏅 Badge Showcase
+# <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGFncXhoczFwMGlvczVpeTM0dTl0bmZ1ZWZ0cXU5ODA4MGNzOHh1MCZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/JsuDZYFxxYPbG7wvq2/giphy.gif" alt="🏅" width="50"/> Badge Showcase
 
 > Click the icon badges to view more information about the badge
 
@@ -347,7 +334,7 @@ To maintain high security standards across development, and integrates **automat
 <!--     GITHUB ACTIVITY STATS     -->
 <!-- ============================== -->
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx0NDVzamx6aXAxd3U2ZnVpb3h4Mm8yeTE3ZGRieTZuc3Jnd3NvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/uhWLu2lsU0rfLiwYlI/giphy.gif" width="40"> GitHub Statistics
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY0aG1mZzRsbGEwMXlxMHc4NDVvNWNjdXlsYmdwYzJrNmNrdXhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif" width="40"> GitHub Statistics
 
 <p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
@@ -382,7 +369,7 @@ To maintain high security standards across development, and integrates **automat
 <!--      SKILLS & TECHNOLOGIES    -->
 <!-- ============================== -->
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODRpMzIwYXpkbXRweXZhbHVvY3YwZ2NoYmJ2M2N4MzZ3NXpuNmxxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Tech Stack
+## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzEzeDFvZnM2Y2hpZWFiMXVvZ3kyaG85ZzZ6aTRvYnZxc25sdmszOSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
   <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
@@ -406,7 +393,7 @@ To maintain high security standards across development, and integrates **automat
 
 <p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA2M2cxNm40cjVxOG10djV3ZDNlMDdxOXZ6NHBtcTZ5OXplNzJyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hS42TuYYnANLFR9IRQ/giphy.gif" width="35"> Extras
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUxcjhqcnZsdGd2cWY5c3FwankwYTBjbnV1bm81a3BkNTE0ajRhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"> Extras
 
 <div align="center">
   <a href="https://tryhackme.com/p/daxxtropezz"><img src="https://tryhackme-badges.s3.amazonaws.com/daxxtropezz.png" alt="TryHackMe" /></a><br/>
