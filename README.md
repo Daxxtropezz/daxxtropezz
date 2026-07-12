@@ -2,21 +2,32 @@
 <!--         MAIN SECTION          -->
 <!-- ============================== -->
 <p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <!-- ============================== -->
 <!--         PROFILE COVER         -->
 <!-- ============================== -->
+<a href="https://github.com/Daxxtropezz/daxxtropezz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/dark_mode.svg">
+    <img alt="Daxxtropezz's GitHub Profile README" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/light_mode.svg">
+  </picture>
+</a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
+</p>
+
 <p align="center">
   <a href="https://jpsmiraflores.me/?utm_source=github.com">
-    <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/banner.svg" alt="Banner" />
+    <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/banner.svg" alt="Banner" />
   </a><br/> 
   <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
 </p>
 
 <p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <p align="center">
@@ -24,7 +35,7 @@
     <!-- 2067EDFF, FF0000 -->
     <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶+Building+secure+cloud+infra...;▶+Automating+deployments...;▶+Securing+CI/CD+pipelines...;▶+Hardening+multi-cloud+environments...;▶+Monitoring+and+responding...;▶+Shifting+security+left..." alt="Typing SVG" />
   </a>
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <!-- ============================== -->
@@ -188,7 +199,7 @@ mindmap
   <i>For professional inquiries, collaboration opportunities, or technical discussions</i>
 </p>
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <p align="center">
   
@@ -201,7 +212,7 @@ mindmap
 🔍 Security Engineering — Threat Modeling, Security Testing, Incident Response Support, Risk Reduction<br>
 📊 Observability — Logging, Monitoring, Metrics, and Reliability Engineering<br>
 🤖 Automation — Python & Bash scripting for infrastructure, security checks, and deployment workflows<br>
-<img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+<img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <!-- ============================== -->
@@ -328,7 +339,7 @@ To maintain high security standards across development, and integrates **automat
 - Builds trust by ensuring continuous security validation  
 -->
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <!-- ============================== -->
 <!--     GITHUB ACTIVITY STATS     -->
@@ -336,7 +347,7 @@ To maintain high security standards across development, and integrates **automat
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDY0aG1mZzRsbGEwMXlxMHc4NDVvNWNjdXlsYmdwYzJrNmNrdXhoayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif" width="40"> GitHub Statistics
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <table align="center" width="100%">
   <tr>
@@ -363,7 +374,7 @@ To maintain high security standards across development, and integrates **automat
 <img src="https://github-profile-trophy.github.io?username=daxxtropezz&theme=algolia&column=5&row=1&margin-w=5&margin-h=5&no-bg=true&no-frame=true&order=4" alt="trophy graph"  />
 </p>
 -->
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <!-- ============================== -->
 <!--      SKILLS & TECHNOLOGIES    -->
@@ -372,15 +383,15 @@ To maintain high security standards across development, and integrates **automat
 ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzEzeDFvZnM2Y2hpZWFiMXVvZ3kyaG85ZzZ6aTRvYnZxc25sdmszOSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/kH1DBkPNyZPOk0BxrM/giphy.gif" width="30"> Tech Stack
 
 <p align="center">
-  <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" />
+  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
 <div align="center">
 
 |                     Cloud Platforms                     |                 DevSecOps & Automation                 |            Containers & Orchestration             |                Security & Compliance                 |              Observability & Reliability              |
 | :-----------------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------: |
-| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white) | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/DockerIcon.svg" width="48" height="48"/><br/>Docker | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KaliLinuxIcon.svg" width="48" height="48"/><br/>Kali Linux | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
-| ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/icons/KubernetesIcon.svg" width="48" height="48"/><br/>Kubernetes | ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+| ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-5835CC?style=for-the-badge&logo=terraform&logoColor=white) | <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/icons/DockerIcon.svg" width="48" height="48"/><br/>Docker | <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/icons/KaliLinuxIcon.svg" width="48" height="48"/><br/>Kali Linux | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
+| ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) | <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/icons/KubernetesIcon.svg" width="48" height="48"/><br/>Kubernetes | ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
 | ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) | ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white) |
 | | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | ![Container Security](https://img.shields.io/badge/Container_Security-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) | ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white) |
 |  | Python / Bash Automation |  | Vulnerability Scanning | Incident Monitoring |
@@ -391,7 +402,7 @@ To maintain high security standards across development, and integrates **automat
 <!--             QUOTES            -->
 <!-- ============================== -->
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWUxcjhqcnZsdGd2cWY5c3FwankwYTBjbnV1bm81a3BkNTE0ajRhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="35"> Extras
 
@@ -407,7 +418,7 @@ To maintain high security standards across development, and integrates **automat
   </table>  
 </div>
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <!-- ============================== -->
 <!--         FUN FACTS & FOOTER    -->
@@ -415,7 +426,7 @@ To maintain high security standards across development, and integrates **automat
 
 - 🏢 I'm currently working on **Artificial Intelligence, Machine Learning, Oracle, Red Teaming, & Ethical Hacking 🧑🏻‍💻**<br>
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
 
 <div align="center">
   <h3 align="center">Support My Work</h3>
@@ -437,8 +448,8 @@ To maintain high security standards across development, and integrates **automat
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/f0fc405636a24dcd824a74946e5aabb469613875/assets/images/footer.svg">
-    <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/footer.svg" alt="Footer" width="100%" />
+    <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/footer.svg" alt="Footer" width="100%" />
   </picture>
 </div>
 
-<p align="center"> <img src="https://github.com/Daxxtropezz/daxxtropezz/blob/main/assets/images/divider.svg" alt="Divider" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" /> </p>
