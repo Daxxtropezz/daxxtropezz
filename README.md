@@ -8,22 +8,16 @@
 <!-- ============================== -->
 <!--         PROFILE COVER         -->
 <!-- ============================== -->
-<a href="https://github.com/Daxxtropezz/daxxtropezz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/dark_mode.svg">
-    <img alt="Daxxtropezz's GitHub Profile README" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/light_mode.svg">
-  </picture>
-</a>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
-</p>
 
 <p align="center">
   <a href="https://jpsmiraflores.me/?utm_source=github.com">
     <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/banner.svg" alt="Banner" />
   </a><br/> 
-  <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
+
+  <a href="https://jpsmiraflores.me/?utm_source=github.com">
+    <!-- 2067EDFF, FF0000 -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶+Building+secure+cloud+infra...;▶+Automating+deployments...;▶+Securing+CI/CD+pipelines...;▶+Hardening+multi-cloud+environments...;▶+Monitoring+and+responding...;▶+Shifting+security+left..." alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -31,10 +25,16 @@
 </p>
 
 <p align="center">
-  <a href="https://jpsmiraflores.me/?utm_source=github.com">
-    <!-- 2067EDFF, FF0000 -->
-    <img src="https://readme-typing-svg.herokuapp.com?font=Share%20Tech%20Mono&weight=500&size=23&pause=1000&color=2067EDFF&background=0000000000&center=true&random=true&lines=▶+Building+secure+cloud+infra...;▶+Automating+deployments...;▶+Securing+CI/CD+pipelines...;▶+Hardening+multi-cloud+environments...;▶+Monitoring+and+responding...;▶+Shifting+security+left..." alt="Typing SVG" />
+  <a href="https://github.com/Daxxtropezz/daxxtropezz">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/dark_mode.svg">
+      <img alt="Daxxtropezz's GitHub Profile README" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/light_mode.svg">
+    </picture>
+    <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
   </a>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/divider.svg" alt="Divider" />
 </p>
 
