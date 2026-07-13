@@ -27,8 +27,8 @@
 <p align="center">
   <a href="https://github.com/Daxxtropezz/daxxtropezz">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/dark_mode.svg">
-      <img alt="Daxxtropezz's GitHub Profile README" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/light_mode.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/dark_mode_anim.svg">
+      <img alt="Daxxtropezz's GitHub Profile README" src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/main/assets/images/light_mode_anim.svg">
     </picture>
     <a href="https://u8views.com/github/Daxxtropezz"><img src="https://u8views.com/api/v1/github/profiles/109214126/views/day-week-month-total-count.svg"></a>
   </a>
