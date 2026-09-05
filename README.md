@@ -359,6 +359,8 @@ To maintain high security standards across development, and integrates **automat
     <td align="center">
       <!-- 2650C0, FF0000 -->
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=daxxtropezz&theme=github-dark-blue&mode=daily&exclude_days=Sun%2CSat&hide_border=true&stroke=2650C0" alt="streak graph"/>
+      <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=daxxtropezz&langs_count=2&theme=github_dark&hide_border=true" alt="top langs"/>
+      <img src="https://github-stats-extended.vercel.app/api/?username=daxxtropezz&show_icons=true&theme=github_dark&rank_icon=github&include_all_commits=true%27s+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&hide_border=true" alt="stats"/>
     </td>
   </tr>
 </table>
