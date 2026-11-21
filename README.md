@@ -227,10 +227,10 @@ mindmap
     <tr>
         <td align="center" colspan="4">
          <p>
-              <a href="https://www.credly.com/users/daxxtropezz" target="_blank">
-                <img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="C|EH Badge" width="50"/>
-              </a>
               <a href="https://www.credential.net/group/245161" target="_blank">
+                <img src="https://github.com/user-attachments/assets/febb3f4e-d5ee-43b9-bbf1-64f03286bb03" alt="CRTA Cert" width="50"/>
+              </a>
+              <a href="https://labs.cyberwarfare.live/credential/achievement/6b012dc81b3a595f2a4e2404" target="_blank">
                   <img src="https://raw.githubusercontent.com/Daxxtropezz/daxxtropezz/refs/heads/main/assets/images/17043567286076012013649409456004.png" alt="C|EH Badge" width="50"/>
                   <br/>
                   <sub>Certified | Ethical Hacker</sub>
@@ -258,9 +258,9 @@ mindmap
       </a>
     </td>
     <td align="center">
-      <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=E9B5F0FC2ACA357D1380D96F36D0A50CD4FEEBB47AB7B80BF0B37AFCB85350BE" target="_blank">
-        <img src="https://images.credly.com/size/80x80/images/19c13f68-87b8-4a14-9339-c1ee8ede8289/OCIF2023CA_cached_image_20250612-27-gaqg0p.png" alt="Oracle OCI 2023 Certified Foundations Associate" width="80"/><br/>
-        <sub>OCI 2023 Certified Foundations Associate</sub>
+      <a href="https://www.credly.com/earner/earned/badge/b9438568-cfb2-411d-9942-c53a56d0e4d0" target="_blank">
+        <img src="https://images.credly.com/size/340x340/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/blob" alt="Google Cybersecurity Professional Certificate(v.2)" width="80"/><br/>
+        <sub>Google Cybersecurity Professional Certificate(v.2)</sub>
       </a>
     </td>
   </tr>
